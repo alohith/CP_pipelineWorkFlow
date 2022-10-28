@@ -308,13 +308,12 @@ def getCpMByFeatureMap(dataFileName, numBins:int, well2compound:dict, well2molar
 
 # @numba.jit()
 def readPlateMapFile(plateMapFile):
-    # WellHeadingCol = "384_well"
-    WellHeadingCol =  "Well"
-    # CompoundHeadingCol = "Molecule_Name"
-    CompoundHeadingCol = "MoleculeID"
-    # ConcentrationHeadingCol = "Molarity_(mM)"
-    ConcentrationHeadingCol = 'Concentration'
-    UnitHeadingCol = "Units"
+    WellHeadingCol = "384_well"
+    # WellHeadingCol =  "Well"
+    CompoundHeadingCol = "Molecule_Name"
+    # CompoundHeadingCol = "MoleculeID"
+    ConcentrationHeadingCol = "Molarity_(mM)"
+    # ConcentrationHeadingCol = 'Concentration'
     well2compound = dict()
     well2molarity = dict()
     with open(plateMapFile,'r',encoding='raw_unicode_escape') as pmap:
@@ -323,7 +322,6 @@ def readPlateMapFile(plateMapFile):
         wellIdx = headings2ColMap[WellHeadingCol]
         compoundIdx = headings2ColMap[CompoundHeadingCol]
         molarityIdx = headings2ColMap[ConcentrationHeadingCol]
-        unitIdx = headings2ColMap[UnitHeadingCol]
 
         print(f'wellIdx={wellIdx}, compoundIdx ={compoundIdx},molarityIdx={molarityIdx}',file=sys.stderr)
         for line in pmap:
@@ -331,10 +329,9 @@ def readPlateMapFile(plateMapFile):
             well = fields[wellIdx]
             compound = fields[compoundIdx]
             molarity = fields[molarityIdx]
-            unit = fields[unitIdx]
 
             well2compound[well] = compound
-            well2molarity[well] = f"{molarity}{unit}"
+            well2molarity[well] = molarity
 
     return (well2compound,well2molarity)
 
@@ -392,9 +389,7 @@ def main():
     # # CpMHists_smNorm = CpMHists.applymap(exponentialSmoothing,alpha=0.25).applymap(normalize)
     # CpMHists_smNorm = {feat:CpMHists[feat].apply(exponentialSmoothing,alpha=.25,axis=0).apply(normalize,axis=0) for feat in CpMHists}
     try:
-        pmapName = f"{os.path.basename(plateMapFile).replace('.csv','')}"
-        saveFile = os.path.join(os.path.split(datafile)[0],f"{pmapName}_{os.path.basename(datafile)}")
-        with open(f"{saveFile.split('.')[0]}.histdiffemVecpy.csv",'w', newline='\n',encoding='raw_unicode_escape') as outfile:
+        with open(f"{os.path.basename(plateMapFile).replace('.csv','')}_{datafile.split('.')[0]}.histdiffemVecpy.csv",'w', newline='\n',encoding='raw_unicode_escape') as outfile:
             outCSV = csv.writer(outfile,delimiter=',')
             headline = ['Features'] +CpMSet
             print(",".join(headline),file=sys.stdout)
@@ -445,11 +440,11 @@ def main():
     #     for key in my_shelf:
     #         globals()[key]=my_shelf[key]
 
-    scoredDF = pd.read_csv(f"{saveFile.split('.')[0]}.histdiffemVecpy.csv",index_col=0,encoding="raw_unicode_escape").T
+    scoredDF = pd.read_csv(f"{datafile.split('.')[0]}.histdiffemVecpy.csv",index_col=0).T
     # scoredDF.rename(columns={ x:f"{str(x).replace('W1','DAPI').replace('W2','EdU').replace('W3','PH3')}_EdU" for x in scoredDF.columns},inplace=True)
     #
     # # .rename(columns={ x:f"{str(x).replace('W1','DAPI').replace('W2','Tubulin').replace('W3','Actin')}_cyto" for x in scoredDF.columns},inplace=True)
-    scoredDF.to_csv(f"{saveFile.split('.')[0]}.histdiffemVecpy.csv")
+    scoredDF.to_csv(f"{datafile.split('.')[0]}.histdiffemVecpy.csv")
 
 if __name__ == "__main__":
     # if program is launched alone, this is true and is exececuted. if not, nothing is\
