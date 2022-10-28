@@ -1,0 +1,321 @@
+Plate Map,Well,MoleculeID,Concentration,Unit
+SP0127,A03,C16 Ceramide,1,m
+SP0127,A04,C-PAF,1,m
+SP0127,A05,C8 Ceramine,1,m
+SP0127,A06,D12-Prostaglandin J2,1,m
+SP0127,A07,(R)-(+)-Methandamide,1,m
+SP0127,A08,Dihomo-gamma-linolenic acid,1,m
+SP0127,A09,"1_,25-Dihydroxyvitamin D3",1,m
+SP0127,A10,Dihydrosphingosine,1,m
+SP0127,A11,"1,2-Didecanoyl-glycerol (10:0)",1,m
+SP0127,A12,Diidolylmethane,1,m
+SP0127,A13,"1,2-Dioctanoyl-SN-glycerol",1,m
+SP0127,A14,DL-Dihydrosphingosine,1,m
+SP0127,A15,"1,2-Dioleoyl-glycerol (18:1)",1,m
+SP0127,A16,DL-PDMP,1,m
+SP0127,A17,(±)11(12)-Epoxyeicosatrienoic acid,0.1,m
+SP0127,A18,DL-PPMP,1,m
+SP0127,A19,12(R)-HETE,0.1,m
+SP0127,A20,Docosahexaenoic acid(22:6 n-3),1,m
+SP0127,A21,12(S)-HETE,0.1,m
+SP0127,A22,Docosapentaenoic acid,1,m
+SP0127,B03,Bepridil·HCl,12.40694789,m
+SP0127,B04,Lycorine,17.40277505,m
+SP0127,B05,Cyclopiazonic acid,14.86394732,m
+SP0127,B06,10-hydroxycamptothecin,13.72301575,m
+SP0127,B07,Dantrolene,15.91074707,m
+SP0127,B08,beta-lapachone,20.63813953,m
+SP0127,B09,Diazoxide,21.67589337,m
+SP0127,B10,Parthenolide,20.135512,m
+SP0127,B11,Dichlorobenzamil·HCl,11.7619107,m
+SP0127,B12,MG-132,10.51257641,m
+SP0127,B13,Diltiazem·HCl,11.08699075,m
+SP0127,B14,QNZ,14.02837772,m
+SP0127,B15,E-4031,12.45261779,m
+SP0127,B16,bezafibrate,13.81906423,m
+SP0127,B17,Fipronil,11.43777393,m
+SP0127,B18,Cycloheximide-N-ethylethanoate,13.60778605,m
+SP0127,B19,Flecainide acetate,10.56218943,m
+SP0127,B20,Ascomycin (FK-520),6.31307153,m
+SP0127,B21,Flufenamic acid,17.77904839,m
+SP0127,B22,U-74389G,8.185558089,m
+SP0127,C03,12(S)-HPETE,0.1,m
+SP0127,C04,Docosatrienoic acid (22:3 n-3),1,m
+SP0127,C05,12-Methoxydodecanoic acid,1,m
+SP0127,C06,"Eicosa-5,8-dienoic acid (20:2 n-12)",1,m
+SP0127,C07,13(S)-HODE,0.1,m
+SP0127,C08,Eicosadienoic acid (20:2 n-6),1,m
+SP0127,C09,13(S)-HPODE,0.1,m
+SP0127,C10,Eicosapentaenoic acid (20:5 n-3),1,m
+SP0127,C11,"13,14-Dihydro-PGE1",1,m
+SP0127,C12,Eicosatrienoic acid (20:3 n-3),1,m
+SP0127,C13,13-cis retinoic acid,1,m
+SP0127,C14,Enantio-PAF C16,1,m
+SP0127,C15,"13-Keto-octadeca-9Z,11E-dienoic acid",0.1,m
+SP0127,C16,Farnesylthioacetic acid,1,m
+SP0127,C17,"(±)14,15-Epoxyeicosa-5Z,8Z,11Z-trienoic acid",0.1,m
+SP0127,C18,Fluprostenol,1,m
+SP0127,C19,15(S)-HETE,0.1,m
+SP0127,C20,Gamma-linolenic acid (18:3 n-6),1,m
+SP0127,C21,15(S)-HPETE,0.1,m
+SP0127,C22,"Leukotoxin A (9,10-EODE)",0.1,m
+SP0127,D03,Flunarizine·2HCl,10.47302463,m
+SP0127,D04,Ebselen,18.2361952,m
+SP0127,D05,Fluspirilene,10.51363966,m
+SP0127,D06,TRIM,23.5658751,m
+SP0127,D07,FPL-64176,14.39234097,m
+SP0127,D08,Zardaverine,18.64167787,m
+SP0127,D09,6-Gingerol,16.98450911,m
+SP0127,D10,Zaprinast,18.43150815,m
+SP0127,D11,Glipizide,11.22246288,m
+SP0127,D12,Vinpocetine,14.26720768,m
+SP0127,D13,Glyburide,10.12137554,m
+SP0127,D14,Trequinsin,12.33077552,m
+SP0127,D15,Grayanotoxin III,13.49599061,m
+SP0127,D16,Siguazodan,17.58604147,m
+SP0127,D17,R(+)-IAA-94,13.9966632,m
+SP0127,D18,Rolipram,18.15918194,m
+SP0127,D19,L-cis-Diltiazem·HCl,11.08699075,m
+SP0127,D20,Ro 20-1724,17.96320274,m
+SP0127,D21,Lidocaine·HCl·H2O,17.31218016,m
+SP0127,D22,MY-5445,15.0694097,m
+SP0127,E03,15-deoxy-Prostaglandin J2,1,m
+SP0127,E04,"Leukotoxin B (12,13-EODE)",0.1,m
+SP0127,E05,15-Ketoicosatetraenoic acid,0.1,m
+SP0127,E06,Leukotriene B4,0.1,m
+SP0127,E07,"16,16-Dimethyl-prostaglandin E2",1,m
+SP0127,E08,Leukotriene C4,0.1,m
+SP0127,E09,17-Octadecynoic acid,1,m
+SP0127,E10,Leukotriene D4,0.1,m
+SP0127,E11,17-Phenyl-trinor-prostaglandin E2,1,m
+SP0127,E12,Leukotriene E4,0.1,m
+SP0127,E13,1-Acyl-PAF,1,m
+SP0127,E14,Linoleamide,1,m
+SP0127,E15,1-Hexadecyl-2-arachidonoyl-glycerol,1,m
+SP0127,E16,Linoleic acid,1,m
+SP0127,E17,1-Hexadecyl-2-methylglycero-3 PC,1,m
+SP0127,E18,Linolenic acid (18:3 n-3),1,m
+SP0127,E19,1-Hexadecyl-2-O-acetyl-glycerol,1,m
+SP0127,E20,Lipoxin A4,0.1,m
+SP0127,E21,1-Hexadecyl-2-O-methyl-glycerol,1,m
+SP0127,E22,L-NASPA,1,m
+SP0127,F03,Loperamide·HCl,9.737136269,m
+SP0127,F04,A-3,17.55852256,m
+SP0127,F05,Methoxyverapimil·HCl,9.595289864,m
+SP0127,F06,Acetyl (N)-s-farnesyl-l-cysteine,13.6037394,m
+SP0127,F07,Minoxidil,23.89505673,m
+SP0127,F08,Actinomycin D,10.76402396,m
+SP0127,F09,Minoxidil sulfate,17.28238027,m
+SP0127,F10,Arvanil,11.37320019,m
+SP0127,F11,Nicardipine·HCl,9.690185393,m
+SP0127,F12,AG1478,14.19587468,m
+SP0127,F13,Nifedipine,14.43690581,m
+SP0127,F14,AG213 (Tyrphostin 47),22.70168174,m
+SP0127,F15,Niflumic acid,17.71680049,m
+SP0127,F16,AG-370,19.28525006,m
+SP0127,F17,Niguldipine,7.737877841,m
+SP0127,F18,AG-490,16.98919521,m
+SP0127,F19,Nimodipine,11.94913587,m
+SP0127,F20,AG-879,15.7997352,m
+SP0127,F21,Nitrendipine,13.87496767,m
+SP0127,F22,Alamethicin,2.545425926,m
+SP0127,G03,1-Octadecyl-2-methylglycero-3 PC,1,m
+SP0127,G04,LY-171883,1,m
+SP0127,G05,1-Oleoyl 2-acetyl-glycerol,1,m
+SP0127,G06,Lyso-PAF C16,1,m
+SP0127,G07,1-Stearoyl-2-lineoyl-glycerol,1,m
+SP0127,G08,Lysophosphatidic acid·Na,1,m
+SP0127,G09,1-stearoyl-2-arachidonyl-glycerol,1,m
+SP0127,G10,D-erythro-MAPP,1,m
+SP0127,G11,"24,25-Dihydroxyvitamin D3",1,m
+SP0127,G12,L-erythro-MAPP,1,m
+SP0127,G13,25-Dihydroxyvitamin D3,1,m
+SP0127,G14,Mead acid (20:3 n-9),1,m
+SP0127,G15,2-Arachidonoylglycerol,1,m
+SP0127,G16,Mead ethanolamide,1,m
+SP0127,G17,2-Fluoropalmitic acid,1,m
+SP0127,G18,Methoprene acid,1,m
+SP0127,G19,2-Hydroxymyristic acid,1,m
+SP0127,G20,"Misoprostol, free acid",1,m
+SP0127,G21,4-hydroxyphenylretinamide,1,m
+SP0127,G22,"N,N-Dimethylsphingosine",1,m
+SP0127,H03,N-Phenylanthranilic acid,23.4486491,m
+SP0127,H04,AG-1296,18.77619749,m
+SP0127,H05,NPPB,16.64950658,m
+SP0127,H06,Milrinone,23.672068,m
+SP0127,H07,NS-1619,13.80351415,m
+SP0127,H08,PRIMA-1,26.99488123,m
+SP0127,H09,Paxilline,11.47960121,m
+SP0127,H10,Ikarugamycin,10.40282008,m
+SP0127,H11,PCO-400,16.7044633,m
+SP0127,H12,"4-Amino-1,8-naphthalimide",23.56222147,m
+SP0127,H13,Penitrem A,7.88393585,m
+SP0127,H14,3-aminobenzamide (3-ABA),36.72387757,m
+SP0127,H15,Phenamil,16.354674,m
+SP0127,H16,17-Allylamino-geldanamycin,8.536962658,m
+SP0127,H17,Phentolamine,17.77131376,m
+SP0127,H18,Anisomycin,18.84623358,m
+SP0127,H19,Phenytoin,19.82019123,m
+SP0127,H20,Aphidicolin,14.7718517,m
+SP0127,H21,Pimozide,10.8331517,m
+SP0127,H22,Aristolochic acid,14.65108299,m
+SP0127,I03,4-Oxatetradecanoic acid,1,m
+SP0127,I04,N-Acetyl-leukotriene E4,0.1,m
+SP0127,I05,5(S)-HETE,0.1,m
+SP0127,I06,N-arachidonoylglycine,1,m
+SP0127,I07,5(S)-HPETE,0.1,m
+SP0127,I08,N-linoleoylglycine,1,m
+SP0127,I09,"5,6-Epoxyeicosatrienoic acid",0.1,m
+SP0127,I10,PAF C16,1,m
+SP0127,I11,"5,8,11,14-Eicosatetraynoic acid",1,m
+SP0127,I12,PAF C18,1,m
+SP0127,I13,"5,8,11-Eicosatriynoic acid",1,m
+SP0127,I14,PAF C18:1,1,m
+SP0127,I15,5-Ketoeicosatetraenoic acid,0.1,m
+SP0127,I16,Palmitylethanolamide,1,m
+SP0127,I17,"6-Formylindolo [3,2-B] carbazole",1,m
+SP0127,I18,Dipalmitoylphosphatidic acid,1,m
+SP0127,I19,6-Keto-prostaglandin F1a,1,m
+SP0127,I20,Prostaglandin A1,1,m
+SP0127,I21,"7,7-Dimethyleicosadienoic acid",1,m
+SP0127,I22,Prostaglandin A2,1,m
+SP0127,J03,Pinacidil,20.38125169,m
+SP0127,J04,8-methoxymethyl-IBMX,18.77607762,m
+SP0127,J05,Procainamide,21.24718422,m
+SP0127,J06,MBCQ,15.93686452,m
+SP0127,J07,Propafenone,14.64368974,m
+SP0127,J08,B581,10.6226577,m
+SP0127,J09,Quinidine·HCl·H2O,13.19633775,m
+SP0127,J10,BADGE,14.68804502,m
+SP0127,J11,Quinine·HCl·2H2O,12.59737773,m
+SP0127,J12,Bafilomycin A1,0.802787793,m
+SP0127,J13,QX-314,14.56443598,m
+SP0127,J14,BAPTA-AM,6.538648644,m
+SP0127,J15,Ryanodine,10.13075358,m
+SP0127,J16,Blebbistatin,17.10385254,m
+SP0127,J17,SDZ-201106,10.71641139,m
+SP0127,J18,Bongkrekic acid,1.027544143,m
+SP0127,J19,SKF-96365,13.64429966,m
+SP0127,J20,IB-MECA,9.798432525,m
+SP0127,J21,Tetrandine,8.028905344,m
+SP0127,J22,Brefeldin A,17.83425132,m
+SP0127,K03,"8,9-Epoxyeicosatrienoic acid",0.1,m
+SP0127,K04,Prostaglandin B1,1,m
+SP0127,K05,8-epi-Prostaglandin F2a,1,m
+SP0127,K06,Prostaglandin B2,1,m
+SP0127,K07,9(S)-HODE,0.1,m
+SP0127,K08,Prostaglandin  D2,1,m
+SP0127,K09,9(S)-HPODE,0.1,m
+SP0127,K10,Prostaglandin  E1,1,m
+SP0127,K11,"9,10-Octadecenoamide",1,m
+SP0127,K12,Prostaglandin  E2,1,m
+SP0127,K13,"9a,11b-Prostaglandin F2",1,m
+SP0127,K14,Prostaglandin  F1a,1,m
+SP0127,K15,"9b,11a-Prostaglandin F2",1,m
+SP0127,K16,Prostaglandin F2a,1,m
+SP0127,K17,9-cis Retinoic acid,1,m
+SP0127,K18,Prostaglandin I2 ,1,m
+SP0127,K19,Dimethyloxaloylglycine,1,m
+SP0127,K20,Prostaglandin J2,1,m
+SP0127,K21,"Adrenic acid (22:4, n-6)",1,m
+SP0127,K22,All trans retinoic acid,1,m
+SP0127,L03,Thapsigargin,7.683399677,m
+SP0127,L04,Bromo-7-nitroindazole,20.65859604,m
+SP0127,L05,TMB-8,12.64117346,m
+SP0127,L06,8-Bromo-cAMP,12.251839,m
+SP0127,L07,Tolazamide,16.05651895,m
+SP0127,L08,8-Bromo-cGMP,11.73386652,m
+SP0127,L09,Tolbutamide,18.49468093,m
+SP0127,L10,Bumetanide,13.72058307,m
+SP0127,L11,U-37883A,14.4708544,m
+SP0127,L12,5'-N-Ethylcarboxamidoadenosine (NECA),16.21832723,m
+SP0127,L13,U-50488,13.53806498,m
+SP0127,L14,BW-B 70C,15.80643316,m
+SP0127,L15,Verapimil,10.99864145,m
+SP0127,L16,CA-074-Me,12.57969552,m
+SP0127,L17,Veratridine,7.420707514,m
+SP0127,L18,SB-415286,13.89966113,m
+SP0127,L19,YS035,13.90978061,m
+SP0127,L20,Calpeptin,13.79450383,m
+SP0127,L21,ZM226600,13.39236689,m
+SP0127,L22,Calphostin C,0.632299822,m
+SP0127,M03,N-Acetyl-S-geranyl-L-cysteine,1,m
+SP0127,M04,REV-5901,1,m
+SP0127,M05,N-acetyl-S-geranylgeranyl-L-Cysteine,1,m
+SP0127,M06,S-farnesyl-L-cysteine,1,m
+SP0127,M07,AM-251,1,m
+SP0127,M08,Sphingosine,1,m
+SP0127,M09,AM-580,1,m
+SP0127,M10,SQ-29548,1,m
+SP0127,M11,"Anandamide (18:2,n-6)",1,m
+SP0127,M12,TETRAHYDROCANNABINOL-7-OIC ACID,1,m
+SP0127,M13,"Anandamide (20:3,n-6)",1,m
+SP0127,M14,TTNPB,1,m
+SP0127,M15,"Anandamide (20:4, n-6)",1,m
+SP0127,M16,U-46619,1,m
+SP0127,M17,"Anandamide (22:4,n-6)",1,m
+SP0127,M18,U-75302,0.1,m
+SP0127,M19,Arachidonamide,1,m
+SP0127,M20,"WIN 55,212-2 mesylate",1,m
+SP0127,M21,"Arachidonic acid (20:4, n-6)",1,m
+SP0127,M22,WY-14643,1,m
+SP0127,N03,Tosyl-Phe-CMK (TPCK),14.21068189,m
+SP0127,N04,Calyculin A,0.49545681,m
+SP0127,N05,Thiorphan,19.73811469,m
+SP0127,N06,Camptothecin,14.35329781,m
+SP0127,N07,Z-prolyl-prolinal,15.13416589,m
+SP0127,N08,Cantharidin,25.48421279,m
+SP0127,N09,NapSul-Ile-Trp-CHO,10.17082925,m
+SP0127,N10,E-Capsaicin,16.37133327,m
+SP0127,N11,"3,4-dichloroisocoumarin",23.252245,m
+SP0127,N12,Capsazepine,13.26611833,m
+SP0127,N13,Boc-GVV-CHO,13.9881621,m
+SP0127,N14,Castanospermine,26.42580427,m
+SP0127,N15,Bestatin,16.21414081,m
+SP0127,N16,Dipyridamole,9.908336002,m
+SP0127,N17,Ala-Ala-Phe-CMK,14.71380184,m
+SP0127,N18,CGP-37157,15.42138947,m
+SP0127,N19,MDL-28170,13.07350868,m
+SP0127,N20,Chelerythrine,14.35247791,m
+SP0127,N21,Ac-Leu-Leu-Nle-CHO,13.03694278,m
+SP0127,N22,CAPE,17.58665384,m
+SP0127,O03,Arachidonoyl-PAF,1,m
+SP0127,O04,4-Aminopyridine,53.12677643,m
+SP0127,O05,BML-190,1,m
+SP0127,O06,5-Hydroxydecanoate,26.55844984,m
+SP0127,O07,C2 Ceramide,1,m
+SP0127,O08,Aconitine,7.743089254,m
+SP0127,O09,C2 Dihydroceramide,1,m
+SP0127,O10,AM 92016·HCl,10.33405878,m
+SP0127,O11,C8 Ceramide,1,m
+SP0127,O12,Amantadine·HCl,26.63683341,m
+SP0127,O13,C8 Dihydroceramide,1,m
+SP0127,O14,Amiloride·HCl,18.79077598,m
+SP0127,O15,Carbacyclin,1,m
+SP0127,O16,Amiodarone·HCl,7.333819321,m
+SP0127,O17,Ciglitazone,1,m
+SP0127,O18,A-23187,9.548898573,m
+SP0127,O19,Clofibrate,1,m
+SP0127,O20,(R)-(+)-BAY K-8644,14.03325601,m
+SP0127,O21,Cloprostenol,1,m
+SP0127,O22,Benzamil·HCl,14.03666377,m
+SP0127,P03,2-methoxyantimycin A3,9.352811624,m
+SP0127,P04,Cimaterol,22.80159556,m
+SP0127,P05,HA14-1,12.21803822,m
+SP0127,P06,CinnGEL ,9.642095073,m
+SP0127,P07,Decylubiquinone,15.50680423,m
+SP0127,P08,Cirazoline,23.11829772,m
+SP0127,P09,Betulinic acid,10.94809879,m
+SP0127,P10,Clonidine,21.73024938,m
+SP0127,P11,Deprenyl,26.69787827,m
+SP0127,P12,Clozapine,15.29880088,m
+SP0127,P13,1400W,28.20934948,m
+SP0127,P14,Curcumin,13.57294467,m
+SP0127,P15,Fumonisin B1,6.926838729,m
+SP0127,P16,Cycloheximide,17.77162327,m
+SP0127,P17,Triptolide,13.87343542,m
+SP0127,P18,Cyclosporin A,4.157619686,m
+SP0127,P19,Tanshinone IIA,16.98690378,m
+SP0127,P20,Cypermethrin,12.01065585,m
+SP0127,P21,Nigericin,6.896919877,m
+SP0127,P22,Cytochalasin B,10.42518491,m

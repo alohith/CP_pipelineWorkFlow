@@ -1,0 +1,193 @@
+Catalog number,old,MW,Plate Location,Plate number,96 Plate Map,96 well,384 Plate ID,Plate Map,Well,Human Readable Name,Plate description,Concentration,Compound description,Solvent,Plate part number,MoleculeID
+T-109,Cytochalasin D,507.6,5-A02,5,Plate 1,A02,EnzoICCB2,SP0132,A03,Cytochalasin D - actin poison,ICCB Known Bioactives Library,0.394,Inhibitors:  F actin capper,DMSO,2840,Cytochalasin D - actin poison
+T-101,Nocodazole,301.3,6-A02,6,Plate 2,A02,EnzoICCB2,SP0132,A04,Nocodazole - microtubule poison,ICCB Known Bioactives Library,0.664,Inhibitors:  tubulin inhibitor,DMSO,2840,Nocodazole - microtubule poison
+ST-330,D609,210.3,5-A03,5,Plate 1,A03,EnzoICCB2,SP0132,A05,D609 - phospholipase inhibitor,ICCB Known Bioactives Library,0.951,Lipid biosynthesis:  PC-PLC inhibitor,DMSO,2840,D609 - phospholipase inhibitor
+ST-315,OBAA,428.6,6-A03,6,Plate 2,A03,EnzoICCB2,SP0132,A06,OBAA - phospholipase inhibitor,ICCB Known Bioactives Library,0.467,Inhibitors:  phospholipase A2 inhibitor,DMSO,2840,OBAA - phospholipase inhibitor
+EI-274,Damnacanthal,282.2,5-A04,5,Plate 1,A04,EnzoICCB2,SP0132,A07,Damnacanthal - kinase inhibitor,ICCB Known Bioactives Library,0.709,Kinase inhibitors:  p56lck inhibitor,DMSO,2840,Damnacanthal - kinase inhibitor
+EI-181,Okadaic acid,805,6-A04,6,Plate 2,A04,EnzoICCB2,SP0132,A08,Okadaic acid - phosphatase inhibitor,ICCB Known Bioactives Library,0.0248,Inhibitors:  PP1 PP2A inhibitor,DMSO,2840,Okadaic acid - phosphatase inhibitor
+CN-223,YC-1,304.3,5-A05,5,Plate 1,A05,EnzoICCB2,SP0132,A09,YC-1 - Hif-1 inhibitor,ICCB Known Bioactives Library,0.657,Activators:  GC stimulator /  Hif-1 alpha inhibitor ,DMSO,2840,YC-1 - Hif-1 inhibitor
+CM-111,Oligomycin A,791.1,6-A05,6,Plate 2,A05,EnzoICCB2,SP0132,A10,Oligomycin A - Fo ATP synthase inhibitor,ICCB Known Bioactives Library,0.253,Inhibitors:  Fo ATP synthase inhibitor ,DMSO,2840,Oligomycin A - Fo ATP synthase inhibitor
+A-230,Decoyinine,279.3,5-A06,5,Plate 1,A06,EnzoICCB2,SP0132,A11,Decoyinine - GMP synthetase inhibitor,ICCB Known Bioactives Library,0.716,Inhibitors:  lowers GTP levels,DMSO,2840,Decoyinine - GMP synthetase inhibitor
+CC-200,Olomoucine,298.3,6-A06,6,Plate 2,A06,EnzoICCB2,SP0132,A12,Olomoucine - kinase inhibitor,ICCB Known Bioactives Library,0.67,Kinase inhibitors:  CDK inhibitor,DMSO,2840,Olomoucine - kinase inhibitor
+S-109,1-Deoxymannojirimycin hydrochloride,199.6,5-A07,5,Plate 1,A07,EnzoICCB2,SP0132,A13,Deoxymannojirimycin(1) - glycoside hydrolase inhibitor,ICCB Known Bioactives Library,1,Inhibitors:  mannosidase inhibitor,DMSO,2840,Deoxymannojirimycin(1) - glycoside hydrolase inhibitor
+CM-109,Ouabain,584.7,6-A07,6,Plate 2,A07,EnzoICCB2,SP0132,A14,Ouabain - Na+K+ATPase inhibitor,ICCB Known Bioactives Library,0.342,Inhibitors:  Na+K+ATPase inhibitor,DMSO,2840,Ouabain - Na+K+ATPase inhibitor
+S-110,1-Deoxynojirimycin,163.2,5-A08,5,Plate 1,A08,EnzoICCB2,SP0132,A15,Deoxynorjrimycin(1) - glycoside hydrolase inhibitor,ICCB Known Bioactives Library,1.23,Inhibitors:  glucosidase inhibitor,DMSO,2840,Deoxynorjrimycin(1) - glycoside hydrolase inhibitor
+L-133,PCA 4248,361.5,6-A08,6,Plate 2,A08,EnzoICCB2,SP0132,A16,PCA 4248 - bioactive lipid,ICCB Known Bioactives Library,0.553,Bioactive lipids:  PAF antagonist,DMSO,2840,PCA 4248 - bioactive lipid
+EI-126,Dexamethasone,392.5,5-A09,5,Plate 1,A09,EnzoICCB2,SP0132,A17,Dexamethasone - steroid hormone,ICCB Known Bioactives Library,0.51,Nuclear receptor ligands:  corticosteroid,DMSO,2840,Dexamethasone - steroid hormone
+EI-360,PD 98059,267.3,6-A09,6,Plate 2,A09,EnzoICCB2,SP0132,A18,PD 98059 - kinase inhibitor,ICCB Known Bioactives Library,0.748,Kinase inhibitors:  MEK inhibitor,DMSO,2840,PD 98059 - kinase inhibitor
+CN-125,Dibutyrylcyclic AMP,491.4,5-A10,5,Plate 1,A10,EnzoICCB2,SP0132,A19,Dibutyrylcyclic AMP - PKA activator,ICCB Known Bioactives Library,0.407,Activators:  PKA activator,DMSO,2840,Dibutyrylcyclic AMP - PKA activator
+EI-306,SU-4312,264.3,6-A10,6,Plate 2,A10,EnzoICCB2,SP0132,A20,SU-4312 - kinase inhibitor,ICCB Known Bioactives Library,0.757,Kinase inhibitors:  VEGF-R (Flk-1) tyrosine kinase ,DMSO,2840,SU-4312 - kinase inhibitor
+CN-215,Dibutyrylcyclic GMP,485.4,5-A11,5,Plate 1,A11,EnzoICCB2,SP0132,A21,Dibutyrylcyclic GMP - PKA activator,ICCB Known Bioactives Library,0.412,Activators:  PKA activator,DMSO,2840,Dibutyrylcyclic GMP - PKA activator
+PI-120,Pepstatin,685.9,6-A11,6,Plate 2,A11,EnzoICCB2,SP0132,A22,Pepstatin - protease inhibitor,ICCB Known Bioactives Library,0.292,Protease inhibitors:  protease inhibitor,DMSO,2840,Pepstatin - protease inhibitor
+GR-234,GW-9662,276.7,5-B02,5,Plate 1,B02,EnzoICCB2,SP0132,C03,GW-9662 - PPAR ligand,ICCB Known Bioactives Library,0.723,Nuclear receptor ligands:  PPAR gamma antagonist,DMSO,2840,GW-9662 - PPAR ligand
+AP-100,6(5H)-Phenanthridinone,195.2,6-B02,6,Plate 2,B02,EnzoICCB2,SP0132,C04,Phenanthridinone [6(5H)-Phenanthridinone] - PARP inhibitor,ICCB Known Bioactives Library,1.02,Inhibitors:  PARP inhibitor,DMSO,2840,Phenanthridinone [6(5H)-Phenanthridinone] - PARP inhibitor
+D-100,6;7-ADTN ,179.2,5-B03,5,Plate 1,B03,EnzoICCB2,SP0132,C05,6;7-ADTN HBr - dopamine antagonist,ICCB Known Bioactives Library,1.12,CNS receptor ligands:  Dopamine agonist,DMSO,2840,6;7-ADTN HBr - dopamine antagonist
+PE-160,Phorbol 12-myristate 13-acetate,616.8,6-B03,6,Plate 2,B03,EnzoICCB2,SP0132,C06,Phorbol 12 myristate 13 acetate - PKC activator,ICCB Known Bioactives Library,0.324,Activators:  PKC activator,DMSO,2840,Phorbol 12 myristate 13 acetate - PKC activator
+FR-110,Hinokitiol,164.2,5-B04,5,Plate 1,B04,EnzoICCB2,SP0132,C07,Hinokitiol - iron chelator,ICCB Known Bioactives Library,1.22,Inhibitors:  Iron chelator,DMSO,2840,Hinokitiol - iron chelator
+GR-325,Pifithrin-?,286.4,6-B04,6,Plate 2,B04,EnzoICCB2,SP0132,C08,Pifithrin - p53 inhibitor,ICCB Known Bioactives Library,0.698,Inhibitors:  p53 inhibitor,DMSO,2840,Pifithrin - p53 inhibitor
+CN-240,Diphenyleneiodonium ,279.1,5-B05,5,Plate 1,B05,EnzoICCB2,SP0132,C09,Diphenyleneiodonium Cl - NOS inhibitor,ICCB Known Bioactives Library,0.717,Inhibitors:  flavoprotein inhibitor,DMSO,2840,Diphenyleneiodonium Cl - NOS inhibitor
+GR-233,CITCO,436.7,6-B05,6,Plate 2,B05,EnzoICCB2,SP0132,C10,CITCO - Const. androstane receptor (CAR) agonist,ICCB Known Bioactives Library,0.458,Nuclear receptor ligands:  Const. androstane receptor (CAR) agonist,DMSO,2840,CITCO - Const. androstane receptor (CAR) agonist
+CA-420,2;5-Ditertbutylhydroquinone,222.3,5-B06,5,Plate 1,B06,EnzoICCB2,SP0132,C11,2;5-Ditertbutylhydroquinone - ER Ca++ ATPase inhibitor,ICCB Known Bioactives Library,0.9,Ion channel ligands:  ER Ca++ ATPase inhibitor,DMSO,2840,2;5-Ditertbutylhydroquinone - ER Ca++ ATPase inhibitor
+EI-219,Piroxicam,331.3,6-B06,6,Plate 2,B06,EnzoICCB2,SP0132,C12,Piroxicam - cyclooxygenase inhibitor,ICCB Known Bioactives Library,0.604,Lipid biosynthesis:  COX1 inhibitor,DMSO,2840,Piroxicam - cyclooxygenase inhibitor
+GR-319,Doxorubicin,580,5-B07,5,Plate 1,B07,EnzoICCB2,SP0132,C13,Doxorubicin - Inhibits DNA synthesis,ICCB Known Bioactives Library,0.345,Inhibitors:  topoisomerase II inhibitor; induces apoptosis,DMSO,2840,Doxorubicin - Inhibits DNA synthesis
+GR-334,Cyclopamine,411.6,6-B07,6,Plate 2,B07,EnzoICCB2,SP0132,C14,Cyclopamine - Hedgehog pathway inhibitor,ICCB Known Bioactives Library,0.486,Inhibitors:  Hedgehog pathway inhibitor,DMSO,2840,Cyclopamine - Hedgehog pathway inhibitor
+EI-231,DRB (Benzimidazole),319.1,5-B08,5,Plate 1,B08,EnzoICCB2,SP0132,C15,DRB - kinase inhibitor,ICCB Known Bioactives Library,0.627,Kinase inhibitors:  CKII inhibitor,DMSO,2840,DRB - kinase inhibitor
+EI-275,PP1,281.4,6-B08,6,Plate 2,B08,EnzoICCB2,SP0132,C16,PP1 - kinase inhibitor,ICCB Known Bioactives Library,0.711,Protease inhibitors:  src family trosine kinase inhibitor,DMSO,2840,PP1 - kinase inhibitor
+FR-107,MnTBAP,879.1,5-B09,5,Plate 1,B09,EnzoICCB2,SP0132,C17,MnTBAP - antioxidant,ICCB Known Bioactives Library,0.227,Inhibitors:  SOD mimetic,DMSO,2840,MnTBAP - antioxidant
+AC-146,Prazocin,383.4,6-B09,6,Plate 2,B09,EnzoICCB2,SP0132,C18,Prazocin - alpha adrenergic agonist,ICCB Known Bioactives Library,0.522,CNS receptor ligands:  adrenoreceptor agonist,DMSO,2840,Prazocin - alpha adrenergic agonist
+CA-302,E6 berbamine,757.8,5-B10,5,Plate 1,B10,EnzoICCB2,SP0132,C19,E6 Berbamine - calmodulin inhibitor,ICCB Known Bioactives Library,0.264,Inhibitors:  calmodulin inhibitor,DMSO,2840,E6 Berbamine - calmodulin inhibitor
+AP-401,Propidium iodide,668.4,6-B10,6,Plate 2,B10,EnzoICCB2,SP0132,C20,Propidium iodide - DNA binding,ICCB Known Bioactives Library,0.299,Inhibitors:  DNA intercalator,DMSO,2840,Propidium iodide - DNA binding
+PI-107,E-64-d,342.4,5-B11,5,Plate 1,B11,EnzoICCB2,SP0132,C21,E-64-d - protease inhibitor,ICCB Known Bioactives Library,0.584,Protease inhibitors:  calpain/cathepsin inhibitor,DMSO,2840,E-64-d - protease inhibitor
+AR-107,(S)-(-)-propranolol·HCl,295.8,6-B11,6,Plate 2,B11,EnzoICCB2,SP0132,C22,Propranolol (S-) - beta adrenergic agonist,ICCB Known Bioactives Library,0.676,CNS receptor ligands:  adrenoceptor antagonist (beta),DMSO,2840,Propranolol (S-) - beta adrenergic agonist
+PD-129,EHNA ,277.4,5-C02,5,Plate 1,C02,EnzoICCB2,SP0132,E03,EHNA HCl - phosphodiesterase inhibitor,ICCB Known Bioactives Library,0.721,Inhibitors:  Phosphodiesterase (PDE2) inhibitor/adenosine deaminase inhibitor,DMSO,2840,EHNA HCl - phosphodiesterase inhibitor
+GR-312,Puromycin·2HCl,530.4,6-C02,6,Plate 2,C02,EnzoICCB2,SP0132,E04,Puromycin - inhibits protein synthesis,ICCB Known Bioactives Library,0.377,Inhibitors:  protein synthesis inhibitor,DMSO,2840,Puromycin - inhibits protein synthesis
+S-620,Pregnenolone-16?-carbonitrile,341.5,5-C03,5,Plate 1,C03,EnzoICCB2,SP0132,E05,Pregnenolone 16? carbonitrile - steroid hormone,ICCB Known Bioactives Library,0.586,Nuclear receptor ligands:  PXR/SXR agonist,DMSO,2840,Pregnenolone 16? carbonitrile - steroid hormone
+EI-314,SB-431542,384.4,6-C03,6,Plate 2,C03,EnzoICCB2,SP0132,E06,SB-431542 - kinase inhibitor,ICCB Known Bioactives Library,0.52,Kinase inhibitors:  ALK4; ALK5; ALK7 inhibitor,DMSO,2840,SB-431542 - kinase inhibitor
+BL-093,Estradiol,272.4,5-C04,5,Plate 1,C04,EnzoICCB2,SP0132,E07,Estradiol - microtubule poison,ICCB Known Bioactives Library,0.734,Nuclear receptor ligands:  estrogen,DMSO,2840,Estradiol - microtubule poison
+EI-305,SP-600125,220.2,6-C04,6,Plate 2,C04,EnzoICCB2,SP0132,E08,SP-600125 - kinase inhibitor,ICCB Known Bioactives Library,0.908,Kinase inhibitors:  JNK inhibitor,DMSO,2840,SP-600125 - kinase inhibitor
+GR-307,Etoposide,588.6,5-C05,5,Plate 1,C05,EnzoICCB2,SP0132,E09,Etoposide - Inhibits DNA synthesis,ICCB Known Bioactives Library,0.34,Inhibitors:  topoisomerase II inhibitor,DMSO,2840,Etoposide - Inhibits DNA synthesis
+AC-1142,Quercetin·2H2O,338.3,6-C05,6,Plate 2,C05,EnzoICCB2,SP0132,E10,Quercetin - kinase inhibitor,ICCB Known Bioactives Library,0.591,Kinase inhibitors:  kinase inhibitor (plus other),DMSO,2840,Quercetin - kinase inhibitor
+CM-120,FCCP,254.2,5-C06,5,Plate 1,C06,EnzoICCB2,SP0132,E11,FCCP - mitochondrial uncoupler,ICCB Known Bioactives Library,0.787,Inhibitors:  mitochondrial uncoupler,DMSO,2840,FCCP - mitochondrial uncoupler
+A-275,Rapamycin,914.2,6-C06,6,Plate 2,C06,EnzoICCB2,SP0132,E12,Rapamycin - prolyl cis-trans isomerase inhibitor,ICCB Known Bioactives Library,0.219,Inhibitors:  FRAP inhibitor ,DMSO,2840,Rapamycin - prolyl cis-trans isomerase inhibitor
+CN-100,Forskolin,410.5,5-C07,5,Plate 1,C07,EnzoICCB2,SP0132,E13,Forskolin - adenylate cyclase activator,ICCB Known Bioactives Library,0.487,Activators:  Adenylate cyclase activator,DMSO,2840,Forskolin - adenylate cyclase activator
+AM-100,Cyclo [Arg-Gly-Asp-D-Phe-Val],574.6,6-C07,6,Plate 2,C07,EnzoICCB2,SP0132,E14,Cyclo [Arg-Gly-Asp-D-Phe-Val] - integrin inhibitor,ICCB Known Bioactives Library,0.348,Inhibitors:  integrin inhibitor,DMSO,2840,Cyclo [Arg-Gly-Asp-D-Phe-Val] - integrin inhibitor
+EI-280,Geldanamycin,560.6,5-C08,5,Plate 1,C08,EnzoICCB2,SP0132,E15,Geldanamycin - HSP-90 inhibitor,ICCB Known Bioactives Library,0.357,Inhibitors:  HSP90 inhibitor,DMSO,2840,Geldanamycin - HSP-90 inhibitor
+ST-300,RHC-80267,394.5,6-C08,6,Plate 2,C08,EnzoICCB2,SP0132,E16,RHC-80267 - DAG lipase inhibitor,ICCB Known Bioactives Library,0.507,Lipid biosynthesis:  DAG lipase inhibitor,DMSO,2840,RHC-80267 - DAG lipase inhibitor
+EI-147,Genistein,260.4,5-C09,5,Plate 1,C09,EnzoICCB2,SP0132,E17,Genistein - kinase inhibitor,ICCB Known Bioactives Library,0.768,Kinase inhibitors:  Tyrosine kinase inhibitor,DMSO,2840,Genistein - kinase inhibitor
+PR-112,RK-682,368.5,6-C09,6,Plate 2,C09,EnzoICCB2,SP0132,E18,RK-682 - phosphatase inhibitor,ICCB Known Bioactives Library,0.543,Inhibitors:  VHR phosphatase inhibitor,DMSO,2840,RK-682 - phosphatase inhibitor
+EI-283,Ro 31-8220,457.5,5-C10,5,Plate 1,C10,EnzoICCB2,SP0132,E19,Ro 31-8220 - kinase inhibitor,ICCB Known Bioactives Library,0.437,Kinase inhibitors:  PKC inhibitor,DMSO,2840,Ro 31-8220 - kinase inhibitor
+CC-205,Roscovitine,354.4,6-C10,6,Plate 2,C10,EnzoICCB2,SP0132,E20,Roscovitine - kinase inhibitor,ICCB Known Bioactives Library,0.564,Kinase inhibitors:  CDK inhibitor,DMSO,2840,Roscovitine - kinase inhibitor
+EI-300,GM6001,388.5,5-C11,5,Plate 1,C11,EnzoICCB2,SP0132,E21,GM6001 - protease inhibitor,ICCB Known Bioactives Library,0.515,Protease inhibitors:  broad spectrum MMP inhibitor ,DMSO,2840,GM6001 - protease inhibitor
+EI-270,Rottlerin,516.5,6-C11,6,Plate 2,C11,EnzoICCB2,SP0132,E22,Rottlerin - kinase inhibitor,ICCB Known Bioactives Library,0.387,Kinase inhibitors:  PKC delta inhibitor,DMSO,2840,Rottlerin - kinase inhibitor
+EI-269,Go6976,378.4,5-D02,5,Plate 1,D02,EnzoICCB2,SP0132,G03,Go6976 - kinase inhibitor,ICCB Known Bioactives Library,0.529,Kinase inhibitors:  PKC inhibitor,DMSO,2840,Go6976 - kinase inhibitor
+PR-110,RWJ-60475-(AM)3,620.3,6-D02,6,Plate 2,D02,EnzoICCB2,SP0132,G04,RWJ-60475-(AM)3 - phosphatase inhibitor,ICCB Known Bioactives Library,0.322,Inhibitors:  CD45 phosphatase inhibitor,DMSO,2840,RWJ-60475-(AM)3 - phosphatase inhibitor
+EI-287,Nimesulide,308.3,5-D03,5,Plate 1,D03,EnzoICCB2,SP0132,G05,Nimesulide - cyclooxygenase inhibitor,ICCB Known Bioactives Library,0.649,Lipid biosynthesis:  Cox 2 inhibitor,DMSO,2840,Nimesulide - cyclooxygenase inhibitor
+EI-286,SB 203580,377.4,6-D03,6,Plate 2,D03,EnzoICCB2,SP0132,G06,SB 203580 - kinase inhibitor,ICCB Known Bioactives Library,0.53,Kinase inhibitors:  Suppressor of MAPKAP kinase-2,DMSO,2840,SB 203580 - kinase inhibitor
+EI-148,H7,291.4,5-D04,5,Plate 1,D04,EnzoICCB2,SP0132,G07,H7 - kinase inhibitor,ICCB Known Bioactives Library,0.686,Kinase inhibitors:  kinase inhibitor,DMSO,2840,H7 - kinase inhibitor
+EI-294,SB 202190,331.3,6-D04,6,Plate 2,D04,EnzoICCB2,SP0132,G08,SB 202190 - kinase inhibitor,ICCB Known Bioactives Library,0.604,Kinase inhibitors:  MAP kinase inhibitor,DMSO,2840,SB 202190 - kinase inhibitor
+EI-196,H-89,446.4,5-D05,5,Plate 1,D05,EnzoICCB2,SP0132,G09,H-89 - kinase inhibitor,ICCB Known Bioactives Library,0.448,Kinase inhibitors:  PKA inhibitor,DMSO,2840,H-89 - kinase inhibitor
+CC-207,Indirubin-3'-monoxime,277.3,6-D05,6,Plate 2,D05,EnzoICCB2,SP0132,G10,Indirubin-3'-monoxime - kinase inhibitor,ICCB Known Bioactives Library,0.721,Kinase inhibitors:  GSK-3beta inhibitor,DMSO,2840,Indirubin-3'-monoxime - kinase inhibitor
+EI-195,H9,324.2,5-D06,5,Plate 1,D06,EnzoICCB2,SP0132,G11,H9 - kinase inhibitor,ICCB Known Bioactives Library,0.617,Kinase inhibitors:  kinase inhibitor,DMSO,2840,H9 - kinase inhibitor
+CC-206,Indirubin,262.3,6-D06,6,Plate 2,D06,EnzoICCB2,SP0132,G12,Indirubin - kinase inhibitor,ICCB Known Bioactives Library,0.763,Kinase inhibitors:  GSK-3beta inhibitor,DMSO,2840,Indirubin - kinase inhibitor
+EI-233,HA1077,364.3,5-D07,5,Plate 1,D07,EnzoICCB2,SP0132,G13,HA1077 - kinase inhibitor,ICCB Known Bioactives Library,0.549,Kinase inhibitors:  inhibitor of Rho-dependent kinases,DMSO,2840,HA1077 - kinase inhibitor
+NS-820,serotonin,176.2,6-D07,6,Plate 2,D07,EnzoICCB2,SP0132,G14,Serotonin - serotonin receptor agonist,ICCB Known Bioactives Library,1.13,CNS receptor ligands:  serotonin receptor agonist,DMSO,2840,Serotonin - serotonin receptor agonist
+EI-184,HA-1004,293.3,5-D08,5,Plate 1,D08,EnzoICCB2,SP0132,G15,HA-1004 - kinase inhibitor,ICCB Known Bioactives Library,0.682,Kinase inhibitors:  kinase inhibitor,DMSO,2840,HA-1004 - kinase inhibitor
+FR-104,resveratrol,228.2,6-D08,6,Plate 2,D08,EnzoICCB2,SP0132,G16,Resveratrol - SIRT1 activator,ICCB Known Bioactives Library,0.876,Activators:  SIRT1 activator,DMSO,2840,Resveratrol - SIRT1 activator
+EI-273,HBDDE,338.3,5-D09,5,Plate 1,D09,EnzoICCB2,SP0132,G17,HBDDE - kinase inhibitor,ICCB Known Bioactives Library,0.591,Kinase inhibitors:  PKC inhibitor,DMSO,2840,HBDDE - kinase inhibitor
+GR-331,Splitomycin,198.2,6-D09,6,Plate 2,D09,EnzoICCB2,SP0132,G18,Splitomycin - sir2p inhibitor,ICCB Known Bioactives Library,1.01,Inhibitors:  sir2p inhibitor,DMSO,2840,Splitomycin - sir2p inhibitor
+AC-764,Histamine,111.1,5-D10,5,Plate 1,D10,EnzoICCB2,SP0132,G19,Histamine - histamine receptor ligand,ICCB Known Bioactives Library,1.8,CNS receptor ligands:  Histamine receptor agonist,DMSO,2840,Histamine - histamine receptor ligand
+EI-297,PP2,301.8,6-D10,6,Plate 2,D10,EnzoICCB2,SP0132,G20,PP2 - kinase inhibitor,ICCB Known Bioactives Library,0.663,Kinase inhibitors:  Src family tyrosine kinase inhibitor,DMSO,2840,PP2 - kinase inhibitor
+EI-248,HNMPA-(AM)3,454.4,5-D11,5,Plate 1,D11,EnzoICCB2,SP0132,G21,HNMPA-(AM)3 - kinase inhibitor,ICCB Known Bioactives Library,0.44,Kinase inhibitors:  Insulin receptor TK inhibitor,DMSO,2840,HNMPA-(AM)3 - kinase inhibitor
+EI-271,Piceatannol,244.2,6-D11,6,Plate 2,D11,EnzoICCB2,SP0132,G22,Piceatannol - kinase inhibitor,ICCB Known Bioactives Library,0.819,Kinase inhibitors:  Syk inhibitor,DMSO,2840,Piceatannol - kinase inhibitor
+GR-303,Hoechst  33342·3HCl (BisBenzimide),561.9,5-E02,5,Plate 1,E02,EnzoICCB2,SP0132,I03,Hoechst  33342 (cell permeable) (BisBenzimide) - DNA binding,ICCB Known Bioactives Library,0.356,Inhibitors:  DNA minor groove binder,DMSO,2840,Hoechst  33342 (cell permeable) (BisBenzimide) - DNA binding
+CN-140,SQ22536,205.2,6-E02,6,Plate 2,E02,EnzoICCB2,SP0132,I04,SQ22536 - adenylate cyclase inhibitor,ICCB Known Bioactives Library,0.975,Inhibitors:  adenylate cyclase inhibitor,DMSO,2840,SQ22536 - adenylate cyclase inhibitor
+C-117,(-)-Huperzine A,242.3,5-E03,5,Plate 1,E03,EnzoICCB2,SP0132,I05,Huperzine A [(-)-Huperzine A] - acetylcholinesterase inhibitor,ICCB Known Bioactives Library,0.825,Inhibitors:  acetylcholinesterase inhibitor,DMSO,2840,Huperzine A [(-)-Huperzine A] - acetylcholinesterase inhibitor
+T-112,Alrestatin,255.2,6-E03,6,Plate 2,E03,EnzoICCB2,SP0132,I06,Alrestatin - aldose reductase inhibitor,ICCB Known Bioactives Library,0.784,Inhibitors:  aldose reductase inhibitor,DMSO,2840,Alrestatin - aldose reductase inhibitor
+GR-230,24(S)-hydroxycholesterol,402.7,5-E04,5,Plate 1,E04,EnzoICCB2,SP0132,I07,24(S)-Hydroxycholesterol - steroid hormone,ICCB Known Bioactives Library,0.497,Nuclear receptor ligands:  LXR agonist,DMSO,2840,24(S)-Hydroxycholesterol - steroid hormone
+EI-156,staurosporine,466.5,6-E04,6,Plate 2,E04,EnzoICCB2,SP0132,I08,Staurosporine - kinase inhibitor,ICCB Known Bioactives Library,0.429,Kinase inhibitors:  kinase inhibitor - non-selective,DMSO,2840,Staurosporine - kinase inhibitor
+GR-332,ICRF-193,282.3,5-E05,5,Plate 1,E05,EnzoICCB2,SP0132,I09,ICRF-193 - Inhibits DNA synthesis,ICCB Known Bioactives Library,0.708,Inhibitors:  topo II inhibitor that does not cause DNA breaks,DMSO,2840,ICRF-193 - Inhibits DNA synthesis
+S-112,swainsonine,173.2,6-E05,6,Plate 2,E05,EnzoICCB2,SP0132,I10,Swainsonine - protein glycosylation inhibitor,ICCB Known Bioactives Library,1.15,Inhibitors:  protein glycosylation inhibitor,DMSO,2840,Swainsonine - protein glycosylation inhibitor
+EI-131,Indomethacin,357.8,5-E06,5,Plate 1,E06,EnzoICCB2,SP0132,I11,Indomethacin - cyclooxygenase inhibitor,ICCB Known Bioactives Library,0.559,Lipid biosynthesis:  cyclooxygenase inhibitor,DMSO,2840,Indomethacin - cyclooxygenase inhibitor
+S-650,tamoxifen,371.5,6-E06,6,Plate 2,E06,EnzoICCB2,SP0132,I12,Tamoxifen - estrogen antagonist,ICCB Known Bioactives Library,0.538,Nuclear receptor ligands:  estrogen antagonist,DMSO,2840,Tamoxifen - estrogen antagonist
+CA-201,Ionomycin,679,5-E07,5,Plate 1,E07,EnzoICCB2,SP0132,I13,Ionomycin - Calcium ionophore,ICCB Known Bioactives Library,0.295,Ion channel ligands:  Ca++ ionophore,DMSO,2840,Ionomycin - Calcium ionophore
+T-104,taxol = paclitaxel,853.9,6-E07,6,Plate 2,E07,EnzoICCB2,SP0132,I14,Taxol = Paclitaxel - microtubule poison,ICCB Known Bioactives Library,0.234,Inhibitors:  microtubule stabilizer,DMSO,2840,Taxol = Paclitaxel - microtubule poison
+PD-140,IBMX,222.2,5-E08,5,Plate 1,E08,EnzoICCB2,SP0132,I15,IBMX - phosphodiesterase inhibitor,ICCB Known Bioactives Library,0.9,Inhibitors:  PDE inhibitor (broad spec); adenosineR agonist,DMSO,2840,IBMX - phosphodiesterase inhibitor
+EI-253,RG-14620,275.1,6-E08,6,Plate 2,E08,EnzoICCB2,SP0132,I16,RG-14620 - kinase inhibitor,ICCB Known Bioactives Library,0.727,Kinase inhibitors:  EGF-R tyrosine kinase inhibitor,DMSO,2840,RG-14620 - kinase inhibitor
+EI-309,NSC-95397,310.4,5-E09,5,Plate 1,E09,EnzoICCB2,SP0132,I17,NSC-95397 - phosphatase inhibitor,ICCB Known Bioactives Library,0.644,Inhibitors:  CDC25 phosphatase inhibitor,DMSO,2840,NSC-95397 - phosphatase inhibitor
+T-115,thalidomide,258.2,6-E09,6,Plate 2,E09,EnzoICCB2,SP0132,I18,Thalidomide - inhibits ubiquitin ligase activity,ICCB Known Bioactives Library,0.775,Inhibitors:  TNFalpha synthesis inhibitor,DMSO,2840,Thalidomide - inhibits ubiquitin ligase activity
+BL-169,Juglone,174.2,5-E10,5,Plate 1,E10,EnzoICCB2,SP0132,I19,Juglone - PIN1 inhibitor,ICCB Known Bioactives Library,1.15,Inhibitors:  PIN1 inhibitor,DMSO,2840,Juglone - PIN1 inhibitor
+CN-257,Thiocitrulline [L-Thiocitrulline],191.3,6-E10,6,Plate 2,E10,EnzoICCB2,SP0132,I20,Thiocitrulline [L-Thiocitrulline HCl] - NOS inhibitor,ICCB Known Bioactives Library,1.05,Inhibitors:  bNOS inhibitor,DMSO,2840,Thiocitrulline [L-Thiocitrulline HCl] - NOS inhibitor
+EI-152,K252A,467.5,5-E11,5,Plate 1,E11,EnzoICCB2,SP0132,I21,K252A - kinase inhibitor,ICCB Known Bioactives Library,0.0428,Kinase inhibitors:  Kinase inhibitor (Broad spectrum),DMSO,2840,K252A - kinase inhibitor
+EI-246,GF-109203X,412.5,6-E11,6,Plate 2,E11,EnzoICCB2,SP0132,I22,GF-109203X - kinase inhibitor,ICCB Known Bioactives Library,0.485,Kinase inhibitors:  PKC inhibitor,DMSO,2840,GF-109203X - kinase inhibitor
+EI-230,KN-62,721.8,5-F02,5,Plate 1,F02,EnzoICCB2,SP0132,K03,KN-62 - kinase inhibitor,ICCB Known Bioactives Library,0.277,Kinase inhibitors:  CaM kinase II inhibitor,DMSO,2840,KN-62 - kinase inhibitor
+EI-267,tyrphostin AG-825,397.5,6-F02,6,Plate 2,F02,EnzoICCB2,SP0132,K04,Tyrphostin AG-825 - kinase inhibitor,ICCB Known Bioactives Library,0.503,Kinase inhibitors:  HER-1;2 tyrosine kinase inhibitor,DMSO,2840,Tyrphostin AG-825 - kinase inhibitor
+EI-199,KT-5720,423.5,5-F03,5,Plate 1,F03,EnzoICCB2,SP0132,K05,KT-5720 - kinase inhibitor,ICCB Known Bioactives Library,0.0472,Kinase inhibitors:  PKA inhibitor,DMSO,2840,KT-5720 - kinase inhibitor
+NA-136,Kavain (+/-),230.3,6-F03,6,Plate 2,F03,EnzoICCB2,SP0132,K06,Kavain (+/-) - voltage-dependent Na channel inhibitor,ICCB Known Bioactives Library,0.869,Ion channel ligands:  voltage-dependent Na channel inhibitor,DMSO,2840,Kavain (+/-) - voltage-dependent Na channel inhibitor
+G-242,L-744;832,559.8,5-F04,5,Plate 1,F04,EnzoICCB2,SP0132,K07,L-744;832 - farnesylation inhibitor,ICCB Known Bioactives Library,0.357,Inhibitors:  Ras farnesyltransferase inhibitor,DMSO,2840,L-744;832 - farnesylation inhibitor
+AP-300,TPEN,424.5,6-F04,6,Plate 2,F04,EnzoICCB2,SP0132,K08,TPEN - cell permable heavy metal chelator,ICCB Known Bioactives Library,0.471,Inhibitors:  cell permable heavy metal chelator,DMSO,2840,TPEN - cell permable heavy metal chelator
+CN-255,Furoxan,187.2,5-F05,5,Plate 1,F05,EnzoICCB2,SP0132,K09,Furoxan - NO donor,ICCB Known Bioactives Library,1.07,Activators:  NO donor,DMSO,2840,Furoxan - NO donor
+GR-309,trichostatin-A,302.4,6-F05,6,Plate 2,F05,EnzoICCB2,SP0132,K10,Trichostatin-A - histone deacetylase inhibitor,ICCB Known Bioactives Library,0.661,Inhibitors:  histone deacetylase inhibitor,DMSO,2840,Trichostatin-A - histone deacetylase inhibitor
+T-110,Latrunculin B,395.5,5-F06,5,Plate 1,F06,EnzoICCB2,SP0132,K11,Latrunculin B - actin poison,ICCB Known Bioactives Library,0.506,Inhibitors:  Actin inhibitor,DMSO,2840,Latrunculin B - actin poison
+CA-310,trifluoperazine,480.4,6-F06,6,Plate 2,F06,EnzoICCB2,SP0132,K12,Trifluoperazine - dopamine antagonist,ICCB Known Bioactives Library,0.416,Inhibitors:  calmodulin inhibitor-possibly only at high concentrations!,DMSO,2840,Trifluoperazine - dopamine antagonist
+EI-185,Lavendustin A,381.4,5-F07,5,Plate 1,F07,EnzoICCB2,SP0132,K13,Lavendustin A - kinase inhibitor,ICCB Known Bioactives Library,0.524,Kinase inhibitors:  Tyrosine kinase inhibitor EGF-R),DMSO,2840,Lavendustin A - kinase inhibitor
+CC-104,tunicamycin,718.7,6-F07,6,Plate 2,F07,EnzoICCB2,SP0132,K14,Tunicamycin - protein glycosylation inhibitor,ICCB Known Bioactives Library,0.278,Inhibitors:  glycosylation inhibitor,DMSO,2840,Tunicamycin - protein glycosylation inhibitor
+CC-202,N9-Isopropylolomoucine,326.4,5-F08,5,Plate 1,F08,EnzoICCB2,SP0132,K15,N9-Isopropylolomoucine - kinase inhibitor,ICCB Known Bioactives Library,0.613,Kinase inhibitors:  CDC-2 kinase inhibitor,DMSO,2840,N9-Isopropylolomoucine - kinase inhibitor
+PI-143,Nafamostat mesylate ,443.5,6-F08,6,Plate 2,F08,EnzoICCB2,SP0132,K16,Nafamostst mesylate - protease inhibitor,ICCB Known Bioactives Library,0.451,Inhibitors:  Serine protease inhibitor,DMSO,2840,Nafamostst mesylate - protease inhibitor
+PI-118,Leupeptin,426.6,5-F09,5,Plate 1,F09,EnzoICCB2,SP0132,K17,Leupeptin - protease inhibitor,ICCB Known Bioactives Library,0.469,Protease inhibitors:  protease inhibitor,DMSO,2840,Leupeptin - protease inhibitor
+EI-263,tyrphostin AG-126,215.2,6-F09,6,Plate 2,F09,EnzoICCB2,SP0132,K18,Tyrphostin AG-126 - kinase inhibitor,ICCB Known Bioactives Library,0.93,Kinase inhibitors:  tyrosine kinase inhibitor,DMSO,2840,Tyrphostin AG-126 - kinase inhibitor
+EI-278,BAY 11-7082,207.2,5-F10,5,Plate 1,F10,EnzoICCB2,SP0132,K19,Bay 11-7082 - kinase inhibitor,ICCB Known Bioactives Library,0.965,Inhibitors:  Inhibits IKK kinase activation,DMSO,2840,Bay 11-7082 - kinase inhibitor
+EI-190,tyrphostin 1,184.2,6-F10,6,Plate 2,F10,EnzoICCB2,SP0132,K20,Tyrphostin 1 - phosphatase inhibitor,ICCB Known Bioactives Library,1.09,Inhibitors:  Calcineurin inhibitor,DMSO,2840,Tyrphostin 1 - phosphatase inhibitor
+PR-113,Tyrphostin-8,170.2,5-F11,5,Plate 1,F11,EnzoICCB2,SP0132,K21,Tyrphostin-8 - calcineurin inhibitor,ICCB Known Bioactives Library,1.18,Inhibitors:  Calcineurin inhibitor,DMSO,2840,Tyrphostin-8 - calcineurin inhibitor
+EI-215,tyrphostin 9,282.4,6-F11,6,Plate 2,F11,EnzoICCB2,SP0132,K22,Tyrphostin 9 - kinase inhibitor,ICCB Known Bioactives Library,0.708,Kinase inhibitors:  PDGF-R tyrosine kinase inhibitor,DMSO,2840,Tyrphostin 9 - kinase inhibitor
+CN-242,L-NAME,233.2,5-G02,5,Plate 1,G02,EnzoICCB2,SP0132,M03,L-NAME - NOS inhibitor,ICCB Known Bioactives Library,0.858,Inhibitors:  NO synthesis inhibitor,DMSO,2840,L-NAME - NOS inhibitor
+ST-391,U73122,464.6,6-G02,6,Plate 2,G02,EnzoICCB2,SP0132,M04,U73122 - phospholipase inhibitor,ICCB Known Bioactives Library,0.43,Lipid biosynthesis:  PLC inhibitor,DMSO,2840,U73122 - phospholipase inhibitor
+ST-420,LY-294002,307.3,5-G03,5,Plate 1,G03,EnzoICCB2,SP0132,M05,LY-294002 - kinase,ICCB Known Bioactives Library,0.651,Lipid biosynthesis:  PI-3-Kinase inhibitor,DMSO,2840,LY-294002 - kinase
+EI-282,U-0126,380.5,6-G03,6,Plate 2,G03,EnzoICCB2,SP0132,M06,U-0126 - kinase inhibitor,ICCB Known Bioactives Library,0.526,Kinase inhibitors:  MEK inhibitor,DMSO,2840,U-0126 - kinase inhibitor
+CN-200,LY-83583,250.3,5-G04,5,Plate 1,G04,EnzoICCB2,SP0132,M07,LY-83583 - guanylate cyclase inhibitor,ICCB Known Bioactives Library,0.799,Inhibitors:  Inhibits NO-activation of guanylate cyclase ,DMSO,2840,LY-83583 - guanylate cyclase inhibitor
+KC-140,valinomycin,1111.3,6-G04,6,Plate 2,G04,EnzoICCB2,SP0132,M08,Valinomycin - K+ ionophore,ICCB Known Bioactives Library,0.18,Ion channel ligands:  K+ ionophore,DMSO,2840,Valinomycin - K+ ionophore
+EI-293,5-Iodotubercidin,392.1,5-G05,5,Plate 1,G05,EnzoICCB2,SP0132,M09,5-Iodotubercidin - kinase inhibitor,ICCB Known Bioactives Library,0.51,Kinase inhibitors:  ERK-2 inhibitor,DMSO,2840,5-Iodotubercidin - kinase inhibitor
+T-116,vinblastine,909.1,6-G05,6,Plate 2,G05,EnzoICCB2,SP0132,M10,Vinblastine - microtubule poison,ICCB Known Bioactives Library,0.22,Inhibitors:  tubulin inhibitor,DMSO,2840,Vinblastine - microtubule poison
+EI-177,Manoalide,416.6,5-G06,5,Plate 1,G06,EnzoICCB2,SP0132,M11,Manoalide - phospholipase inhibitor,ICCB Known Bioactives Library,0.48,Lipid biosynthesis:  Phospholipase A2 inhibitor,DMSO,2840,Manoalide - phospholipase inhibitor
+CA-320,W7,377.3,6-G06,6,Plate 2,G06,EnzoICCB2,SP0132,M12,W7 - calmodulin inhibitor,ICCB Known Bioactives Library,0.53,Inhibitors:  calmodulin antagonist,DMSO,2840,W7 - calmodulin inhibitor
+G-236,Manumycin A,550.6,5-G07,5,Plate 1,G07,EnzoICCB2,SP0132,M13,Manumycin A - farnesylation inhibitor,ICCB Known Bioactives Library,0.363,Inhibitors:  ras farnesylation inhibitor,DMSO,2840,Manumycin A - farnesylation inhibitor
+ST-415,wortmannin,428.4,6-G07,6,Plate 2,G07,EnzoICCB2,SP0132,M14,Wortmannin - kinase inhibitor,ICCB Known Bioactives Library,0.467,Lipid biosynthesis:  PI-3Kinase; other kinases inhibitor,DMSO,2840,Wortmannin - kinase inhibitor
+G-410,Mastoparan,1688.6,5-G08,5,Plate 1,G08,EnzoICCB2,SP0132,M15,Mastoparan - activates heterotrimeriuc GTPases,ICCB Known Bioactives Library,0.118,Activators:  activates heterotrimeriuc GTPases,DMSO,2840,Mastoparan - activates heterotrimeriuc GTPases
+EI-299,Y-27632,247.3,6-G08,6,Plate 2,G08,EnzoICCB2,SP0132,M16,Y-27632 - kinase inhibitor,ICCB Known Bioactives Library,0.809,Kinase inhibitors:  ROCK inhibitor,DMSO,2840,Y-27632 - kinase inhibitor
+FR-103,MCI-186,174.2,5-G09,5,Plate 1,G09,EnzoICCB2,SP0132,M17,MCI-186 - antioxidant,ICCB Known Bioactives Library,1.15,Inhibitors:  antioxidant; cytoprotectant,DMSO,2840,MCI-186 - antioxidant
+AC-161,yohimbine,390.9,6-G09,6,Plate 2,G09,EnzoICCB2,SP0132,M18,Yohimbine - alpha adrenergic antagonist,ICCB Known Bioactives Library,0.512,CNS receptor ligands:  Adrenoreceptor antagonist (alpha),DMSO,2840,Yohimbine - alpha adrenergic antagonist
+PI-129 ,Gliotoxin,326.4,5-G10,5,Plate 1,G10,EnzoICCB2,SP0132,M19,Gliotoxin - protease inhibitor,ICCB Known Bioactives Library,0.613,Protease inhibitors:  Inhibitor of 20S-proteasome chymotrypsin activity,DMSO,2840,Gliotoxin - protease inhibitor
+ZW-9170,Z-Leu3-VS,551.7,6-G10,6,Plate 2,G10,EnzoICCB2,SP0132,M20,Z-Leu3-VS - protease inhibitor,ICCB Known Bioactives Library,0.362,Protease inhibitors:  Proteasome inhibitor,DMSO,2840,Z-Leu3-VS - protease inhibitor
+EI-295,LFM-A13,360,5-G11,5,Plate 1,G11,EnzoICCB2,SP0132,M21,LFM-A13 - kinase inhibitor,ICCB Known Bioactives Library,0.556,Kinase inhibitors:  BTK inhibitor,DMSO,2840,LFM-A13 - kinase inhibitor
+EI-298,ZM336372,389.4,6-G11,6,Plate 2,G11,EnzoICCB2,SP0132,M22,ZM336372 - kinase inhibitor,ICCB Known Bioactives Library,0.514,Kinase inhibitors:  Raf inhibitor,DMSO,2840,ZM336372 - kinase inhibitor
+CC-103,Methotrexate,424.5,5-H02,5,Plate 1,H02,EnzoICCB2,SP0132,O03,Methotrexate - DHFR inhibitor,ICCB Known Bioactives Library,0.471,CNS receptor ligands:  DHFR inhibitor,DMSO,2840,Methotrexate - DHFR inhibitor
+P-416,zVAD-FMK,467.5,6-H02,6,Plate 2,H02,EnzoICCB2,SP0132,O04,Z-VAD-FMK - protease inhibitor,ICCB Known Bioactives Library,0.428,Protease inhibitors:  Caspase inhibitor (broad spectrum),DMSO,2840,Z-VAD-FMK - protease inhibitor
+C-114,(+/-)-Epibatidine,208.7,5-H03,5,Plate 1,H03,EnzoICCB2,SP0132,O05,Epibatidine (+/-) - nicotinic cholinergic agonist,ICCB Known Bioactives Library,0.958,CNS receptor ligands:  nicotinic cholinergic agonist,DMSO,2840,Epibatidine (+/-) - nicotinic cholinergic agonist
+EI-261,NS-398,314.4,6-H03,6,Plate 2,H03,EnzoICCB2,SP0132,O06,NS-398 - cyclooxygenase inhibitor,ICCB Known Bioactives Library,0.636,Lipid biosynthesis:  Cox-2 inhibitor,DMSO,2840,NS-398 - cyclooxygenase inhibitor
+G-226,Mevinolin (Lovastatin),404.5,5-H04,5,Plate 1,H04,EnzoICCB2,SP0132,O07,Mevinolin (Lovastatin) - Inhibitor HMG-CoA reductase,ICCB Known Bioactives Library,0.494,Lipid biosynthesis:  Inhibitor HMG-CoA reductase,DMSO,2840,Mevinolin (Lovastatin) - Inhibitor HMG-CoA reductase
+EI-216,AA-861,326.4,6-H04,6,Plate 2,H04,EnzoICCB2,SP0132,O08,AA-861 - lipoxygenase inhibitor,ICCB Known Bioactives Library,0.613,Lipid biosynthesis:  5-lipoxygenase inhibitor,DMSO,2840,AA-861 - lipoxygenase inhibitor
+GR-311,Mitomycin C,334.3,5-H05,5,Plate 1,H05,EnzoICCB2,SP0132,O09,Mitomycin C - Inhibits DNA synthesis,ICCB Known Bioactives Library,0.598,Inhibitors:  cross links DNA,DMSO,2840,Mitomycin C - Inhibits DNA synthesis
+A-249,Mycophenolic acid,290.4,6-H05,6,Plate 2,H05,EnzoICCB2,SP0132,O10,Mycophenolic acid - Inhibits DNA synthesis,ICCB Known Bioactives Library,0.689,Inhibitors:  Inosine-5'-monophosphate dehydrogenase inhibitor,DMSO,2840,Mycophenolic acid - Inhibits DNA synthesis
+EI-197,ML7,416.3,5-H06,5,Plate 1,H06,EnzoICCB2,SP0132,O11,ML7 - kinase inhibitor,ICCB Known Bioactives Library,0.48,Kinase inhibitors:  kinase inhibitor,DMSO,2840,ML7 - kinase inhibitor
+CT-115,Shikonin,288.3,6-H06,6,Plate 2,H06,EnzoICCB2,SP0132,O12,Shikonin - protease inhibitor,ICCB Known Bioactives Library,0.694,Inhibitors:  Apoptosis inducer; p53 dependent,DMSO,2840,Shikonin - protease inhibitor
+EI-153,ML9,324.8,5-H07,5,Plate 1,H07,EnzoICCB2,SP0132,O13,ML9 - kinase,ICCB Known Bioactives Library,0.616,Kinase inhibitors:  kinase inhibitor,DMSO,2840,ML9 - kinase
+AC-1557,2-APB,225.1,6-H07,6,Plate 2,H07,EnzoICCB2,SP0132,O14,2-APB - IP3 receptor blocker,ICCB Known Bioactives Library,0.889,Inhibitors:  IP3 receptor blocker,DMSO,2840,2-APB - IP3 receptor blocker
+GR-322,Monastrol,292.4,5-H08,5,Plate 1,H08,EnzoICCB2,SP0132,O15,Monastrol - Eg5 inhibitor,ICCB Known Bioactives Library,0.684,Inhibitors:  Eg5 inhibitor,DMSO,2840,Monastrol - Eg5 inhibitor
+EI-211,CDC,321.3,6-H08,6,Plate 2,H08,EnzoICCB2,SP0132,O16,CDC - lipoxygenase inhibitor,ICCB Known Bioactives Library,0.622,Lipid biosynthesis:  12-Lipoxygenase inhibitor,DMSO,2840,CDC - lipoxygenase inhibitor
+EI-307,GW-5074,520.9,5-H09,5,Plate 1,H09,EnzoICCB2,SP0132,O17,GW-5074 - kinase inhibitor,ICCB Known Bioactives Library,0.384,Kinase inhibitors:  cRAF1 kinase inhibitor,DMSO,2840,GW-5074 - kinase inhibitor
+G-237,Cerulenin,223.3,6-H09,6,Plate 2,H09,EnzoICCB2,SP0132,O18,Cerulenin - Fatty acid biosynthesis inhibitor,ICCB Known Bioactives Library,0.896,Lipid biosynthesis:  Fatty acid biosynthesis inhibitor,DMSO,2840,Cerulenin - Fatty acid biosynthesis inhibitor
+A-248,Monensin,692.9,5-H10,5,Plate 1,H10,EnzoICCB2,SP0132,O19,Monensin - Na+ ionophore,ICCB Known Bioactives Library,0.289,Ion channel ligands:  Na+ ionophore,DMSO,2840,Monensin - Na+ ionophore
+CA-305,Phenoxybenzamine,303.8,6-H10,6,Plate 2,H10,EnzoICCB2,SP0132,O20,Phenoxybenzamine - calmodulin inhibitor,ICCB Known Bioactives Library,0.658,Inhibitors:  Calmodulin antagonist,DMSO,2840,Phenoxybenzamine - calmodulin inhibitor
+A-235,FK-506,804,5-H11,5,Plate 1,H11,EnzoICCB2,SP0132,O21,FK-506 - prolyl cis-trans isomerase inhibitor,ICCB Known Bioactives Library,0.249,Inhibitors:  FKBP ligand,DMSO,2840,FK-506 - prolyl cis-trans isomerase inhibitor
+T-126,Wiskostatin,426.1,6-H11,6,Plate 2,H11,EnzoICCB2,SP0132,O22,Wiskostatin - N-WASP inhibitor,ICCB Known Bioactives Library,0.469,Inhibitors:  N-WASP inhibitor,DMSO,2840,Wiskostatin - N-WASP inhibitor
+,,,,,Plate 1,A01,EnzoICCB2,SP0132,A01,DMSOA01,,,,,,DMSOA01
+,,,,,Plate 1,B01,EnzoICCB2,SP0132,C01,DMSOC01,,,,,,DMSOC01
+,,,,,Plate 1,C01,EnzoICCB2,SP0132,E01,DMSOE01,,,,,,DMSOE01
+,,,,,Plate 1,D01,EnzoICCB2,SP0132,G01,DMSOG01,,,,,,DMSOG01
+,,,,,Plate 1,E01,EnzoICCB2,SP0132,I01,DMSOI01,,,,,,DMSOI01
+,,,,,Plate 1,F01,EnzoICCB2,SP0132,K01,DMSOK01,,,,,,DMSOK01
+,,,,,Plate 1,G01,EnzoICCB2,SP0132,M01,DMSOM01,,,,,,DMSOM01
+,,,,,Plate 1,H01,EnzoICCB2,SP0132,O01,DMSOO01,,,,,,DMSOO01
+,,,,,Plate 4,A01,EnzoICCB2,SP0132,B02,DMSOB02,,,,,,DMSOB02
+,,,,,Plate 4,B01,EnzoICCB2,SP0132,D02,DMSOD02,,,,,,DMSOD02
+,,,,,Plate 4,C01,EnzoICCB2,SP0132,F02,DMSOF02,,,,,,DMSOF02
+,,,,,Plate 4,D01,EnzoICCB2,SP0132,H02,DMSOH02,,,,,,DMSOH02
+,,,,,Plate 4,E01,EnzoICCB2,SP0132,J02,DMSOJ02,,,,,,DMSOJ02
+,,,,,Plate 4,F01,EnzoICCB2,SP0132,L02,DMSOL02,,,,,,DMSOL02
+,,,,,Plate 4,G01,EnzoICCB2,SP0132,N02,DMSON02,,,,,,DMSON02
+,,,,,Plate 4,H01,EnzoICCB2,SP0132,P02,DMSOP02,,,,,,DMSOP02
+,,,,,Plate 1,A12,EnzoICCB2,SP0132,A23,DMSOA23,,,,,,DMSOA23
+,,,,,Plate 1,B12,EnzoICCB2,SP0132,C23,DMSOC23,,,,,,DMSOC23
+,,,,,Plate 1,C12,EnzoICCB2,SP0132,E23,DMSOE23,,,,,,DMSOE23
+,,,,,Plate 1,D12,EnzoICCB2,SP0132,G23,DMSOG23,,,,,,DMSOG23
+,,,,,Plate 1,E12,EnzoICCB2,SP0132,I23,DMSOI23,,,,,,DMSOI23
+,,,,,Plate 1,F12,EnzoICCB2,SP0132,K23,DMSOK23,,,,,,DMSOK23
+,,,,,Plate 1,G12,EnzoICCB2,SP0132,M23,DMSOM23,,,,,,DMSOM23
+,,,,,Plate 1,H12,EnzoICCB2,SP0132,O23,DMSOO23,,,,,,DMSOO23
+,,,,,Plate 4,A12,EnzoICCB2,SP0132,B24,DMSOB24,,,,,,DMSOB24
+,,,,,Plate 4,B12,EnzoICCB2,SP0132,D24,DMSOD24,,,,,,DMSOD24
+,,,,,Plate 4,C12,EnzoICCB2,SP0132,F24,DMSOF24,,,,,,DMSOF24
+,,,,,Plate 4,D12,EnzoICCB2,SP0132,H24,DMSOH24,,,,,,DMSOH24
+,,,,,Plate 4,E12,EnzoICCB2,SP0132,J24,DMSOJ24,,,,,,DMSOJ24
+,,,,,Plate 4,F12,EnzoICCB2,SP0132,L24,DMSOL24,,,,,,DMSOL24
+,,,,,Plate 4,G12,EnzoICCB2,SP0132,N24,DMSON24,,,,,,DMSON24
+,,,,,Plate 4,H12,EnzoICCB2,SP0132,P24,DMSOP24,,,,,,DMSOP24

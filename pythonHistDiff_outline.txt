@@ -1,0 +1,40 @@
+build the exact pipeline in pandas/numpy vectorized
+possibly build wrappers with like numba to parallelize --> dask/ray pyspark
+
+what are the dimensions for each of the steps?? write it out
+
+1) plateMap digest to lookup table; 384 wells
+2) min/max needed for python hist?; yes, nan's fuck with eveything
+3) np.histogram --> use as DF.apply(?) -->spits another DF 20 rows x n features
+4) vectorized smoothing on np.hist DF
+5) normalized histogram (use off-the bench?)
+6) histSquareDiff (vectorized if possible?)
+7) WHERE IS THE -1??
+
+
+longdouble float64 dtype
+
+
+skipColumns = [
+ 'Orientation_IMA_Summary','Cell_ID','Instance','Plate_ID',
+ 'Run_Settings_ID','Series_ID','Site_ID','WellName','Well_X','Well_Y',
+ 'Cell_Vesicle_Count_Transfluor','Cell_Vesicle_Average_Intensity_Transfluor',
+ 'Cell_Vesicle_Integrated_Intensity_Transfluor','Cell_Vesicle_Total_Area_Transfluor',
+ 'Cell_Scoring_Profile_MultiWaveScoring',
+ 'Laser_focus_score_MultiWaveScoring',
+ 'Laser_focus_score_Transfluor',
+ 'Laser_focus_score_Micronuclei',
+ 'Centroid_Y_IMA_Summary',
+ 'Centroid_X_IMA_Summary'
+ ]
+
+
+simple for loop on all 384 wells, vs modin, maybe numba.jit??
+
+how histograms are formed, especially on borderline decisions
+ code produces same result --> good
+ is the first bin depriortization to 0 actually intended??
+
+ formula only works if difference results in integeters (for -1 exponent)
+
+ code steps, and what they mean in ppt.

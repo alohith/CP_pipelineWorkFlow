@@ -1,0 +1,97 @@
+384 plate ID,Plate Map,Well,Human Readable Name,MoleculeID,Concentration,Unit,Well X,Well Y
+Hughes001,SP90093,A03,ammosamide C,ammosamide C,10,m,3,1
+Hughes001,SP90093,A04,marinopyrrole,marinopyrrole,10,m,4,1
+Hughes001,SP90093,A05,cyclomarin,cyclomarin,10,m,5,1
+Hughes001,SP90093,A06,salinamide,salinamide,10,m,6,1
+Hughes001,SP90093,A07,chlorizidine acetate,chlorizidine acetate,10,m,7,1
+Hughes001,SP90093,A08,salinosporamide,salinosporamide,10,m,8,1
+Hughes001,SP90093,B03,ammosamide C,ammosamide C,5,m,3,2
+Hughes001,SP90093,B04,marinopyrrole,marinopyrrole,5,m,4,2
+Hughes001,SP90093,B05,cyclomarin,cyclomarin,5,m,5,2
+Hughes001,SP90093,B06,salinamide,salinamide,5,m,6,2
+Hughes001,SP90093,B07,chlorizidine acetate,chlorizidine acetate,5,m,7,2
+Hughes001,SP90093,B08,salinosporamide,salinosporamide,5,m,8,2
+Hughes001,SP90093,C03,ammosamide C,ammosamide C,2.5,m,3,3
+Hughes001,SP90093,C04,marinopyrrole,marinopyrrole,2.5,m,4,3
+Hughes001,SP90093,C05,cyclomarin,cyclomarin,2.5,m,5,3
+Hughes001,SP90093,C06,salinamide,salinamide,2.5,m,6,3
+Hughes001,SP90093,C07,chlorizidine acetate,chlorizidine acetate,2.5,m,7,3
+Hughes001,SP90093,C08,salinosporamide,salinosporamide,2.5,m,8,3
+Hughes001,SP90093,D03,ammosamide C,ammosamide C,1.25,m,3,4
+Hughes001,SP90093,D04,marinopyrrole,marinopyrrole,1.25,m,4,4
+Hughes001,SP90093,D05,cyclomarin,cyclomarin,1.25,m,5,4
+Hughes001,SP90093,D06,salinamide,salinamide,1.25,m,6,4
+Hughes001,SP90093,D07,chlorizidine acetate,chlorizidine acetate,1.25,m,7,4
+Hughes001,SP90093,D08,salinosporamide,salinosporamide,1.25,m,8,4
+Hughes001,SP90093,E03,ammosamide C,ammosamide C,0.625,m,3,5
+Hughes001,SP90093,E04,marinopyrrole,marinopyrrole,0.625,m,4,5
+Hughes001,SP90093,E05,cyclomarin,cyclomarin,0.625,m,5,5
+Hughes001,SP90093,E06,salinamide,salinamide,0.625,m,6,5
+Hughes001,SP90093,E07,chlorizidine acetate,chlorizidine acetate,0.625,m,7,5
+Hughes001,SP90093,E08,salinosporamide,salinosporamide,0.625,m,8,5
+Hughes001,SP90093,F03,ammosamide C,ammosamide C,0.3125,m,3,6
+Hughes001,SP90093,F04,marinopyrrole,marinopyrrole,0.3125,m,4,6
+Hughes001,SP90093,F05,cyclomarin,cyclomarin,0.3125,m,5,6
+Hughes001,SP90093,F06,salinamide,salinamide,0.3125,m,6,6
+Hughes001,SP90093,F07,chlorizidine acetate,chlorizidine acetate,0.3125,m,7,6
+Hughes001,SP90093,F08,salinosporamide,salinosporamide,0.3125,m,8,6
+Hughes001,SP90093,G03,ammosamide C,ammosamide C,0.15625,m,3,7
+Hughes001,SP90093,G04,marinopyrrole,marinopyrrole,0.15625,m,4,7
+Hughes001,SP90093,G05,cyclomarin,cyclomarin,0.15625,m,5,7
+Hughes001,SP90093,G06,salinamide,salinamide,0.15625,m,6,7
+Hughes001,SP90093,G07,chlorizidine acetate,chlorizidine acetate,0.15625,m,7,7
+Hughes001,SP90093,G08,salinosporamide,salinosporamide,0.15625,m,8,7
+Hughes001,SP90093,H03,ammosamide C,ammosamide C,0.078125,m,3,8
+Hughes001,SP90093,H04,marinopyrrole,marinopyrrole,0.078125,m,4,8
+Hughes001,SP90093,H05,cyclomarin,cyclomarin,0.078125,m,5,8
+Hughes001,SP90093,H06,salinamide,salinamide,0.078125,m,6,8
+Hughes001,SP90093,H07,chlorizidine acetate,chlorizidine acetate,0.078125,m,7,8
+Hughes001,SP90093,H08,salinosporamide,salinosporamide,0.078125,m,8,8
+Hughes001,SP90093,I03,ammosamide C,ammosamide C,0.0390625,m,3,9
+Hughes001,SP90093,I04,marinopyrrole,marinopyrrole,0.0390625,m,4,9
+Hughes001,SP90093,I05,cyclomarin,cyclomarin,0.0390625,m,5,9
+Hughes001,SP90093,I06,salinamide,salinamide,0.0390625,m,6,9
+Hughes001,SP90093,I07,chlorizidine acetate,chlorizidine acetate,0.0390625,m,7,9
+Hughes001,SP90093,I08,salinosporamide,salinosporamide,0.0390625,m,8,9
+Hughes001,SP90093,J03,ammosamide C,ammosamide C,0.01953125,m,3,10
+Hughes001,SP90093,J04,marinopyrrole,marinopyrrole,0.01953125,m,4,10
+Hughes001,SP90093,J05,cyclomarin,cyclomarin,0.01953125,m,5,10
+Hughes001,SP90093,J06,salinamide,salinamide,0.01953125,m,6,10
+Hughes001,SP90093,J07,chlorizidine acetate,chlorizidine acetate,0.01953125,m,7,10
+Hughes001,SP90093,J08,salinosporamide,salinosporamide,0.01953125,m,8,10
+Hughes001,SP90093,K03,ammosamide C,ammosamide C,0.009765625,m,3,11
+Hughes001,SP90093,K04,marinopyrrole,marinopyrrole,0.009765625,m,4,11
+Hughes001,SP90093,K05,cyclomarin,cyclomarin,0.009765625,m,5,11
+Hughes001,SP90093,K06,salinamide,salinamide,0.009765625,m,6,11
+Hughes001,SP90093,K07,chlorizidine acetate,chlorizidine acetate,0.009765625,m,7,11
+Hughes001,SP90093,K08,salinosporamide,salinosporamide,0.009765625,m,8,11
+Hughes001,SP90093,L03,ammosamide C,ammosamide C,0.004882813,m,3,12
+Hughes001,SP90093,L04,marinopyrrole,marinopyrrole,0.004882813,m,4,12
+Hughes001,SP90093,L05,cyclomarin,cyclomarin,0.004882813,m,5,12
+Hughes001,SP90093,L06,salinamide,salinamide,0.004882813,m,6,12
+Hughes001,SP90093,L07,chlorizidine acetate,chlorizidine acetate,0.004882813,m,7,12
+Hughes001,SP90093,L08,salinosporamide,salinosporamide,0.004882813,m,8,12
+Hughes001,SP90093,M03,ammosamide C,ammosamide C,0.002441406,m,3,13
+Hughes001,SP90093,M04,marinopyrrole,marinopyrrole,0.002441406,m,4,13
+Hughes001,SP90093,M05,cyclomarin,cyclomarin,0.002441406,m,5,13
+Hughes001,SP90093,M06,salinamide,salinamide,0.002441406,m,6,13
+Hughes001,SP90093,M07,chlorizidine acetate,chlorizidine acetate,0.002441406,m,7,13
+Hughes001,SP90093,M08,salinosporamide,salinosporamide,0.002441406,m,8,13
+Hughes001,SP90093,N03,ammosamide C,ammosamide C,0.001220703,m,3,14
+Hughes001,SP90093,N04,marinopyrrole,marinopyrrole,0.001220703,m,4,14
+Hughes001,SP90093,N05,cyclomarin,cyclomarin,0.001220703,m,5,14
+Hughes001,SP90093,N06,salinamide,salinamide,0.001220703,m,6,14
+Hughes001,SP90093,N07,chlorizidine acetate,chlorizidine acetate,0.001220703,m,7,14
+Hughes001,SP90093,N08,salinosporamide,salinosporamide,0.001220703,m,8,14
+Hughes001,SP90093,O03,ammosamide C,ammosamide C,0.000610352,m,3,15
+Hughes001,SP90093,O04,marinopyrrole,marinopyrrole,0.000610352,m,4,15
+Hughes001,SP90093,O05,cyclomarin,cyclomarin,0.000610352,m,5,15
+Hughes001,SP90093,O06,salinamide,salinamide,0.000610352,m,6,15
+Hughes001,SP90093,O07,chlorizidine acetate,chlorizidine acetate,0.000610352,m,7,15
+Hughes001,SP90093,O08,salinosporamide,salinosporamide,0.000610352,m,8,15
+Hughes001,SP90093,P03,ammosamide C,ammosamide C,0.000305176,m,3,16
+Hughes001,SP90093,P04,marinopyrrole,marinopyrrole,0.000305176,m,4,16
+Hughes001,SP90093,P05,cyclomarin,cyclomarin,0.000305176,m,5,16
+Hughes001,SP90093,P06,salinamide,salinamide,0.000305176,m,6,16
+Hughes001,SP90093,P07,chlorizidine acetate,chlorizidine acetate,0.000305176,m,7,16
+Hughes001,SP90093,P08,salinosporamide,salinosporamide,0.000305176,m,8,16

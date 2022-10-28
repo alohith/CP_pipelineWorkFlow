@@ -1,0 +1,241 @@
+Plate Map,Well,Human Readable Name,MoleculeID,Concentration,Unit
+SP10067,A01,DMSOA01,DMSOA01
+SP10067,A03,LPS,LPS,5,m
+SP10067,A05,Avicin D,Avicin D,1,m
+SP10067,A07,Avicin G,Avicin G,2.5,m
+SP10067,A09,088A10A FD,088A10A FD,50,m
+SP10067,A13,Mithramycin,Mithramycin,20,m
+SP10067,A14,Resitoflavin,Resitoflavin,20,m
+SP10067,A15,Tetracenomycin D,Tetracenomycin D,20,m
+SP10067,A16,Resitomycin,Resitomycin,20,m
+SP10067,A17,Ammosamide B,Ammosamide B,20,m
+SP10067,A18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,20,m
+SP10067,A19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,20,m
+SP10067,A20,Cycloprodigiosin,Cycloprodigiosin,5,m
+SP10067,A21,Piericidin A1,Piericidin A1,30,m
+SP10067,A23,DMSOA23,DMSOA23
+SP10067,B02,DMSOB02,DMSOB02
+SP10067,B03,LPS,LPS,2.5,m
+SP10067,B05,Avicin D,Avicin D,0.5,m
+SP10067,B07,Avicin G,Avicin G,1.25,m
+SP10067,B09,088A10A FD,088A10A FD,25,m
+SP10067,B13,Mithramycin,Mithramycin,10,m
+SP10067,B14,Resitoflavin,Resitoflavin,10,m
+SP10067,B15,Tetracenomycin D,Tetracenomycin D,10,m
+SP10067,B16,Resitomycin,Resitomycin,10,m
+SP10067,B17,Ammosamide B,Ammosamide B,10,m
+SP10067,B18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,10,m
+SP10067,B19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,10,m
+SP10067,B20,Cycloprodigiosin,Cycloprodigiosin,2.5,m
+SP10067,B21,Piericidin A1,Piericidin A1,15,m
+SP10067,B24,DMSOB24,DMSOB24
+SP10067,C01,DMSOC01,DMSOC01
+SP10067,C03,LPS,LPS,1.25,m
+SP10067,C05,Avicin D,Avicin D,0.25,m
+SP10067,C07,Avicin G,Avicin G,0.625,m
+SP10067,C09,088A10A FD,088A10A FD,12.5,m
+SP10067,C13,Mithramycin,Mithramycin,5,m
+SP10067,C14,Resitoflavin,Resitoflavin,5,m
+SP10067,C15,Tetracenomycin D,Tetracenomycin D,5,m
+SP10067,C16,Resitomycin,Resitomycin,5,m
+SP10067,C17,Ammosamide B,Ammosamide B,5,m
+SP10067,C18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,5,m
+SP10067,C19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,5,m
+SP10067,C20,Cycloprodigiosin,Cycloprodigiosin,1.25,m
+SP10067,C21,Piericidin A1,Piericidin A1,7.5,m
+SP10067,C23,DMSOC23,DMSOC23
+SP10067,D02,DMSOD02,DMSOD02
+SP10067,D03,LPS,LPS,0.625,m
+SP10067,D05,Avicin D,Avicin D,0.125,m
+SP10067,D07,Avicin G,Avicin G,0.3125,m
+SP10067,D09,088A10A FD,088A10A FD,6.25,m
+SP10067,D13,Mithramycin,Mithramycin,2.5,m
+SP10067,D14,Resitoflavin,Resitoflavin,2.5,m
+SP10067,D15,Tetracenomycin D,Tetracenomycin D,2.5,m
+SP10067,D16,Resitomycin,Resitomycin,2.5,m
+SP10067,D17,Ammosamide B,Ammosamide B,2.5,m
+SP10067,D18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,2.5,m
+SP10067,D19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,2.5,m
+SP10067,D20,Cycloprodigiosin,Cycloprodigiosin,0.625,m
+SP10067,D21,Piericidin A1,Piericidin A1,3.75,m
+SP10067,D24,DMSOD24,DMSOD24
+SP10067,E01,DMSOE01,DMSOE01
+SP10067,E03,LPS,LPS,0.3125,m
+SP10067,E05,Avicin D,Avicin D,0.0625,m
+SP10067,E07,Avicin G,Avicin G,0.15625,m
+SP10067,E09,088A10A FD,088A10A FD,3.125,m
+SP10067,E13,Mithramycin,Mithramycin,1.25,m
+SP10067,E14,Resitoflavin,Resitoflavin,1.25,m
+SP10067,E15,Tetracenomycin D,Tetracenomycin D,1.25,m
+SP10067,E16,Resitomycin,Resitomycin,1.25,m
+SP10067,E17,Ammosamide B,Ammosamide B,1.25,m
+SP10067,E18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,1.25,m
+SP10067,E19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,1.25,m
+SP10067,E20,Cycloprodigiosin,Cycloprodigiosin,0.3125,m
+SP10067,E21,Piericidin A1,Piericidin A1,1.875,m
+SP10067,E23,DMSOE23,DMSOE23
+SP10067,F02,DMSOF02,DMSOF02
+SP10067,F03,LPS,LPS,0.15625,m
+SP10067,F05,Avicin D,Avicin D,0.03125,m
+SP10067,F07,Avicin G,Avicin G,0.078125,m
+SP10067,F09,088A10A FD,088A10A FD,1.5625,m
+SP10067,F13,Mithramycin,Mithramycin,0.625,m
+SP10067,F14,Resitoflavin,Resitoflavin,0.625,m
+SP10067,F15,Tetracenomycin D,Tetracenomycin D,0.625,m
+SP10067,F16,Resitomycin,Resitomycin,0.625,m
+SP10067,F17,Ammosamide B,Ammosamide B,0.625,m
+SP10067,F18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.625,m
+SP10067,F19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.625,m
+SP10067,F20,Cycloprodigiosin,Cycloprodigiosin,0.15625,m
+SP10067,F21,Piericidin A1,Piericidin A1,0.9375,m
+SP10067,F24,DMSOF24,DMSOF24
+SP10067,G01,DMSOG01,DMSOG01
+SP10067,G03,LPS,LPS,0.078125,m
+SP10067,G05,Avicin D,Avicin D,0.015625,m
+SP10067,G07,Avicin G,Avicin G,0.0390625,m
+SP10067,G09,088A10A FD,088A10A FD,0.78125,m
+SP10067,G13,Mithramycin,Mithramycin,0.3125,m
+SP10067,G14,Resitoflavin,Resitoflavin,0.3125,m
+SP10067,G15,Tetracenomycin D,Tetracenomycin D,0.3125,m
+SP10067,G16,Resitomycin,Resitomycin,0.3125,m
+SP10067,G17,Ammosamide B,Ammosamide B,0.3125,m
+SP10067,G18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.3125,m
+SP10067,G19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.3125,m
+SP10067,G20,Cycloprodigiosin,Cycloprodigiosin,0.078125,m
+SP10067,G21,Piericidin A1,Piericidin A1,0.46875,m
+SP10067,G23,DMSOG23,DMSOG23
+SP10067,H02,DMSOH02,DMSOH02
+SP10067,H03,LPS,LPS,0.0390625,m
+SP10067,H05,Avicin D,Avicin D,0.0078125,m
+SP10067,H07,Avicin G,Avicin G,0.01953125,m
+SP10067,H09,088A10A FD,088A10A FD,0.390625,m
+SP10067,H13,Mithramycin,Mithramycin,0.15625,m
+SP10067,H14,Resitoflavin,Resitoflavin,0.15625,m
+SP10067,H15,Tetracenomycin D,Tetracenomycin D,0.15625,m
+SP10067,H16,Resitomycin,Resitomycin,0.15625,m
+SP10067,H17,Ammosamide B,Ammosamide B,0.15625,m
+SP10067,H18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.15625,m
+SP10067,H19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.15625,m
+SP10067,H20,Cycloprodigiosin,Cycloprodigiosin,0.0390625,m
+SP10067,H21,Piericidin A1,Piericidin A1,0.234375,m
+SP10067,H24,DMSOH24,DMSOH24
+SP10067,I01,DMSOI01,DMSOI01
+SP10067,I03,LPS,LPS,0.01953125,m
+SP10067,I05,Avicin D,Avicin D,0.00390625,m
+SP10067,I07,Avicin G,Avicin G,0.009765625,m
+SP10067,I09,088A10A FD,088A10A FD,0.1953125,m
+SP10067,I13,Mithramycin,Mithramycin,0.078125,m
+SP10067,I14,Resitoflavin,Resitoflavin,0.078125,m
+SP10067,I15,Tetracenomycin D,Tetracenomycin D,0.078125,m
+SP10067,I16,Resitomycin,Resitomycin,0.078125,m
+SP10067,I17,Ammosamide B,Ammosamide B,0.078125,m
+SP10067,I18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.078125,m
+SP10067,I19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.078125,m
+SP10067,I20,Cycloprodigiosin,Cycloprodigiosin,0.01953125,m
+SP10067,I21,Piericidin A1,Piericidin A1,0.1171875,m
+SP10067,I23,DMSOI23,DMSOI23
+SP10067,J02,DMSOJ02,DMSOJ02
+SP10067,J03,LPS,LPS,0.009765625,m
+SP10067,J05,Avicin D,Avicin D,0.001953125,m
+SP10067,J07,Avicin G,Avicin G,0.004882813,m
+SP10067,J09,088A10A FD,088A10A FD,0.09765625,m
+SP10067,J13,Mithramycin,Mithramycin,0.0390625,m
+SP10067,J14,Resitoflavin,Resitoflavin,0.0390625,m
+SP10067,J15,Tetracenomycin D,Tetracenomycin D,0.0390625,m
+SP10067,J16,Resitomycin,Resitomycin,0.0390625,m
+SP10067,J17,Ammosamide B,Ammosamide B,0.0390625,m
+SP10067,J18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.0390625,m
+SP10067,J19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.0390625,m
+SP10067,J20,Cycloprodigiosin,Cycloprodigiosin,0.009765625,m
+SP10067,J21,Piericidin A1,Piericidin A1,0.05859375,m
+SP10067,J24,DMSOJ24,DMSOJ24
+SP10067,K01,DMSOK01,DMSOK01
+SP10067,K03,LPS,LPS,0.004882813,m
+SP10067,K05,Avicin D,Avicin D,0.000976563,m
+SP10067,K07,Avicin G,Avicin G,0.002441406,m
+SP10067,K09,088A10A FD,088A10A FD,0.048828125,m
+SP10067,K13,Mithramycin,Mithramycin,0.01953125,m
+SP10067,K14,Resitoflavin,Resitoflavin,0.01953125,m
+SP10067,K15,Tetracenomycin D,Tetracenomycin D,0.01953125,m
+SP10067,K16,Resitomycin,Resitomycin,0.01953125,m
+SP10067,K17,Ammosamide B,Ammosamide B,0.01953125,m
+SP10067,K18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.01953125,m
+SP10067,K19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.01953125,m
+SP10067,K20,Cycloprodigiosin,Cycloprodigiosin,0.004882813,m
+SP10067,K21,Piericidin A1,Piericidin A1,0.029296875,m
+SP10067,K23,DMSOK23,DMSOK23
+SP10067,L02,DMSOL02,DMSOL02
+SP10067,L03,LPS,LPS,0.002441406,m
+SP10067,L05,Avicin D,Avicin D,0.000488281,m
+SP10067,L07,Avicin G,Avicin G,0.001220703,m
+SP10067,L09,088A10A FD,088A10A FD,0.024414063,m
+SP10067,L13,Mithramycin,Mithramycin,0.009765625,m
+SP10067,L14,Resitoflavin,Resitoflavin,0.009765625,m
+SP10067,L15,Tetracenomycin D,Tetracenomycin D,0.009765625,m
+SP10067,L16,Resitomycin,Resitomycin,0.009765625,m
+SP10067,L17,Ammosamide B,Ammosamide B,0.009765625,m
+SP10067,L18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.009765625,m
+SP10067,L19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.009765625,m
+SP10067,L20,Cycloprodigiosin,Cycloprodigiosin,0.002441406,m
+SP10067,L21,Piericidin A1,Piericidin A1,0.014648438,m
+SP10067,L24,DMSOL24,DMSOL24
+SP10067,M01,DMSOM01,DMSOM01
+SP10067,M03,LPS,LPS,0.001220703,m
+SP10067,M05,Avicin D,Avicin D,0.000244141,m
+SP10067,M07,Avicin G,Avicin G,0.000610352,m
+SP10067,M09,088A10A FD,088A10A FD,0.012207031,m
+SP10067,M13,Mithramycin,Mithramycin,0.004882813,m
+SP10067,M14,Resitoflavin,Resitoflavin,0.004882813,m
+SP10067,M15,Tetracenomycin D,Tetracenomycin D,0.004882813,m
+SP10067,M16,Resitomycin,Resitomycin,0.004882813,m
+SP10067,M17,Ammosamide B,Ammosamide B,0.004882813,m
+SP10067,M18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.004882813,m
+SP10067,M19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.004882813,m
+SP10067,M20,Cycloprodigiosin,Cycloprodigiosin,0.001220703,m
+SP10067,M21,Piericidin A1,Piericidin A1,0.007324219,m
+SP10067,M23,DMSOM23,DMSOM23
+SP10067,N02,DMSON02,DMSON02
+SP10067,N03,LPS,LPS,0.000610352,m
+SP10067,N05,Avicin D,Avicin D,0.00012207,m
+SP10067,N07,Avicin G,Avicin G,0.000305176,m
+SP10067,N09,088A10A FD,088A10A FD,0.006103516,m
+SP10067,N13,Mithramycin,Mithramycin,0.002441406,m
+SP10067,N14,Resitoflavin,Resitoflavin,0.002441406,m
+SP10067,N15,Tetracenomycin D,Tetracenomycin D,0.002441406,m
+SP10067,N16,Resitomycin,Resitomycin,0.002441406,m
+SP10067,N17,Ammosamide B,Ammosamide B,0.002441406,m
+SP10067,N18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.002441406,m
+SP10067,N19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.002441406,m
+SP10067,N20,Cycloprodigiosin,Cycloprodigiosin,0.000610352,m
+SP10067,N21,Piericidin A1,Piericidin A1,0.003662109,m
+SP10067,N24,DMSON24,DMSON24
+SP10067,O01,DMSOO01,DMSOO01
+SP10067,O03,LPS,LPS,0.000305176,m
+SP10067,O05,Avicin D,Avicin D,6.10E-05,m
+SP10067,O07,Avicin G,Avicin G,0.000152588,m
+SP10067,O09,088A10A FD,088A10A FD,0.003051758,m
+SP10067,O13,Mithramycin,Mithramycin,0.001220703,m
+SP10067,O14,Resitoflavin,Resitoflavin,0.001220703,m
+SP10067,O15,Tetracenomycin D,Tetracenomycin D,0.001220703,m
+SP10067,O16,Resitomycin,Resitomycin,0.001220703,m
+SP10067,O17,Ammosamide B,Ammosamide B,0.001220703,m
+SP10067,O18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.001220703,m
+SP10067,O19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.001220703,m
+SP10067,O20,Cycloprodigiosin,Cycloprodigiosin,0.000305176,m
+SP10067,O21,Piericidin A1,Piericidin A1,0.001831055,m
+SP10067,O23,DMSOO23,DMSOO23
+SP10067,P02,DMSOP02,DMSOP02
+SP10067,P03,LPS,LPS,0.000152588,m
+SP10067,P05,Avicin D,Avicin D,3.05E-05,m
+SP10067,P07,Avicin G,Avicin G,7.63E-05,m
+SP10067,P09,088A10A FD,088A10A FD,0.001525879,m
+SP10067,P13,Mithramycin,Mithramycin,0.000610352,m
+SP10067,P14,Resitoflavin,Resitoflavin,0.000610352,m
+SP10067,P15,Tetracenomycin D,Tetracenomycin D,0.000610352,m
+SP10067,P16,Resitomycin,Resitomycin,0.000610352,m
+SP10067,P17,Ammosamide B,Ammosamide B,0.000610352,m
+SP10067,P18,1:1 Resistomycin Resistoflavin,1:1 Resistomycin Resistoflavin,0.000610352,m
+SP10067,P19,1:1:1 Resitomycin Resistoflavin TetD,1:1:1 Resitomycin Resistoflavin TetD,0.000610352,m
+SP10067,P20,Cycloprodigiosin,Cycloprodigiosin,0.000152588,m
+SP10067,P21,Piericidin A1,Piericidin A1,0.000915527,m
+SP10067,P24,DMSOP24,DMSOP24

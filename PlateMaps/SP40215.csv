@@ -1,0 +1,118 @@
+96 plate ID,96 plate number,96 well,384 plate ID,Plate Map,Well,Human Readable Name,MoleculeID,Concentration,Unit,Well X,Well Y
+,Plate 1,A02,,,A03,Cordy A,Cordy A,10,m,3,1
+,Plate 1,A03,,,A05,Cordy C,Cordy C,10,m,5,1
+,Plate 2,A03,,,A06,Cordy A - F3A,Cordy A - F3A,10,m,6,1
+,Plate 1,A04,,,A07,Didemin B,Didemin B,2,m,7,1
+,Plate 2,A04,,,A08,Ternatin - 3,Ternatin - 3,10,m,8,1
+,Plate 1,A05,,,A09,phyllanthoside,phyllanthoside,10,m,9,1
+,Plate 2,A05,,,A10,chromomycin A3 ,chromomycin A3 ,10,m,10,1
+,Plate 1,A06,,,A11,Cycloheximide ,Cycloheximide ,10,m,11,1
+,Plate 2,A06,,,A12,Anisomycin,Anisomycin,10,m,12,1
+,Plate 1,A07,,,A13,Bouvardin,Bouvardin,10,m,13,1
+,Plate 2,A07,,,A14,Vinorelbine tartrate (Navelbine),Vinorelbine tartrate (Navelbine),10,m,14,1
+,Plate 1,A08,,,A15,ansatrienin A,ansatrienin A,10,m,15,1
+,Plate 2,A08,,,A16,bisantrene hydrochloride,bisantrene hydrochloride,10,m,16,1
+,Plate 1,A09,,,A17,Hydroxyurea,Hydroxyurea,10,m,17,1
+,Plate 2,A09,,,A18,DMSO,DMSO,,,18,1
+,Plate 1,A10,,,A19,DMSO,DMSO,,,19,1
+,Plate 2,A10,,,A20,DMSO,DMSO,,,20,1
+,Plate 1,A11,,,A21,DMSO,DMSO,,,21,1
+,Plate 2,A11,,,A22,DMSO,DMSO,,,22,1
+,Plate 3,A02,,,B03,Cordy A,Cordy A,2,m,3,2
+,Plate 3,A03,,,B05,Cordy C,Cordy C,2,m,5,2
+,Plate 4,A03,,,B06,Cordy A - F3A,Cordy A - F3A,2,m,6,2
+,Plate 3,A04,,,B07,Didemin B,Didemin B,0.4,m,7,2
+,Plate 4,A04,,,B08,Ternatin - 3,Ternatin - 3,2,m,8,2
+,Plate 3,A05,,,B09,phyllanthoside,phyllanthoside,2,m,9,2
+,Plate 4,A05,,,B10,chromomycin A3 ,chromomycin A3 ,2,m,10,2
+,Plate 3,A06,,,B11,Cycloheximide ,Cycloheximide ,2,m,11,2
+,Plate 4,A06,,,B12,Anisomycin,Anisomycin,2,m,12,2
+,Plate 3,A07,,,B13,Bouvardin,Bouvardin,2,m,13,2
+,Plate 4,A07,,,B14,Vinorelbine tartrate (Navelbine),Vinorelbine tartrate (Navelbine),2,m,14,2
+,Plate 3,A08,,,B15,ansatrienin A,ansatrienin A,2,m,15,2
+,Plate 4,A08,,,B16,bisantrene hydrochloride,bisantrene hydrochloride,2,m,16,2
+,Plate 3,A09,,,B17,Hydroxyurea,Hydroxyurea,2,m,17,2
+,Plate 4,A09,,,B18,DMSO,DMSO,,,18,2
+,Plate 3,A10,,,B19,DMSO,DMSO,,,19,2
+,Plate 4,A10,,,B20,DMSO,DMSO,,,20,2
+,Plate 3,A11,,,B21,DMSO,DMSO,,,21,2
+,Plate 4,A11,,,B22,DMSO,DMSO,,,22,2
+,Plate 1,B02,,,C03,Cordy A,Cordy A,0.4,m,3,3
+,Plate 1,B03,,,C05,Cordy C,Cordy C,0.4,m,5,3
+,Plate 2,B03,,,C06,Cordy A - F3A,Cordy A - F3A,0.4,m,6,3
+,Plate 1,B04,,,C07,Didemin B,Didemin B,0.08,m,7,3
+,Plate 2,B04,,,C08,Ternatin - 3,Ternatin - 3,0.4,m,8,3
+,Plate 1,B05,,,C09,phyllanthoside,phyllanthoside,0.4,m,9,3
+,Plate 2,B05,,,C10,chromomycin A3 ,chromomycin A3 ,0.4,m,10,3
+,Plate 1,B06,,,C11,Cycloheximide ,Cycloheximide ,0.4,m,11,3
+,Plate 2,B06,,,C12,Anisomycin,Anisomycin,0.4,m,12,3
+,Plate 1,B07,,,C13,Bouvardin,Bouvardin,0.4,m,13,3
+,Plate 2,B07,,,C14,Vinorelbine tartrate (Navelbine),Vinorelbine tartrate (Navelbine),0.4,m,14,3
+,Plate 1,B08,,,C15,ansatrienin A,ansatrienin A,0.4,m,15,3
+,Plate 2,B08,,,C16,bisantrene hydrochloride,bisantrene hydrochloride,0.4,m,16,3
+,Plate 1,B09,,,C17,Hydroxyurea,Hydroxyurea,0.4,m,17,3
+,Plate 2,B09,,,C18,DMSO,DMSO,,,18,3
+,Plate 1,B10,,,C19,DMSO,DMSO,,,19,3
+,Plate 2,B10,,,C20,DMSO,DMSO,,,20,3
+,Plate 1,B11,,,C21,DMSO,DMSO,,,21,3
+,Plate 2,B11,,,C22,DMSO,DMSO,,,22,3
+,Plate 1,C02,,,E03,Fluorouracil (5-Fluoracil;5-FU) ,Fluorouracil (5-Fluoracil;5-FU) ,10,m,3,5
+,Plate 2,C02,,,E04,Carmofur,Carmofur,10,m,4,5
+,Plate 1,C03,,,E05,Rucaparib (AG-014699;PF-01367338),Rucaparib (AG-014699;PF-01367338),10,m,5,5
+,Plate 2,C03,,,E06,Olaparib (AZD2281;Ku-0059436,Olaparib (AZD2281;Ku-0059436,10,m,6,5
+,Plate 1,C04,,,E07,UK 383367,UK 383367,10,m,7,5
+,Plate 2,C04,,,E08,BIBR 1532,BIBR 1532,10,m,8,5
+,Plate 1,C05,,,E09,Tenoforvir Disoproxil Fumarate,Tenoforvir Disoproxil Fumarate,10,m,9,5
+,Plate 2,C05,,,E10,Methotrexate,Methotrexate,10,m,10,5
+,Plate 1,C06,,,E11,Brivanib,Brivanib,10,m,11,5
+,Plate 2,C06,,,E12,demeclocycline,demeclocycline,10,m,12,5
+,Plate 1,C07,,,E13,bendamustine,bendamustine,10,m,13,5
+,Plate 2,C07,,,E14,teriflunomide,teriflunomide,10,m,14,5
+,Plate 1,C08,,,E15,Puromycin 2HCl ,Puromycin 2HCl ,10,m,15,5
+,Plate 2,C08,,,E16,DMSO,DMSO,,,16,5
+,Plate 1,C09,,,E17,DMSO,DMSO,,,17,5
+,Plate 2,C09,,,E18,DMSO,DMSO,,,18,5
+,Plate 1,C10,,,E19,DMSO,DMSO,,,19,5
+,Plate 2,C10,,,E20,DMSO,DMSO,,,20,5
+,Plate 1,C11,,,E21,DMSO,DMSO,,,21,5
+,Plate 2,C11,,,E22,DMSO,DMSO,,,22,5
+,Plate 3,C02,,,F03,Fluorouracil (5-Fluoracil;5-FU) ,Fluorouracil (5-Fluoracil;5-FU) ,2,m,3,6
+,Plate 4,C02,,,F04,Carmofur,Carmofur,2,m,4,6
+,Plate 3,C03,,,F05,Rucaparib (AG-014699;PF-01367338),Rucaparib (AG-014699;PF-01367338),2,m,5,6
+,Plate 4,C03,,,F06,Olaparib (AZD2281;Ku-0059436,Olaparib (AZD2281;Ku-0059436,2,m,6,6
+,Plate 3,C04,,,F07,UK 383367,UK 383367,2,m,7,6
+,Plate 4,C04,,,F08,BIBR 1532,BIBR 1532,2,m,8,6
+,Plate 3,C05,,,F09,Tenoforvir Disoproxil Fumarate,Tenoforvir Disoproxil Fumarate,2,m,9,6
+,Plate 4,C05,,,F10,Methotrexate,Methotrexate,2,m,10,6
+,Plate 3,C06,,,F11,Brivanib,Brivanib,2,m,11,6
+,Plate 4,C06,,,F12,demeclocycline,demeclocycline,2,m,12,6
+,Plate 3,C07,,,F13,bendamustine,bendamustine,2,m,13,6
+,Plate 4,C07,,,F14,teriflunomide,teriflunomide,2,m,14,6
+,Plate 3,C08,,,F15,Puromycin 2HCl ,Puromycin 2HCl ,2,m,15,6
+,Plate 4,C08,,,F16,DMSO,DMSO,,,16,6
+,Plate 3,C09,,,F17,DMSO,DMSO,,,17,6
+,Plate 4,C09,,,F18,DMSO,DMSO,,,18,6
+,Plate 3,C10,,,F19,DMSO,DMSO,,,19,6
+,Plate 4,C10,,,F20,DMSO,DMSO,,,20,6
+,Plate 3,C11,,,F21,DMSO,DMSO,,,21,6
+,Plate 4,C11,,,F22,DMSO,DMSO,,,22,6
+,Plate 1,D02,,,G03,Fluorouracil (5-Fluoracil;5-FU) ,Fluorouracil (5-Fluoracil;5-FU) ,0.4,m,3,7
+,Plate 2,D02,,,G04,Carmofur,Carmofur,0.4,m,4,7
+,Plate 1,D03,,,G05,Rucaparib (AG-014699;PF-01367338),Rucaparib (AG-014699;PF-01367338),0.4,m,5,7
+,Plate 2,D03,,,G06,Olaparib (AZD2281;Ku-0059436,Olaparib (AZD2281;Ku-0059436,0.4,m,6,7
+,Plate 1,D04,,,G07,UK 383367,UK 383367,0.4,m,7,7
+,Plate 2,D04,,,G08,BIBR 1532,BIBR 1532,0.4,m,8,7
+,Plate 1,D05,,,G09,Tenoforvir Disoproxil Fumarate,Tenoforvir Disoproxil Fumarate,0.4,m,9,7
+,Plate 2,D05,,,G10,Methotrexate,Methotrexate,0.4,m,10,7
+,Plate 1,D06,,,G11,Brivanib,Brivanib,0.4,m,11,7
+,Plate 2,D06,,,G12,demeclocycline,demeclocycline,0.4,m,12,7
+,Plate 1,D07,,,G13,bendamustine,bendamustine,0.4,m,13,7
+,Plate 2,D07,,,G14,teriflunomide,teriflunomide,0.4,m,14,7
+,Plate 1,D08,,,G15,Puromycin 2HCl ,Puromycin 2HCl ,0.4,m,15,7
+,Plate 2,D08,,,G16,DMSO,DMSO,,,16,7
+,Plate 1,D09,,,G17,DMSO,DMSO,,,17,7
+,Plate 2,D09,,,G18,DMSO,DMSO,,,18,7
+,Plate 1,D10,,,G19,DMSO,DMSO,,,19,7
+,Plate 2,D10,,,G20,DMSO,DMSO,,,20,7
+,Plate 1,D11,,,G21,DMSO,DMSO,,,21,7
+,Plate 2,D11,,,G22,DMSO,DMSO,,,22,7

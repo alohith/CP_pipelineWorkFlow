@@ -1,0 +1,145 @@
+Plate Map,Well,Human Readable Name,MoleculeID,Concentration,Unit
+SP90045,A03,Spliceostatin A,Spliceostatin A,0.1,m
+SP90045,A04,PladienolideB,PladienolideB,10,m
+SP90045,A05,PladienolideB C3 epimer,PladienolideB C3 epimer,10,m
+SP90045,A06,PladienolideB C11 epimer,PladienolideB C11 epimer,10,m
+SP90045,A07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,10,m
+SP90045,A08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,10,m
+SP90045,A20,HB,HB,10,m
+SP90045,A21,PB011,PB011,10,m
+SP90045,A22,PB010,PB010,10,m
+SP90045,B03,Spliceostatin A,Spliceostatin A,0.05,m
+SP90045,B04,PladienolideB,PladienolideB,5,m
+SP90045,B05,PladienolideB C3 epimer,PladienolideB C3 epimer,5,m
+SP90045,B06,PladienolideB C11 epimer,PladienolideB C11 epimer,5,m
+SP90045,B07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,5,m
+SP90045,B08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,5,m
+SP90045,B20,HB,HB,5,m
+SP90045,B21,PB011,PB011,5,m
+SP90045,B22,PB010,PB010,5,m
+SP90045,C03,Spliceostatin A,Spliceostatin A,0.025,m
+SP90045,C04,PladienolideB,PladienolideB,2.5,m
+SP90045,C05,PladienolideB C3 epimer,PladienolideB C3 epimer,2.5,m
+SP90045,C06,PladienolideB C11 epimer,PladienolideB C11 epimer,2.5,m
+SP90045,C07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,2.5,m
+SP90045,C08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,2.5,m
+SP90045,C20,HB,HB,2.5,m
+SP90045,C21,PB011,PB011,2.5,m
+SP90045,C22,PB010,PB010,2.5,m
+SP90045,D03,Spliceostatin A,Spliceostatin A,0.0125,m
+SP90045,D04,PladienolideB,PladienolideB,1.25,m
+SP90045,D05,PladienolideB C3 epimer,PladienolideB C3 epimer,1.25,m
+SP90045,D06,PladienolideB C11 epimer,PladienolideB C11 epimer,1.25,m
+SP90045,D07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,1.25,m
+SP90045,D08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,1.25,m
+SP90045,D20,HB,HB,1.25,m
+SP90045,D21,PB011,PB011,1.25,m
+SP90045,D22,PB010,PB010,1.25,m
+SP90045,E03,Spliceostatin A,Spliceostatin A,0.00625,m
+SP90045,E04,PladienolideB,PladienolideB,0.625,m
+SP90045,E05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.625,m
+SP90045,E06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.625,m
+SP90045,E07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.625,m
+SP90045,E08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.625,m
+SP90045,E20,HB,HB,0.625,m
+SP90045,E21,PB011,PB011,0.625,m
+SP90045,E22,PB010,PB010,0.625,m
+SP90045,F03,Spliceostatin A,Spliceostatin A,0.003125,m
+SP90045,F04,PladienolideB,PladienolideB,0.3125,m
+SP90045,F05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.3125,m
+SP90045,F06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.3125,m
+SP90045,F07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.3125,m
+SP90045,F08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.3125,m
+SP90045,F20,HB,HB,0.3125,m
+SP90045,F21,PB011,PB011,0.3125,m
+SP90045,F22,PB010,PB010,0.3125,m
+SP90045,G03,Spliceostatin A,Spliceostatin A,0.0015625,m
+SP90045,G04,PladienolideB,PladienolideB,0.15625,m
+SP90045,G05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.15625,m
+SP90045,G06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.15625,m
+SP90045,G07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.15625,m
+SP90045,G08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.15625,m
+SP90045,G20,HB,HB,0.15625,m
+SP90045,G21,PB011,PB011,0.15625,m
+SP90045,G22,PB010,PB010,0.15625,m
+SP90045,H03,Spliceostatin A,Spliceostatin A,0.00078125,m
+SP90045,H04,PladienolideB,PladienolideB,0.078125,m
+SP90045,H05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.078125,m
+SP90045,H06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.078125,m
+SP90045,H07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.078125,m
+SP90045,H08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.078125,m
+SP90045,H20,HB,HB,0.078125,m
+SP90045,H21,PB011,PB011,0.078125,m
+SP90045,H22,PB010,PB010,0.078125,m
+SP90045,I03,Spliceostatin A,Spliceostatin A,0.000390625,m
+SP90045,I04,PladienolideB,PladienolideB,0.0390625,m
+SP90045,I05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.0390625,m
+SP90045,I06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.0390625,m
+SP90045,I07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.0390625,m
+SP90045,I08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.0390625,m
+SP90045,I20,HB,HB,0.0390625,m
+SP90045,I21,PB011,PB011,0.0390625,m
+SP90045,I22,PB010,PB010,0.0390625,m
+SP90045,J03,Spliceostatin A,Spliceostatin A,0.000195313,m
+SP90045,J04,PladienolideB,PladienolideB,0.01953125,m
+SP90045,J05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.01953125,m
+SP90045,J06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.01953125,m
+SP90045,J07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.01953125,m
+SP90045,J08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.01953125,m
+SP90045,J20,HB,HB,0.01953125,m
+SP90045,J21,PB011,PB011,0.01953125,m
+SP90045,J22,PB010,PB010,0.01953125,m
+SP90045,K03,Spliceostatin A,Spliceostatin A,9.77E-05,m
+SP90045,K04,PladienolideB,PladienolideB,0.009765625,m
+SP90045,K05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.009765625,m
+SP90045,K06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.009765625,m
+SP90045,K07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.009765625,m
+SP90045,K08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.009765625,m
+SP90045,K20,HB,HB,0.009765625,m
+SP90045,K21,PB011,PB011,0.009765625,m
+SP90045,K22,PB010,PB010,0.009765625,m
+SP90045,L03,Spliceostatin A,Spliceostatin A,4.88E-05,m
+SP90045,L04,PladienolideB,PladienolideB,0.004882813,m
+SP90045,L05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.004882813,m
+SP90045,L06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.004882813,m
+SP90045,L07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.004882813,m
+SP90045,L08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.004882813,m
+SP90045,L20,HB,HB,0.004882813,m
+SP90045,L21,PB011,PB011,0.004882813,m
+SP90045,L22,PB010,PB010,0.004882813,m
+SP90045,M03,Spliceostatin A,Spliceostatin A,2.44E-05,m
+SP90045,M04,PladienolideB,PladienolideB,0.002441406,m
+SP90045,M05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.002441406,m
+SP90045,M06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.002441406,m
+SP90045,M07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.002441406,m
+SP90045,M08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.002441406,m
+SP90045,M20,HB,HB,0.002441406,m
+SP90045,M21,PB011,PB011,0.002441406,m
+SP90045,M22,PB010,PB010,0.002441406,m
+SP90045,N03,Spliceostatin A,Spliceostatin A,1.22E-05,m
+SP90045,N04,PladienolideB,PladienolideB,0.001220703,m
+SP90045,N05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.001220703,m
+SP90045,N06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.001220703,m
+SP90045,N07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.001220703,m
+SP90045,N08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.001220703,m
+SP90045,N20,HB,HB,0.001220703,m
+SP90045,N21,PB011,PB011,0.001220703,m
+SP90045,N22,PB010,PB010,0.001220703,m
+SP90045,O03,Spliceostatin A,Spliceostatin A,6.10E-06,m
+SP90045,O04,PladienolideB,PladienolideB,0.000610352,m
+SP90045,O05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.000610352,m
+SP90045,O06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.000610352,m
+SP90045,O07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.000610352,m
+SP90045,O08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.000610352,m
+SP90045,O20,HB,HB,0.000610352,m
+SP90045,O21,PB011,PB011,0.000610352,m
+SP90045,O22,PB010,PB010,0.000610352,m
+SP90045,P03,Spliceostatin A,Spliceostatin A,3.05E-06,m
+SP90045,P04,PladienolideB,PladienolideB,0.000305176,m
+SP90045,P05,PladienolideB C3 epimer,PladienolideB C3 epimer,0.000305176,m
+SP90045,P06,PladienolideB C11 epimer,PladienolideB C11 epimer,0.000305176,m
+SP90045,P07,PladienolideB C18-C19 deoxy,PladienolideB C18-C19 deoxy,0.000305176,m
+SP90045,P08,PladienolideB C11 C18-19,PladienolideB C11 C18-19,0.000305176,m
+SP90045,P20,HB,HB,0.000305176,m
+SP90045,P21,PB011,PB011,0.000305176,m
+SP90045,P22,PB010,PB010,0.000305176,m

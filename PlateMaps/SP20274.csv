@@ -1,0 +1,22 @@
+Plate Map,384 Plate ID,MoleculeID,Sample ID,Human Readable Name,Well,Concentration,Concentration units,Volume,Preparer,Date Prepared,Notes
+HIFAN_TDP_001,SP20274,SW197539-3,Taxifolin,Taxifolin,A03,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222717-1,Isosilychristin,Isosilychristin,A04,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222718-1,Silychristin,Silychristin,A05,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222719-1,Silydianin,Silydianin,A06,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222720-1,Silybin A,Silybin A,A07,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222721-1,Silybin B,Silybin B,A08,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222722-1,Isosilybin A,Isosilybin A,A09,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222723-1,Isosilybin B,Isosilybin B,A10,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222724-1,Silybin A-7-O-beta-D-glucuronide,Silybin A-7-O-beta-D-glucuronide,A11,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222725-1,"Silybin A-4""-O-beta-D-glucuronide","Silybin A-4""-O-beta-D-glucuronide",A12,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222726-1,Silybin B-7-O-beta-D-glucuronide,Silybin B-7-O-beta-D-glucuronide,B03,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222727-1,"Silybin B-4""-O-beta-D-glucuronide","Silybin B-4""-O-beta-D-glucuronide",B04,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222728-1,Isosilybin A-7-O-beta-D-glucuronide,Isosilybin A-7-O-beta-D-glucuronide,B05,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222729-1,"Isosilybin A-4""-O-beta-D-glucuronide","Isosilybin A-4""-O-beta-D-glucuronide",B06,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222730-1,Isosilybin B-7-O-beta-D-glucuronide,Isosilybin B-7-O-beta-D-glucuronide,B07,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222731-1,"Isosilybin B-4""-O-beta-D-glucuronide","Isosilybin B-4""-O-beta-D-glucuronide",B08,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222732-1,Silibinin,Silibinin,B09,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222733-1,Silymarin,Silymarin,B10,10,mM,10,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222715-1,Merosterol A,Merosterol A,B11,10,mM,5,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222716-1,Merosterol B,Merosterol B,B12,10,mM,5,Scott La,201701025
+HIFAN_TDP_001,SP20274,SW222714-1  ,Lanunalide,Lanunalide,C03,10,mM,5,Scott La,201701025
