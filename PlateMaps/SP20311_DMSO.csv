@@ -1,0 +1,353 @@
+Source_Plate Map,Source_Plate_Barcode,Source_Well,Source_Concentration,Source_Concentration_units,Destination_Plate Map,Plate Map,Well,MoleculeID,Human_Readable_Sample_Name,Transfer_Volume_nL,Assay_Volume_ul,Concentration,Units,Well_X,Well_Y
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A03,1,mM,SP20311_20220803,,A03,JN01.4_+_BMS-345541_d1,JN01.4 + BMS-345541 d1,100,50,2,uM,1,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A03,1,mM,SP20311_20220803,,A04,JN01.4_+_BMS-345541_d1,JN01.4 + BMS-345541 d1,100,50,2,uM,1,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A05,1,mM,SP20311_20220803,,A05,JN01.4_+_Gardiquimod_d1,JN01.4 + Gardiquimod d1,100,50,2,uM,1,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A05,1,mM,SP20311_20220803,,A06,JN01.4_+_Gardiquimod_d1,JN01.4 + Gardiquimod d1,100,50,2,uM,1,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A07,1,mM,SP20311_20220803,,A07,JN01.4_+_QNZ-10_d1,JN01.4 + QNZ-10 d1,100,50,2,uM,1,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A07,1,mM,SP20311_20220803,,A08,JN01.4_+_QNZ-10_d1,JN01.4 + QNZ-10 d1,100,50,2,uM,1,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A09,1,mM,SP20311_20220803,,A09,JN01.2_+_IKK-16_d1,JN01.2 + IKK-16  d1,100,50,2,uM,1,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A09,1,mM,SP20311_20220803,,A10,JN01.2_+_IKK-16_d1,JN01.2 + IKK-16  d1,100,50,2,uM,1,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A11,1,mM,SP20311_20220803,,A11,JN01.2+_L-name_d1,JN01.2+ L-name d1,100,50,2,uM,1,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A11,1,mM,SP20311_20220803,,A12,JN01.2+_L-name_d1,JN01.2+ L-name d1,100,50,2,uM,1,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A13,1,mM,SP20311_20220803,,A13,VM01.3_+_BMS-345541_d1,VM01.3 + BMS-345541 d1,100,50,2,uM,1,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A13,1,mM,SP20311_20220803,,A14,VM01.3_+_BMS-345541_d1,VM01.3 + BMS-345541 d1,100,50,2,uM,1,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A15,1,mM,SP20311_20220803,,A15,VM01.3_+_Gardiquimod_d1,VM01.3 + Gardiquimod d1,100,50,2,uM,1,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A15,1,mM,SP20311_20220803,,A16,VM01.3_+_Gardiquimod_d1,VM01.3 + Gardiquimod d1,100,50,2,uM,1,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A17,1,mM,SP20311_20220803,,A17,VM01.3_+_QNZ-10_d1,VM01.3 + QNZ-10 d1,100,50,2,uM,1,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A17,1,mM,SP20311_20220803,,A18,VM01.3_+_QNZ-10_d1,VM01.3 + QNZ-10 d1,100,50,2,uM,1,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A19,1,mM,SP20311_20220803,,A19,RP01.4_+_IKK-16_d1,RP01.4 + IKK-16  d1,100,50,2,uM,1,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A19,1,mM,SP20311_20220803,,A20,RP01.4_+_IKK-16_d1,RP01.4 + IKK-16  d1,100,50,2,uM,1,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A21,1,mM,SP20311_20220803,,A21,RP01.4_+_L-name_d1,RP01.4 + L-name d1,100,50,2,uM,1,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A21,1,mM,SP20311_20220803,,A22,RP01.4_+_L-name_d1,RP01.4 + L-name d1,100,50,2,uM,1,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A02,,,SP20311_20220803,,A23,LPS_A23,LPS,100,,,,1,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A02,,,SP20311_20220803,,A24,LPS_A24,LPS,100,,,,1,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A03,1,mM,SP20311_20220803,,B03,JN01.4_+_BMS-345541_d1,JN01.4 + BMS-345541 d1,20,50,0.4,uM,2,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A03,1,mM,SP20311_20220803,,B04,JN01.4_+_BMS-345541_d1,JN01.4 + BMS-345541 d1,20,50,0.4,uM,2,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A05,1,mM,SP20311_20220803,,B05,JN01.4_+_Gardiquimod_d1,JN01.4 + Gardiquimod d1,20,50,0.4,uM,2,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A05,1,mM,SP20311_20220803,,B06,JN01.4_+_Gardiquimod_d1,JN01.4 + Gardiquimod d1,20,50,0.4,uM,2,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A07,1,mM,SP20311_20220803,,B07,JN01.4_+_QNZ-10_d1,JN01.4 + QNZ-10 d1,20,50,0.4,uM,2,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A07,1,mM,SP20311_20220803,,B08,JN01.4_+_QNZ-10_d1,JN01.4 + QNZ-10 d1,20,50,0.4,uM,2,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A09,1,mM,SP20311_20220803,,B09,JN01.2_+_IKK-16_d1,JN01.2 + IKK-16  d1,20,50,0.4,uM,2,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A09,1,mM,SP20311_20220803,,B10,JN01.2_+_IKK-16_d1,JN01.2 + IKK-16  d1,20,50,0.4,uM,2,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A11,1,mM,SP20311_20220803,,B11,JN01.2+_L-name_d1,JN01.2+ L-name d1,20,50,0.4,uM,2,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A11,1,mM,SP20311_20220803,,B12,JN01.2+_L-name_d1,JN01.2+ L-name d1,20,50,0.4,uM,2,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A13,1,mM,SP20311_20220803,,B13,VM01.3_+_BMS-345541_d1,VM01.3 + BMS-345541 d1,20,50,0.4,uM,2,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A13,1,mM,SP20311_20220803,,B14,VM01.3_+_BMS-345541_d1,VM01.3 + BMS-345541 d1,20,50,0.4,uM,2,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A15,1,mM,SP20311_20220803,,B15,VM01.3_+_Gardiquimod_d1,VM01.3 + Gardiquimod d1,20,50,0.4,uM,2,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A15,1,mM,SP20311_20220803,,B16,VM01.3_+_Gardiquimod_d1,VM01.3 + Gardiquimod d1,20,50,0.4,uM,2,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A17,1,mM,SP20311_20220803,,B17,VM01.3_+_QNZ-10_d1,VM01.3 + QNZ-10 d1,20,50,0.4,uM,2,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A17,1,mM,SP20311_20220803,,B18,VM01.3_+_QNZ-10_d1,VM01.3 + QNZ-10 d1,20,50,0.4,uM,2,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A19,1,mM,SP20311_20220803,,B19,RP01.4_+_IKK-16_d1,RP01.4 + IKK-16  d1,20,50,0.4,uM,2,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A19,1,mM,SP20311_20220803,,B20,RP01.4_+_IKK-16_d1,RP01.4 + IKK-16  d1,20,50,0.4,uM,2,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A21,1,mM,SP20311_20220803,,B21,RP01.4_+_L-name_d1,RP01.4 + L-name d1,20,50,0.4,uM,2,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A21,1,mM,SP20311_20220803,,B22,RP01.4_+_L-name_d1,RP01.4 + L-name d1,20,50,0.4,uM,2,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A02,,,SP20311_20220803,,B23,LPS_B23,LPS,100,,,,2,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,A02,,,SP20311_20220803,,B24,LPS_B24,LPS,100,,,,2,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C03,0.2,mM,SP20311_20220803,,C03,JN01.4_+_BMS-345541_d2,JN01.4 + BMS-345541 d2,100,50,0.4,uM,3,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C03,0.2,mM,SP20311_20220803,,C04,JN01.4_+_BMS-345541_d2,JN01.4 + BMS-345541 d2,100,50,0.4,uM,3,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C05,0.2,mM,SP20311_20220803,,C05,JN01.4_+_Gardiquimod_d2,JN01.4 + Gardiquimod d2,100,50,0.4,uM,3,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C05,0.2,mM,SP20311_20220803,,C06,JN01.4_+_Gardiquimod_d2,JN01.4 + Gardiquimod d2,100,50,0.4,uM,3,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C07,0.2,mM,SP20311_20220803,,C07,JN01.4_+_QNZ-10_d2,JN01.4 + QNZ-10 d2,100,50,0.4,uM,3,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C07,0.2,mM,SP20311_20220803,,C08,JN01.4_+_QNZ-10_d2,JN01.4 + QNZ-10 d2,100,50,0.4,uM,3,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C09,0.2,mM,SP20311_20220803,,C09,JN01.2_+_IKK-16_d2,JN01.2 + IKK-16  d2,100,50,0.4,uM,3,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C09,0.2,mM,SP20311_20220803,,C10,JN01.2_+_IKK-16_d2,JN01.2 + IKK-16  d2,100,50,0.4,uM,3,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C11,0.2,mM,SP20311_20220803,,C11,JN01.2_+_L-name_d2,JN01.2 + L-name d2,100,50,0.4,uM,3,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C11,0.2,mM,SP20311_20220803,,C12,JN01.2_+_L-name_d2,JN01.2 + L-name d2,100,50,0.4,uM,3,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C13,0.2,mM,SP20311_20220803,,C13,VM01.3_+_BMS-345541_d2,VM01.3 + BMS-345541 d2,100,50,0.4,uM,3,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C13,0.2,mM,SP20311_20220803,,C14,VM01.3_+_BMS-345541_d2,VM01.3 + BMS-345541 d2,100,50,0.4,uM,3,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C15,0.2,mM,SP20311_20220803,,C15,VM01.3_+_Gardiquimod_d2,VM01.3 + Gardiquimod d2,100,50,0.4,uM,3,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C15,0.2,mM,SP20311_20220803,,C16,VM01.3_+_Gardiquimod_d2,VM01.3 + Gardiquimod d2,100,50,0.4,uM,3,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C17,0.2,mM,SP20311_20220803,,C17,VM01.3_+_QNZ-10_d2,VM01.3 + QNZ-10 d2,100,50,0.4,uM,3,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C17,0.2,mM,SP20311_20220803,,C18,VM01.3_+_QNZ-10_d2,VM01.3 + QNZ-10 d2,100,50,0.4,uM,3,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C19,0.2,mM,SP20311_20220803,,C19,RP01.4_+_IKK-16_d2,RP01.4 + IKK-16  d2,100,50,0.4,uM,3,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C19,0.2,mM,SP20311_20220803,,C20,RP01.4_+_IKK-16_d2,RP01.4 + IKK-16  d2,100,50,0.4,uM,3,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C21,0.2,mM,SP20311_20220803,,C21,RP01.4_+_L-name_d2,RP01.4 + L-name d2,100,50,0.4,uM,3,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C21,0.2,mM,SP20311_20220803,,C22,RP01.4_+_L-name_d2,RP01.4 + L-name d2,100,50,0.4,uM,3,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C02,,,SP20311_20220803,,C23,LPS_C23,LPS,100,,,,3,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C02,,,SP20311_20220803,,C24,LPS_C24,LPS,100,,,,3,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C03,0.2,mM,SP20311_20220803,,D03,JN01.4_+_BMS-345541_d2,JN01.4 + BMS-345541 d2,20,50,0.08,uM,4,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C03,0.2,mM,SP20311_20220803,,D04,JN01.4_+_BMS-345541_d2,JN01.4 + BMS-345541 d2,20,50,0.08,uM,4,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C05,0.2,mM,SP20311_20220803,,D05,JN01.4_+_Gardiquimod_d2,JN01.4 + Gardiquimod d2,20,50,0.08,uM,4,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C05,0.2,mM,SP20311_20220803,,D06,JN01.4_+_Gardiquimod_d2,JN01.4 + Gardiquimod d2,20,50,0.08,uM,4,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C07,0.2,mM,SP20311_20220803,,D07,JN01.4_+_QNZ-10_d2,JN01.4 + QNZ-10 d2,20,50,0.08,uM,4,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C07,0.2,mM,SP20311_20220803,,D08,JN01.4_+_QNZ-10_d2,JN01.4 + QNZ-10 d2,20,50,0.08,uM,4,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C09,0.2,mM,SP20311_20220803,,D09,JN01.2_+_IKK-16_d2,JN01.2 + IKK-16  d2,20,50,0.08,uM,4,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C09,0.2,mM,SP20311_20220803,,D10,JN01.2_+_IKK-16_d2,JN01.2 + IKK-16  d2,20,50,0.08,uM,4,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C11,0.2,mM,SP20311_20220803,,D11,JN01.2_+_L-name_d2,JN01.2 + L-name d2,20,50,0.08,uM,4,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C11,0.2,mM,SP20311_20220803,,D12,JN01.2_+_L-name_d2,JN01.2 + L-name d2,20,50,0.08,uM,4,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C13,0.2,mM,SP20311_20220803,,D13,VM01.3_+_BMS-345541_d2,VM01.3 + BMS-345541 d2,20,50,0.08,uM,4,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C13,0.2,mM,SP20311_20220803,,D14,VM01.3_+_BMS-345541_d2,VM01.3 + BMS-345541 d2,20,50,0.08,uM,4,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C15,0.2,mM,SP20311_20220803,,D15,VM01.3_+_Gardiquimod_d2,VM01.3 + Gardiquimod d2,20,50,0.08,uM,4,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C15,0.2,mM,SP20311_20220803,,D16,VM01.3_+_Gardiquimod_d2,VM01.3 + Gardiquimod d2,20,50,0.08,uM,4,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C17,0.2,mM,SP20311_20220803,,D17,VM01.3_+_QNZ-10_d2,VM01.3 + QNZ-10 d2,20,50,0.08,uM,4,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C17,0.2,mM,SP20311_20220803,,D18,VM01.3_+_QNZ-10_d2,VM01.3 + QNZ-10 d2,20,50,0.08,uM,4,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C19,0.2,mM,SP20311_20220803,,D19,RP01.4_+_IKK-16_d2,RP01.4 + IKK-16  d2,20,50,0.08,uM,4,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C19,0.2,mM,SP20311_20220803,,D20,RP01.4_+_IKK-16_d2,RP01.4 + IKK-16  d2,20,50,0.08,uM,4,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C21,0.2,mM,SP20311_20220803,,D21,RP01.4_+_L-name_d2,RP01.4 + L-name d2,20,50,0.08,uM,4,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C21,0.2,mM,SP20311_20220803,,D22,RP01.4_+_L-name_d2,RP01.4 + L-name d2,20,50,0.08,uM,4,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C02,,,SP20311_20220803,,D23,LPS_D23,LPS,100,,,,4,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,C02,,,SP20311_20220803,,D24,LPS_D24,LPS,100,,,,4,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E03,0.04,mM,SP20311_20220803,,E03,JN01.4_+_BMS-345541_d3,JN01.4 + BMS-345541 d3,100,50,0.08,uM,5,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E03,0.04,mM,SP20311_20220803,,E04,JN01.4_+_BMS-345541_d3,JN01.4 + BMS-345541 d3,100,50,0.08,uM,5,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E05,0.04,mM,SP20311_20220803,,E05,JN01.4_+_Gardiquimod_d3,JN01.4 + Gardiquimod d3,100,50,0.08,uM,5,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E05,0.04,mM,SP20311_20220803,,E06,JN01.4_+_Gardiquimod_d3,JN01.4 + Gardiquimod d3,100,50,0.08,uM,5,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E07,0.04,mM,SP20311_20220803,,E07,JN01.4_+_QNZ-10_d3,JN01.4 + QNZ-10 d3,100,50,0.08,uM,5,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E07,0.04,mM,SP20311_20220803,,E08,JN01.4_+_QNZ-10_d3,JN01.4 + QNZ-10 d3,100,50,0.08,uM,5,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E09,0.04,mM,SP20311_20220803,,E09,JN01.2_+_IKK-16_d3,JN01.2 + IKK-16  d3,100,50,0.08,uM,5,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E09,0.04,mM,SP20311_20220803,,E10,JN01.2_+_IKK-16_d3,JN01.2 + IKK-16  d3,100,50,0.08,uM,5,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E11,0.04,mM,SP20311_20220803,,E11,JN01.2_+_L-name_d3,JN01.2 + L-name d3,100,50,0.08,uM,5,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E11,0.04,mM,SP20311_20220803,,E12,JN01.2_+_L-name_d3,JN01.2 + L-name d3,100,50,0.08,uM,5,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E13,0.04,mM,SP20311_20220803,,E13,VM01.3_+_BMS-345541_d3,VM01.3 + BMS-345541 d3,100,50,0.08,uM,5,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E13,0.04,mM,SP20311_20220803,,E14,VM01.3_+_BMS-345541_d3,VM01.3 + BMS-345541 d3,100,50,0.08,uM,5,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E15,0.04,mM,SP20311_20220803,,E15,VM01.3_+_Gardiquimod_d3,VM01.3 + Gardiquimod d3,100,50,0.08,uM,5,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E15,0.04,mM,SP20311_20220803,,E16,VM01.3_+_Gardiquimod_d3,VM01.3 + Gardiquimod d3,100,50,0.08,uM,5,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E17,0.04,mM,SP20311_20220803,,E17,VM01.3_+_QNZ-10_d3,VM01.3 + QNZ-10 d3,100,50,0.08,uM,5,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E17,0.04,mM,SP20311_20220803,,E18,VM01.3_+_QNZ-10_d3,VM01.3 + QNZ-10 d3,100,50,0.08,uM,5,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E19,0.04,mM,SP20311_20220803,,E19,RP01.4_+_IKK-16_d3,RP01.4 + IKK-16  d3,100,50,0.08,uM,5,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E19,0.04,mM,SP20311_20220803,,E20,RP01.4_+_IKK-16_d3,RP01.4 + IKK-16  d3,100,50,0.08,uM,5,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E21,0.04,mM,SP20311_20220803,,E21,RP01.4_+_L-name_d3,RP01.4 + L-name d3,100,50,0.08,uM,5,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E21,0.04,mM,SP20311_20220803,,E22,RP01.4_+_L-name_d3,RP01.4 + L-name d3,100,50,0.08,uM,5,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E02,,,SP20311_20220803,,E23,LPS_E23,LPS,100,,,,5,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E02,,,SP20311_20220803,,E24,LPS_E24,LPS,100,,,,5,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E03,0.04,mM,SP20311_20220803,,F03,JN01.4_+_BMS-345541_d3,JN01.4 + BMS-345541 d3,20,50,0.016,uM,6,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E03,0.04,mM,SP20311_20220803,,F04,JN01.4_+_BMS-345541_d3,JN01.4 + BMS-345541 d3,20,50,0.016,uM,6,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E05,0.04,mM,SP20311_20220803,,F05,JN01.4_+_Gardiquimod_d3,JN01.4 + Gardiquimod d3,20,50,0.016,uM,6,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E05,0.04,mM,SP20311_20220803,,F06,JN01.4_+_Gardiquimod_d3,JN01.4 + Gardiquimod d3,20,50,0.016,uM,6,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E07,0.04,mM,SP20311_20220803,,F07,JN01.4_+_QNZ-10_d3,JN01.4 + QNZ-10 d3,20,50,0.016,uM,6,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E07,0.04,mM,SP20311_20220803,,F08,JN01.4_+_QNZ-10_d3,JN01.4 + QNZ-10 d3,20,50,0.016,uM,6,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E09,0.04,mM,SP20311_20220803,,F09,JN01.2_+_IKK-16_d3,JN01.2 + IKK-16  d3,20,50,0.016,uM,6,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E09,0.04,mM,SP20311_20220803,,F10,JN01.2_+_IKK-16_d3,JN01.2 + IKK-16  d3,20,50,0.016,uM,6,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E11,0.04,mM,SP20311_20220803,,F11,JN01.2_+_L-name_d3,JN01.2 + L-name d3,20,50,0.016,uM,6,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E11,0.04,mM,SP20311_20220803,,F12,JN01.2_+_L-name_d3,JN01.2 + L-name d3,20,50,0.016,uM,6,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E13,0.04,mM,SP20311_20220803,,F13,VM01.3_+_BMS-345541_d3,VM01.3 + BMS-345541 d3,20,50,0.016,uM,6,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E13,0.04,mM,SP20311_20220803,,F14,VM01.3_+_BMS-345541_d3,VM01.3 + BMS-345541 d3,20,50,0.016,uM,6,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E15,0.04,mM,SP20311_20220803,,F15,VM01.3_+_Gardiquimod_d3,VM01.3 + Gardiquimod d3,20,50,0.016,uM,6,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E15,0.04,mM,SP20311_20220803,,F16,VM01.3_+_Gardiquimod_d3,VM01.3 + Gardiquimod d3,20,50,0.016,uM,6,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E17,0.04,mM,SP20311_20220803,,F17,VM01.3_+_QNZ-10_d3,VM01.3 + QNZ-10 d3,20,50,0.016,uM,6,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E17,0.04,mM,SP20311_20220803,,F18,VM01.3_+_QNZ-10_d3,VM01.3 + QNZ-10 d3,20,50,0.016,uM,6,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E19,0.04,mM,SP20311_20220803,,F19,RP01.4_+_IKK-16_d3,RP01.4 + IKK-16  d3,20,50,0.016,uM,6,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E19,0.04,mM,SP20311_20220803,,F20,RP01.4_+_IKK-16_d3,RP01.4 + IKK-16  d3,20,50,0.016,uM,6,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E21,0.04,mM,SP20311_20220803,,F21,RP01.4_+_L-name_d3,RP01.4 + L-name d3,20,50,0.016,uM,6,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E21,0.04,mM,SP20311_20220803,,F22,RP01.4_+_L-name_d3,RP01.4 + L-name d3,20,50,0.016,uM,6,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E02,,,SP20311_20220803,,F23,LPS_F23,LPS,100,,,,6,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,E02,,,SP20311_20220803,,F24,LPS_F24,LPS,100,,,,6,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G03,0.008,mM,SP20311_20220803,,G03,JN01.4_+_BMS-345541_d4,JN01.4 + BMS-345541 d4,100,50,0.016,uM,7,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G03,0.008,mM,SP20311_20220803,,G04,JN01.4_+_BMS-345541_d4,JN01.4 + BMS-345541 d4,100,50,0.016,uM,7,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G05,0.008,mM,SP20311_20220803,,G05,JN01.4_+_Gardiquimod_d4,JN01.4 + Gardiquimod d4,100,50,0.016,uM,7,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G05,0.008,mM,SP20311_20220803,,G06,JN01.4_+_Gardiquimod_d4,JN01.4 + Gardiquimod d4,100,50,0.016,uM,7,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G07,0.008,mM,SP20311_20220803,,G07,JN01.4_+_QNZ-10_d4,JN01.4 + QNZ-10 d4,100,50,0.016,uM,7,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G07,0.008,mM,SP20311_20220803,,G08,JN01.4_+_QNZ-10_d4,JN01.4 + QNZ-10 d4,100,50,0.016,uM,7,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G09,0.008,mM,SP20311_20220803,,G09,JN01.2_+_IKK-16_d4,JN01.2 + IKK-16  d4,100,50,0.016,uM,7,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G09,0.008,mM,SP20311_20220803,,G10,JN01.2_+_IKK-16_d4,JN01.2 + IKK-16  d4,100,50,0.016,uM,7,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G11,0.008,mM,SP20311_20220803,,G11,JN01.2_+_L-name_d4,JN01.2 + L-name d4,100,50,0.016,uM,7,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G11,0.008,mM,SP20311_20220803,,G12,JN01.2_+_L-name_d4,JN01.2 + L-name d4,100,50,0.016,uM,7,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G13,0.008,mM,SP20311_20220803,,G13,VM01.3_+_BMS-345541_d4,VM01.3 + BMS-345541 d4,100,50,0.016,uM,7,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G13,0.008,mM,SP20311_20220803,,G14,VM01.3_+_BMS-345541_d4,VM01.3 + BMS-345541 d4,100,50,0.016,uM,7,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G15,0.008,mM,SP20311_20220803,,G15,VM01.3_+_Gardiquimod_d4,VM01.3 + Gardiquimod d4,100,50,0.016,uM,7,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G15,0.008,mM,SP20311_20220803,,G16,VM01.3_+_Gardiquimod_d4,VM01.3 + Gardiquimod d4,100,50,0.016,uM,7,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G17,0.008,mM,SP20311_20220803,,G17,VM01.3_+_QNZ-10_d4,VM01.3 + QNZ-10 d4,100,50,0.016,uM,7,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G17,0.008,mM,SP20311_20220803,,G18,VM01.3_+_QNZ-10_d4,VM01.3 + QNZ-10 d4,100,50,0.016,uM,7,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G19,0.008,mM,SP20311_20220803,,G19,RP01.4+_IKK-16_d4,RP01.4+ IKK-16  d4,100,50,0.016,uM,7,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G19,0.008,mM,SP20311_20220803,,G20,RP01.4+_IKK-16_d4,RP01.4+ IKK-16  d4,100,50,0.016,uM,7,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G21,0.008,mM,SP20311_20220803,,G21,RP01.4_+_L-name_d4,RP01.4 + L-name d4,100,50,0.016,uM,7,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G21,0.008,mM,SP20311_20220803,,G22,RP01.4_+_L-name_d4,RP01.4 + L-name d4,100,50,0.016,uM,7,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G02,,,SP20311_20220803,,G23,LPS_G23,LPS,100,,,,7,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G02,,,SP20311_20220803,,G24,LPS_G24,LPS,100,,,,7,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G03,0.008,mM,SP20311_20220803,,H03,JN01.4_+_BMS-345541_d4,JN01.4 + BMS-345541 d4,20,50,0.0032,uM,8,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G03,0.008,mM,SP20311_20220803,,H04,JN01.4_+_BMS-345541_d4,JN01.4 + BMS-345541 d4,20,50,0.0032,uM,8,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G05,0.008,mM,SP20311_20220803,,H05,JN01.4_+_Gardiquimod_d4,JN01.4 + Gardiquimod d4,20,50,0.0032,uM,8,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G05,0.008,mM,SP20311_20220803,,H06,JN01.4_+_Gardiquimod_d4,JN01.4 + Gardiquimod d4,20,50,0.0032,uM,8,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G07,0.008,mM,SP20311_20220803,,H07,JN01.4_+_QNZ-10_d4,JN01.4 + QNZ-10 d4,20,50,0.0032,uM,8,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G07,0.008,mM,SP20311_20220803,,H08,JN01.4_+_QNZ-10_d4,JN01.4 + QNZ-10 d4,20,50,0.0032,uM,8,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G09,0.008,mM,SP20311_20220803,,H09,JN01.2_+_IKK-16_d4,JN01.2 + IKK-16  d4,20,50,0.0032,uM,8,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G09,0.008,mM,SP20311_20220803,,H10,JN01.2_+_IKK-16_d4,JN01.2 + IKK-16  d4,20,50,0.0032,uM,8,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G11,0.008,mM,SP20311_20220803,,H11,JN01.2_+_L-name_d4,JN01.2 + L-name d4,20,50,0.0032,uM,8,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G11,0.008,mM,SP20311_20220803,,H12,JN01.2_+_L-name_d4,JN01.2 + L-name d4,20,50,0.0032,uM,8,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G13,0.008,mM,SP20311_20220803,,H13,VM01.3_+_BMS-345541_d4,VM01.3 + BMS-345541 d4,20,50,0.0032,uM,8,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G13,0.008,mM,SP20311_20220803,,H14,VM01.3_+_BMS-345541_d4,VM01.3 + BMS-345541 d4,20,50,0.0032,uM,8,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G15,0.008,mM,SP20311_20220803,,H15,VM01.3_+_Gardiquimod_d4,VM01.3 + Gardiquimod d4,20,50,0.0032,uM,8,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G15,0.008,mM,SP20311_20220803,,H16,VM01.3_+_Gardiquimod_d4,VM01.3 + Gardiquimod d4,20,50,0.0032,uM,8,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G17,0.008,mM,SP20311_20220803,,H17,VM01.3_+_QNZ-10_d4,VM01.3 + QNZ-10 d4,20,50,0.0032,uM,8,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G17,0.008,mM,SP20311_20220803,,H18,VM01.3_+_QNZ-10_d4,VM01.3 + QNZ-10 d4,20,50,0.0032,uM,8,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G19,0.008,mM,SP20311_20220803,,H19,RP01.4+_IKK-16_d4,RP01.4+ IKK-16  d4,20,50,0.0032,uM,8,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G19,0.008,mM,SP20311_20220803,,H20,RP01.4+_IKK-16_d4,RP01.4+ IKK-16  d4,20,50,0.0032,uM,8,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G21,0.008,mM,SP20311_20220803,,H21,RP01.4_+_L-name_d4,RP01.4 + L-name d4,20,50,0.0032,uM,8,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G21,0.008,mM,SP20311_20220803,,H22,RP01.4_+_L-name_d4,RP01.4 + L-name d4,20,50,0.0032,uM,8,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G02,,,SP20311_20220803,,H23,LPS_H23,LPS,100,,,,8,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,G02,,,SP20311_20220803,,H24,LPS_H24,LPS,100,,,,8,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I03,1,mM,SP20311_20220803,,I03,JN01.4_+_IKK-16_d1,JN01.4 + IKK-16  d1,100,50,2,uM,9,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I03,1,mM,SP20311_20220803,,I04,JN01.4_+_IKK-16_d1,JN01.4 + IKK-16  d1,100,50,2,uM,9,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I05,1,mM,SP20311_20220803,,I05,JN01.4_+_L-name_d1,JN01.4 + L-name d1,100,50,2,uM,9,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I05,1,mM,SP20311_20220803,,I06,JN01.4_+_L-name_d1,JN01.4 + L-name d1,100,50,2,uM,9,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I07,1,mM,SP20311_20220803,,I07,JN01.2_+_BMS-345541_d1,JN01.2 + BMS-345541 d1,100,50,2,uM,9,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I07,1,mM,SP20311_20220803,,I08,JN01.2_+_BMS-345541_d1,JN01.2 + BMS-345541 d1,100,50,2,uM,9,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I09,1,mM,SP20311_20220803,,I09,JN01.2_+_Gardiquimod_d1,JN01.2 + Gardiquimod d1,100,50,2,uM,9,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I09,1,mM,SP20311_20220803,,I10,JN01.2_+_Gardiquimod_d1,JN01.2 + Gardiquimod d1,100,50,2,uM,9,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I11,1,mM,SP20311_20220803,,I11,JN01.2_+_QNZ-10_d1,JN01.2 + QNZ-10 d1,100,50,2,uM,9,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I11,1,mM,SP20311_20220803,,I12,JN01.2_+_QNZ-10_d1,JN01.2 + QNZ-10 d1,100,50,2,uM,9,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I13,1,mM,SP20311_20220803,,I13,VM01.3_+_IKK-16_d1,VM01.3 + IKK-16  d1,100,50,2,uM,9,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I13,1,mM,SP20311_20220803,,I14,VM01.3_+_IKK-16_d1,VM01.3 + IKK-16  d1,100,50,2,uM,9,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I15,1,mM,SP20311_20220803,,I15,VM01.3_+_L-name_d1,VM01.3 + L-name d1,100,50,2,uM,9,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I15,1,mM,SP20311_20220803,,I16,VM01.3_+_L-name_d1,VM01.3 + L-name d1,100,50,2,uM,9,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I17,1,mM,SP20311_20220803,,I17,RP01.4_+_QNZ-10_d1,RP01.4 + QNZ-10 d1,100,50,2,uM,9,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I17,1,mM,SP20311_20220803,,I18,RP01.4_+_QNZ-10_d1,RP01.4 + QNZ-10 d1,100,50,2,uM,9,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I19,1,mM,SP20311_20220803,,I19,RP01.4_+_Gardiquimod_d1,RP01.4 + Gardiquimod d1,100,50,2,uM,9,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I19,1,mM,SP20311_20220803,,I20,RP01.4_+_Gardiquimod_d1,RP01.4 + Gardiquimod d1,100,50,2,uM,9,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I21,1,mM,SP20311_20220803,,I21,RP01.4_+_BMS-345541_d1,RP01.4 + BMS-345541 d1,100,50,2,uM,9,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I21,1,mM,SP20311_20220803,,I22,RP01.4_+_BMS-345541_d1,RP01.4 + BMS-345541 d1,100,50,2,uM,9,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I02,,,SP20311_20220803,,I23,LPS_I23,LPS,100,,,,9,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I02,,,SP20311_20220803,,I24,LPS_I24,LPS,100,,,,9,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I03,1,mM,SP20311_20220803,,J03,JN01.4_+_IKK-16_d1,JN01.4 + IKK-16  d1,20,50,0.4,uM,10,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I03,1,mM,SP20311_20220803,,J04,JN01.4_+_IKK-16_d1,JN01.4 + IKK-16  d1,20,50,0.4,uM,10,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I05,1,mM,SP20311_20220803,,J05,JN01.4_+_L-name_d1,JN01.4 + L-name d1,20,50,0.4,uM,10,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I05,1,mM,SP20311_20220803,,J06,JN01.4_+_L-name_d1,JN01.4 + L-name d1,20,50,0.4,uM,10,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I07,1,mM,SP20311_20220803,,J07,JN01.2_+_BMS-345541_d1,JN01.2 + BMS-345541 d1,20,50,0.4,uM,10,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I07,1,mM,SP20311_20220803,,J08,JN01.2_+_BMS-345541_d1,JN01.2 + BMS-345541 d1,20,50,0.4,uM,10,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I09,1,mM,SP20311_20220803,,J09,JN01.2_+_Gardiquimod_d1,JN01.2 + Gardiquimod d1,20,50,0.4,uM,10,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I09,1,mM,SP20311_20220803,,J10,JN01.2_+_Gardiquimod_d1,JN01.2 + Gardiquimod d1,20,50,0.4,uM,10,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I11,1,mM,SP20311_20220803,,J11,JN01.2_+_QNZ-10_d1,JN01.2 + QNZ-10 d1,20,50,0.4,uM,10,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I11,1,mM,SP20311_20220803,,J12,JN01.2_+_QNZ-10_d1,JN01.2 + QNZ-10 d1,20,50,0.4,uM,10,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I13,1,mM,SP20311_20220803,,J13,VM01.3_+_IKK-16_d1,VM01.3 + IKK-16  d1,20,50,0.4,uM,10,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I13,1,mM,SP20311_20220803,,J14,VM01.3_+_IKK-16_d1,VM01.3 + IKK-16  d1,20,50,0.4,uM,10,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I15,1,mM,SP20311_20220803,,J15,VM01.3_+_L-name_d1,VM01.3 + L-name d1,20,50,0.4,uM,10,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I15,1,mM,SP20311_20220803,,J16,VM01.3_+_L-name_d1,VM01.3 + L-name d1,20,50,0.4,uM,10,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I17,1,mM,SP20311_20220803,,J17,RP01.4_+_QNZ-10_d1,RP01.4 + QNZ-10 d1,20,50,0.4,uM,10,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I17,1,mM,SP20311_20220803,,J18,RP01.4_+_QNZ-10_d1,RP01.4 + QNZ-10 d1,20,50,0.4,uM,10,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I19,1,mM,SP20311_20220803,,J19,RP01.4_+_Gardiquimod_d1,RP01.4 + Gardiquimod d1,20,50,0.4,uM,10,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I19,1,mM,SP20311_20220803,,J20,RP01.4_+_Gardiquimod_d1,RP01.4 + Gardiquimod d1,20,50,0.4,uM,10,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I21,1,mM,SP20311_20220803,,J21,RP01.4_+_BMS-345541_d1,RP01.4 + BMS-345541 d1,20,50,0.4,uM,10,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I21,1,mM,SP20311_20220803,,J22,RP01.4_+_BMS-345541_d1,RP01.4 + BMS-345541 d1,20,50,0.4,uM,10,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I02,,,SP20311_20220803,,J23,LPS_J23,LPS,100,,,,10,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,I02,,,SP20311_20220803,,J24,LPS_J24,LPS,100,,,,10,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K03,0.2,mM,SP20311_20220803,,K03,JN01.4_+_IKK-16_d2,JN01.4 + IKK-16  d2,100,50,0.4,uM,11,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K03,0.2,mM,SP20311_20220803,,K04,JN01.4_+_IKK-16_d2,JN01.4 + IKK-16  d2,100,50,0.4,uM,11,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K05,0.2,mM,SP20311_20220803,,K05,JN01.4_+_L-name_d2,JN01.4 + L-name d2,100,50,0.4,uM,11,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K05,0.2,mM,SP20311_20220803,,K06,JN01.4_+_L-name_d2,JN01.4 + L-name d2,100,50,0.4,uM,11,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K07,0.2,mM,SP20311_20220803,,K07,JN01.2_+_BMS-345541_d2,JN01.2 + BMS-345541 d2,100,50,0.4,uM,11,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K07,0.2,mM,SP20311_20220803,,K08,JN01.2_+_BMS-345541_d2,JN01.2 + BMS-345541 d2,100,50,0.4,uM,11,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K09,0.2,mM,SP20311_20220803,,K09,JN01.2_+_Gardiquimod_d2,JN01.2 + Gardiquimod d2,100,50,0.4,uM,11,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K09,0.2,mM,SP20311_20220803,,K10,JN01.2_+_Gardiquimod_d2,JN01.2 + Gardiquimod d2,100,50,0.4,uM,11,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K11,0.2,mM,SP20311_20220803,,K11,JN01.2_+_QNZ-10_d2,JN01.2 + QNZ-10 d2,100,50,0.4,uM,11,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K11,0.2,mM,SP20311_20220803,,K12,JN01.2_+_QNZ-10_d2,JN01.2 + QNZ-10 d2,100,50,0.4,uM,11,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K13,0.2,mM,SP20311_20220803,,K13,VM01.3_+_IKK-16_d2,VM01.3 + IKK-16  d2,100,50,0.4,uM,11,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K13,0.2,mM,SP20311_20220803,,K14,VM01.3_+_IKK-16_d2,VM01.3 + IKK-16  d2,100,50,0.4,uM,11,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K15,0.2,mM,SP20311_20220803,,K15,VM01.3_+_L-name_d2,VM01.3 + L-name d2,100,50,0.4,uM,11,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K15,0.2,mM,SP20311_20220803,,K16,VM01.3_+_L-name_d2,VM01.3 + L-name d2,100,50,0.4,uM,11,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K17,0.2,mM,SP20311_20220803,,K17,RP01.4_+_QNZ-10_d2,RP01.4 + QNZ-10 d2,100,50,0.4,uM,11,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K17,0.2,mM,SP20311_20220803,,K18,RP01.4_+_QNZ-10_d2,RP01.4 + QNZ-10 d2,100,50,0.4,uM,11,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K19,0.2,mM,SP20311_20220803,,K19,RP01.4_+_Gardiquimod_d2,RP01.4 + Gardiquimod d2,100,50,0.4,uM,11,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K19,0.2,mM,SP20311_20220803,,K20,RP01.4_+_Gardiquimod_d2,RP01.4 + Gardiquimod d2,100,50,0.4,uM,11,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K21,0.2,mM,SP20311_20220803,,K21,RP01.4_+_BMS-345541_d2,RP01.4 + BMS-345541 d2,100,50,0.4,uM,11,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K21,0.2,mM,SP20311_20220803,,K22,RP01.4_+_BMS-345541_d2,RP01.4 + BMS-345541 d2,100,50,0.4,uM,11,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K02,,,SP20311_20220803,,K23,LPS_K23,LPS,100,,,,11,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K02,,,SP20311_20220803,,K24,LPS_K24,LPS,100,,,,11,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K03,0.2,mM,SP20311_20220803,,L03,JN01.4_+_IKK-16_d2,JN01.4 + IKK-16  d2,20,50,0.08,uM,12,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K03,0.2,mM,SP20311_20220803,,L04,JN01.4_+_IKK-16_d2,JN01.4 + IKK-16  d2,20,50,0.08,uM,12,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K05,0.2,mM,SP20311_20220803,,L05,JN01.4_+_L-name_d2,JN01.4 + L-name d2,20,50,0.08,uM,12,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K05,0.2,mM,SP20311_20220803,,L06,JN01.4_+_L-name_d2,JN01.4 + L-name d2,20,50,0.08,uM,12,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K07,0.2,mM,SP20311_20220803,,L07,JN01.2_+_BMS-345541_d2,JN01.2 + BMS-345541 d2,20,50,0.08,uM,12,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K07,0.2,mM,SP20311_20220803,,L08,JN01.2_+_BMS-345541_d2,JN01.2 + BMS-345541 d2,20,50,0.08,uM,12,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K09,0.2,mM,SP20311_20220803,,L09,JN01.2_+_Gardiquimod_d2,JN01.2 + Gardiquimod d2,20,50,0.08,uM,12,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K09,0.2,mM,SP20311_20220803,,L10,JN01.2_+_Gardiquimod_d2,JN01.2 + Gardiquimod d2,20,50,0.08,uM,12,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K11,0.2,mM,SP20311_20220803,,L11,JN01.2_+_QNZ-10_d2,JN01.2 + QNZ-10 d2,20,50,0.08,uM,12,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K11,0.2,mM,SP20311_20220803,,L12,JN01.2_+_QNZ-10_d2,JN01.2 + QNZ-10 d2,20,50,0.08,uM,12,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K13,0.2,mM,SP20311_20220803,,L13,VM01.3_+_IKK-16_d2,VM01.3 + IKK-16  d2,20,50,0.08,uM,12,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K13,0.2,mM,SP20311_20220803,,L14,VM01.3_+_IKK-16_d2,VM01.3 + IKK-16  d2,20,50,0.08,uM,12,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K15,0.2,mM,SP20311_20220803,,L15,VM01.3_+_L-name_d2,VM01.3 + L-name d2,20,50,0.08,uM,12,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K15,0.2,mM,SP20311_20220803,,L16,VM01.3_+_L-name_d2,VM01.3 + L-name d2,20,50,0.08,uM,12,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K17,0.2,mM,SP20311_20220803,,L17,RP01.4_+_QNZ-10_d2,RP01.4 + QNZ-10 d2,20,50,0.08,uM,12,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K17,0.2,mM,SP20311_20220803,,L18,RP01.4_+_QNZ-10_d2,RP01.4 + QNZ-10 d2,20,50,0.08,uM,12,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K19,0.2,mM,SP20311_20220803,,L19,RP01.4_+_Gardiquimod_d2,RP01.4 + Gardiquimod d2,20,50,0.08,uM,12,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K19,0.2,mM,SP20311_20220803,,L20,RP01.4_+_Gardiquimod_d2,RP01.4 + Gardiquimod d2,20,50,0.08,uM,12,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K21,0.2,mM,SP20311_20220803,,L21,RP01.4_+_BMS-345541_d2,RP01.4 + BMS-345541 d2,20,50,0.08,uM,12,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K21,0.2,mM,SP20311_20220803,,L22,RP01.4_+_BMS-345541_d2,RP01.4 + BMS-345541 d2,20,50,0.08,uM,12,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K02,,,SP20311_20220803,,L23,LPS_L23,LPS,100,,,,12,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,K02,,,SP20311_20220803,,L24,LPS_L24,LPS,100,,,,12,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M03,0.04,mM,SP20311_20220803,,M03,JN01.4_+_IKK-16_d3,JN01.4 + IKK-16  d3,100,50,0.08,uM,13,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M03,0.04,mM,SP20311_20220803,,M04,JN01.4_+_IKK-16_d3,JN01.4 + IKK-16  d3,100,50,0.08,uM,13,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M05,0.04,mM,SP20311_20220803,,M05,JN01.4_+_L-name_d3,JN01.4 + L-name d3,100,50,0.08,uM,13,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M05,0.04,mM,SP20311_20220803,,M06,JN01.4_+_L-name_d3,JN01.4 + L-name d3,100,50,0.08,uM,13,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M07,0.04,mM,SP20311_20220803,,M07,JN01.2_+_BMS-345541_d3,JN01.2 + BMS-345541 d3,100,50,0.08,uM,13,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M07,0.04,mM,SP20311_20220803,,M08,JN01.2_+_BMS-345541_d3,JN01.2 + BMS-345541 d3,100,50,0.08,uM,13,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M09,0.04,mM,SP20311_20220803,,M09,JN01.2_+_Gardiquimod_d3,JN01.2 + Gardiquimod d3,100,50,0.08,uM,13,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M09,0.04,mM,SP20311_20220803,,M10,JN01.2_+_Gardiquimod_d3,JN01.2 + Gardiquimod d3,100,50,0.08,uM,13,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M11,0.04,mM,SP20311_20220803,,M11,JN01.2_+_QNZ-10_d3,JN01.2 + QNZ-10 d3,100,50,0.08,uM,13,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M11,0.04,mM,SP20311_20220803,,M12,JN01.2_+_QNZ-10_d3,JN01.2 + QNZ-10 d3,100,50,0.08,uM,13,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M13,0.04,mM,SP20311_20220803,,M13,VM01.3_+_IKK-16_d3,VM01.3 + IKK-16  d3,100,50,0.08,uM,13,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M13,0.04,mM,SP20311_20220803,,M14,VM01.3_+_IKK-16_d3,VM01.3 + IKK-16  d3,100,50,0.08,uM,13,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M15,0.04,mM,SP20311_20220803,,M15,VM01.3_+_L-name_d3,VM01.3 + L-name d3,100,50,0.08,uM,13,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M15,0.04,mM,SP20311_20220803,,M16,VM01.3_+_L-name_d3,VM01.3 + L-name d3,100,50,0.08,uM,13,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M17,0.04,mM,SP20311_20220803,,M17,RP01.4_+_QNZ-10_d3,RP01.4 + QNZ-10 d3,100,50,0.08,uM,13,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M17,0.04,mM,SP20311_20220803,,M18,RP01.4_+_QNZ-10_d3,RP01.4 + QNZ-10 d3,100,50,0.08,uM,13,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M19,0.04,mM,SP20311_20220803,,M19,RP01.4_+_Gardiquimod_d3,RP01.4 + Gardiquimod d3,100,50,0.08,uM,13,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M19,0.04,mM,SP20311_20220803,,M20,RP01.4_+_Gardiquimod_d3,RP01.4 + Gardiquimod d3,100,50,0.08,uM,13,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M21,0.04,mM,SP20311_20220803,,M21,RP01.4_+_BMS-345541_d3,RP01.4 + BMS-345541 d3,100,50,0.08,uM,13,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M21,0.04,mM,SP20311_20220803,,M22,RP01.4_+_BMS-345541_d3,RP01.4 + BMS-345541 d3,100,50,0.08,uM,13,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M02,,,SP20311_20220803,,M23,LPS_M23,LPS,100,,,,13,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M02,,,SP20311_20220803,,M24,LPS_M24,LPS,100,,,,13,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M03,0.04,mM,SP20311_20220803,,N03,JN01.4_+_IKK-16_d3,JN01.4 + IKK-16  d3,20,50,0.016,uM,14,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M03,0.04,mM,SP20311_20220803,,N04,JN01.4_+_IKK-16_d3,JN01.4 + IKK-16  d3,20,50,0.016,uM,14,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M05,0.04,mM,SP20311_20220803,,N05,JN01.4_+_L-name_d3,JN01.4 + L-name d3,20,50,0.016,uM,14,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M05,0.04,mM,SP20311_20220803,,N06,JN01.4_+_L-name_d3,JN01.4 + L-name d3,20,50,0.016,uM,14,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M07,0.04,mM,SP20311_20220803,,N07,JN01.2_+_BMS-345541_d3,JN01.2 + BMS-345541 d3,20,50,0.016,uM,14,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M07,0.04,mM,SP20311_20220803,,N08,JN01.2_+_BMS-345541_d3,JN01.2 + BMS-345541 d3,20,50,0.016,uM,14,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M09,0.04,mM,SP20311_20220803,,N09,JN01.2_+_Gardiquimod_d3,JN01.2 + Gardiquimod d3,20,50,0.016,uM,14,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M09,0.04,mM,SP20311_20220803,,N10,JN01.2_+_Gardiquimod_d3,JN01.2 + Gardiquimod d3,20,50,0.016,uM,14,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M11,0.04,mM,SP20311_20220803,,N11,JN01.2_+_QNZ-10_d3,JN01.2 + QNZ-10 d3,20,50,0.016,uM,14,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M11,0.04,mM,SP20311_20220803,,N12,JN01.2_+_QNZ-10_d3,JN01.2 + QNZ-10 d3,20,50,0.016,uM,14,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M13,0.04,mM,SP20311_20220803,,N13,VM01.3_+_IKK-16_d3,VM01.3 + IKK-16  d3,20,50,0.016,uM,14,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M13,0.04,mM,SP20311_20220803,,N14,VM01.3_+_IKK-16_d3,VM01.3 + IKK-16  d3,20,50,0.016,uM,14,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M15,0.04,mM,SP20311_20220803,,N15,VM01.3_+_L-name_d3,VM01.3 + L-name d3,20,50,0.016,uM,14,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M15,0.04,mM,SP20311_20220803,,N16,VM01.3_+_L-name_d3,VM01.3 + L-name d3,20,50,0.016,uM,14,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M17,0.04,mM,SP20311_20220803,,N17,RP01.4_+_QNZ-10_d3,RP01.4 + QNZ-10 d3,20,50,0.016,uM,14,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M17,0.04,mM,SP20311_20220803,,N18,RP01.4_+_QNZ-10_d3,RP01.4 + QNZ-10 d3,20,50,0.016,uM,14,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M19,0.04,mM,SP20311_20220803,,N19,RP01.4_+_Gardiquimod_d3,RP01.4 + Gardiquimod d3,20,50,0.016,uM,14,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M19,0.04,mM,SP20311_20220803,,N20,RP01.4_+_Gardiquimod_d3,RP01.4 + Gardiquimod d3,20,50,0.016,uM,14,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M21,0.04,mM,SP20311_20220803,,N21,RP01.4_+_BMS-345541_d3,RP01.4 + BMS-345541 d3,20,50,0.016,uM,14,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M21,0.04,mM,SP20311_20220803,,N22,RP01.4_+_BMS-345541_d3,RP01.4 + BMS-345541 d3,20,50,0.016,uM,14,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M02,,,SP20311_20220803,,N23,LPS_N23,LPS,100,,,,14,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,M02,,,SP20311_20220803,,N24,LPS_N24,LPS,100,,,,14,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O03,0.008,mM,SP20311_20220803,,O03,JN01.4_+_IKK-16_d4,JN01.4 + IKK-16  d4,100,50,0.016,uM,15,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O03,0.008,mM,SP20311_20220803,,O04,JN01.4_+_IKK-16_d4,JN01.4 + IKK-16  d4,100,50,0.016,uM,15,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O05,0.008,mM,SP20311_20220803,,O05,JN01.4_+_L-name_d4,JN01.4 + L-name d4,100,50,0.016,uM,15,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O05,0.008,mM,SP20311_20220803,,O06,JN01.4_+_L-name_d4,JN01.4 + L-name d4,100,50,0.016,uM,15,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O07,0.008,mM,SP20311_20220803,,O07,JN01.2_+_BMS-345541_d4,JN01.2 + BMS-345541 d4,100,50,0.016,uM,15,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O07,0.008,mM,SP20311_20220803,,O08,JN01.2_+_BMS-345541_d4,JN01.2 + BMS-345541 d4,100,50,0.016,uM,15,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O09,0.008,mM,SP20311_20220803,,O09,JN01.2_+_Gardiquimod_d4,JN01.2 + Gardiquimod d4,100,50,0.016,uM,15,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O09,0.008,mM,SP20311_20220803,,O10,JN01.2_+_Gardiquimod_d4,JN01.2 + Gardiquimod d4,100,50,0.016,uM,15,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O11,0.008,mM,SP20311_20220803,,O11,JN01.2_+_QNZ-10_d4,JN01.2 + QNZ-10 d4,100,50,0.016,uM,15,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O11,0.008,mM,SP20311_20220803,,O12,JN01.2_+_QNZ-10_d4,JN01.2 + QNZ-10 d4,100,50,0.016,uM,15,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O13,0.008,mM,SP20311_20220803,,O13,VM01.3_+_IKK-16_d4,VM01.3 + IKK-16  d4,100,50,0.016,uM,15,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O13,0.008,mM,SP20311_20220803,,O14,VM01.3_+_IKK-16_d4,VM01.3 + IKK-16  d4,100,50,0.016,uM,15,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O15,0.008,mM,SP20311_20220803,,O15,VM01.3+_L-name_d4,VM01.3+ L-name d4,100,50,0.016,uM,15,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O15,0.008,mM,SP20311_20220803,,O16,VM01.3+_L-name_d4,VM01.3+ L-name d4,100,50,0.016,uM,15,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O17,0.008,mM,SP20311_20220803,,O17,RP01.4_+_QNZ-10_d4,RP01.4 + QNZ-10 d4,100,50,0.016,uM,15,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O17,0.008,mM,SP20311_20220803,,O18,RP01.4_+_QNZ-10_d4,RP01.4 + QNZ-10 d4,100,50,0.016,uM,15,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O19,0.008,mM,SP20311_20220803,,O19,RP01.4_+_Gardiquimod_d4,RP01.4 + Gardiquimod d4,100,50,0.016,uM,15,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O19,0.008,mM,SP20311_20220803,,O20,RP01.4_+_Gardiquimod_d4,RP01.4 + Gardiquimod d4,100,50,0.016,uM,15,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O21,0.008,mM,SP20311_20220803,,O21,RP01.4_+_BMS-345541_d4,RP01.4 + BMS-345541 d4,100,50,0.016,uM,15,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O21,0.008,mM,SP20311_20220803,,O22,RP01.4_+_BMS-345541_d4,RP01.4 + BMS-345541 d4,100,50,0.016,uM,15,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O02,,,SP20311_20220803,,O23,LPS_O23,LPS,100,,,,15,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O02,,,SP20311_20220803,,O24,LPS_O24,LPS,100,,,,15,24
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O03,0.008,mM,SP20311_20220803,,P03,JN01.4_+_IKK-16_d4,JN01.4 + IKK-16  d4,20,50,0.0032,uM,16,3
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O03,0.008,mM,SP20311_20220803,,P04,JN01.4_+_IKK-16_d4,JN01.4 + IKK-16  d4,20,50,0.0032,uM,16,4
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O05,0.008,mM,SP20311_20220803,,P05,JN01.4_+_L-name_d4,JN01.4 + L-name d4,20,50,0.0032,uM,16,5
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O05,0.008,mM,SP20311_20220803,,P06,JN01.4_+_L-name_d4,JN01.4 + L-name d4,20,50,0.0032,uM,16,6
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O07,0.008,mM,SP20311_20220803,,P07,JN01.2_+_BMS-345541_d4,JN01.2 + BMS-345541 d4,20,50,0.0032,uM,16,7
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O07,0.008,mM,SP20311_20220803,,P08,JN01.2_+_BMS-345541_d4,JN01.2 + BMS-345541 d4,20,50,0.0032,uM,16,8
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O09,0.008,mM,SP20311_20220803,,P09,JN01.2_+_Gardiquimod_d4,JN01.2 + Gardiquimod d4,20,50,0.0032,uM,16,9
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O09,0.008,mM,SP20311_20220803,,P10,JN01.2_+_Gardiquimod_d4,JN01.2 + Gardiquimod d4,20,50,0.0032,uM,16,10
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O11,0.008,mM,SP20311_20220803,,P11,JN01.2_+_QNZ-10_d4,JN01.2 + QNZ-10 d4,20,50,0.0032,uM,16,11
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O11,0.008,mM,SP20311_20220803,,P12,JN01.2_+_QNZ-10_d4,JN01.2 + QNZ-10 d4,20,50,0.0032,uM,16,12
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O13,0.008,mM,SP20311_20220803,,P13,VM01.3_+_IKK-16_d4,VM01.3 + IKK-16  d4,20,50,0.0032,uM,16,13
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O13,0.008,mM,SP20311_20220803,,P14,VM01.3_+_IKK-16_d4,VM01.3 + IKK-16  d4,20,50,0.0032,uM,16,14
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O15,0.008,mM,SP20311_20220803,,P15,VM01.3+_L-name_d4,VM01.3+ L-name d4,20,50,0.0032,uM,16,15
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O15,0.008,mM,SP20311_20220803,,P16,VM01.3+_L-name_d4,VM01.3+ L-name d4,20,50,0.0032,uM,16,16
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O17,0.008,mM,SP20311_20220803,,P17,RP01.4_+_QNZ-10_d4,RP01.4 + QNZ-10 d4,20,50,0.0032,uM,16,17
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O17,0.008,mM,SP20311_20220803,,P18,RP01.4_+_QNZ-10_d4,RP01.4 + QNZ-10 d4,20,50,0.0032,uM,16,18
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O19,0.008,mM,SP20311_20220803,,P19,RP01.4_+_Gardiquimod_d4,RP01.4 + Gardiquimod d4,20,50,0.0032,uM,16,19
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O19,0.008,mM,SP20311_20220803,,P20,RP01.4_+_Gardiquimod_d4,RP01.4 + Gardiquimod d4,20,50,0.0032,uM,16,20
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O21,0.008,mM,SP20311_20220803,,P21,RP01.4_+_BMS-345541_d4,RP01.4 + BMS-345541 d4,20,50,0.0032,uM,16,21
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O21,0.008,mM,SP20311_20220803,,P22,RP01.4_+_BMS-345541_d4,RP01.4 + BMS-345541 d4,20,50,0.0032,uM,16,22
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O02,,,SP20311_20220803,,P23,LPS_P23,LPS,100,,,,16,23
+NonBioActiveCompounds+BackgroundMatrices_HF011,SP20311,O02,,,SP20311_20220803,,P24,LPS_P24,LPS,100,,,,16,24
