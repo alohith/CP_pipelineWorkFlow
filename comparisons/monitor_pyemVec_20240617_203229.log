@@ -1,0 +1,95 @@
+SP20305_DMSO
+SP20305_DMSO
+gunzip -c /home/halo384/cyto/MX5022.zip | tr '\r' '\n' > /data1/tmp/MX5022.lf.tab
+./scripts/tab2CSVAndFixHeader /data1/tmp/MX5022.lf.tab > /data1/tmp/MX5022.lf.csv
+./scripts/sortNamed  /data1/tmp/MX5022.lf.csv Cell_ID > /data1/tmp/MX5022.sorted.csv 
+targetIdx: 2
+./filter.pl /data1/tmp/MX5022.sorted.csv > /data1/tmp/MX5022.filtered.csv 
+./scripts/mergeSortedCellRows /data1/tmp/MX5022.filtered.csv  > /data1/tmp/MX5022.merged.csv
+python3 ./scripts/histdiff_elementsVector.py /data1/tmp/MX5022.merged.csv PlateMaps/SP20305_DMSO.csv 20 histdiff > /data1/tmp/MX5022.histdiff.dirtypy.csv
+Processing line 10000
+Processing line 20000
+Processing line 30000
+Processing line 40000
+Processing line 50000
+Processing line 60000
+Processing line 70000
+Processing line 80000
+Processing line 90000
+Processing line 100000
+Processing line 110000
+Processing line 120000
+Processing line 130000
+Processing line 140000
+Processing line 150000
+Processing line 160000
+Processing line 170000
+Processing line 180000
+Processing line 190000
+Processing line 200000
+Processing line 210000
+Processing line 220000
+Processing line 230000
+Processing line 240000
+Processing line 250000
+Processing line 260000
+Processing line 270000
+Processing line 280000
+Processing line 290000
+Processing line 300000
+Processing line 310000
+Processing line 320000
+Processing line 330000
+Processing line 340000
+Processing line 350000
+Processing line 360000
+Processing line 370000
+Processing line 380000
+Processing line 390000
+Processing line 400000
+Processing line 410000
+Processing line 420000
+Processing line 430000
+Processing line 440000
+Processing line 450000
+Processing line 460000
+Processing line 470000
+Processing line 480000
+Processing line 490000
+Processing line 500000
+Processing line 510000
+344 344
+['1400W_0.0078125mM', '1400W_0.015625mM', '1400W_0.03125mM', '1400W_0.0625mM', '1400W_0.125mM', '1400W_0.25mM', '1400W_0.5mM', '1400W_10.0mM', 'AVL292_0.0078125mM', 'AVL292_0.015625mM', 'AVL292_0.03125mM', 'AVL292_0.0625mM', 'AVL292_0.125mM', 'AVL292_0.25mM', 'AVL292_0.5mM', 'AVL292_10.0mM', 'Agmatine_0.0078125mM', 'Agmatine_0.015625mM', 'Agmatine_0.03125mM', 'Agmatine_0.0625mM', 'Agmatine_0.125mM', 'Agmatine_0.25mM', 'Agmatine_0.5mM', 'Agmatine_10.0mM', 'BMS-345541_0.0078125mM', 'BMS-345541_0.015625mM', 'BMS-345541_0.03125mM', 'BMS-345541_0.0625mM', 'BMS-345541_0.125mM', 'BMS-345541_0.25mM', 'BMS-345541_0.5mM', 'BMS-345541_10.0mM', 'Blank_0', 'Bx-A01_0', 'Bx-A02_0', 'Bx-B01_0', 'Bx-B02_0', 'Bx-B21_0', 'Bx-C01_0', 'Bx-C02_0', 'Bx-D01_0', 'Bx-D02_0', 'Bx-D21_0', 'Bx-E01_0', 'Bx-E02_0', 'Bx-F01_0', 'Bx-F02_0', 'Bx-F21_0', 'Bx-G01_0', 'Bx-G02_0', 'Bx-H01_0', 'Bx-H02_0', 'Bx-H21_0', 'Bx-I01_0', 'Bx-I02_0', 'Bx-J01_0', 'Bx-J02_0', 'Bx-J21_0', 'Bx-K01_0', 'Bx-K02_0', 'Bx-L01_0', 'Bx-L02_0', 'Bx-L21_0', 'Bx-M01_0', 'Bx-M02_0', 'Bx-N01_0', 'Bx-N02_0', 'Bx-N21_0', 'Bx-O01_0', 'Bx-O02_0', 'Bx-P01_0', 'Bx-P02_0', 'Bx-P21_0', 'CGI1746_0.0078125mM', 'CGI1746_0.015625mM', 'CGI1746_0.03125mM', 'CGI1746_0.0625mM', 'CGI1746_0.125mM', 'CGI1746_0.25mM', 'CGI1746_0.5mM', 'CGI1746_10.0mM', 'CNX-744_0.0078125mM', 'CNX-744_0.015625mM', 'CNX-744_0.03125mM', 'CNX-744_0.0625mM', 'CNX-744_0.125mM', 'CNX-744_0.25mM', 'CNX-744_0.5mM', 'CNX-744_10.0mM', 'Diacerin_0.0078125mM', 'Diacerin_0.015625mM', 'Diacerin_0.03125mM', 'Diacerin_0.0625mM', 'Diacerin_0.125mM', 'Diacerin_0.25mM', 'Diacerin_0.5mM', 'Diacerin_10.0mM', 'Diclofenac_Potassium_0.0078125mM', 'Diclofenac_Potassium_0.015625mM', 'Diclofenac_Potassium_0.03125mM', 'Diclofenac_Potassium_0.0625mM', 'Diclofenac_Potassium_0.125mM', 'Diclofenac_Potassium_0.25mM', 'Diclofenac_Potassium_0.5mM', 'Diclofenac_Potassium_10.0mM', 'Gardiquimod_trifluoroacetate_0.0078125mM', 'Gardiquimod_trifluoroacetate_0.015625mM', 'Gardiquimod_trifluoroacetate_0.03125mM', 'Gardiquimod_trifluoroacetate_0.0625mM', 'Gardiquimod_trifluoroacetate_0.125mM', 'Gardiquimod_trifluoroacetate_0.25mM', 'Gardiquimod_trifluoroacetate_0.5mM', 'Gardiquimod_trifluoroacetate_10.0mM', 'IKK-16_0.0078125mM', 'IKK-16_0.015625mM', 'IKK-16_0.03125mM', 'IKK-16_0.0625mM', 'IKK-16_0.125mM', 'IKK-16_0.25mM', 'IKK-16_0.5mM', 'IKK-16_10.0mM', 'IMD-0354_0.0078125mM', 'IMD-0354_0.015625mM', 'IMD-0354_0.03125mM', 'IMD-0354_0.0625mM', 'IMD-0354_0.125mM', 'IMD-0354_0.25mM', 'IMD-0354_0.5mM', 'IMD-0354_10.0mM', 'JN01_F1_10.0ug_ml', 'JN01_F1_100.0ug_ml', 'JN01_F2_10.0ug_ml', 'JN01_F2_100.0ug_ml', 'JN01_F3_10.0ug_ml', 'JN01_F3_100.0ug_ml', 'JN01_F4_10.0ug_ml', 'JN01_F4_100.0ug_ml', 'JN01_F5_10.0ug_ml', 'JN01_F5_100.0ug_ml', 'JN01_F6_10.0ug_ml', 'JN01_F6_100.0ug_ml', 'JN02_F1_10.0ug_ml', 'JN02_F1_100.0ug_ml', 'JN02_F2_10.0ug_ml', 'JN02_F2_100.0ug_ml', 'JN02_F3_10.0ug_ml', 'JN02_F3_100.0ug_ml', 'JN02_F4_10.0ug_ml', 'JN02_F4_100.0ug_ml', 'JN02_F5_10.0ug_ml', 'JN02_F5_100.0ug_ml', 'JN02_F6_10.0ug_ml', 'JN02_F6_100.0ug_ml', 'JSH-23_0.0078125mM', 'JSH-23_0.015625mM', 'JSH-23_0.03125mM', 'JSH-23_0.0625mM', 'JSH-23_0.125mM', 'JSH-23_0.25mM', 'JSH-23_0.5mM', 'JSH-23_10.0mM', 'L-NIL_0.0078125mM', 'L-NIL_0.015625mM', 'L-NIL_0.03125mM', 'L-NIL_0.0625mM', 'L-NIL_0.125mM', 'L-NIL_0.25mM', 'L-NIL_0.5mM', 'L-NIL_10.0mM', 'L-Name_0.0078125mM', 'L-Name_0.015625mM', 'L-Name_0.03125mM', 'L-Name_0.0625mM', 'L-Name_0.125mM', 'L-Name_0.25mM', 'L-Name_0.5mM', 'L-Name_10.0mM', 'LPS_A23_0', 'LPS_A24_0', 'LPS_B23_0', 'LPS_B24_0', 'LPS_C23_0', 'LPS_C24_0', 'LPS_D23_0', 'LPS_D24_0', 'LPS_E23_0', 'LPS_E24_0', 'LPS_F23_0', 'LPS_F24_0', 'LPS_G23_0', 'LPS_G24_0', 'LPS_H23_0', 'LPS_H24_0', 'LPS_I23_0', 'LPS_I24_0', 'LPS_J23_0', 'LPS_J24_0', 'LPS_K23_0', 'LPS_K24_0', 'LPS_L23_0', 'LPS_L24_0', 'LPS_M23_0', 'LPS_M24_0', 'LPS_N23_0', 'LPS_N24_0', 'LPS_O23_0', 'LPS_O24_0', 'LPS_P23_0', 'LPS_P24_0', 'Loesgen_cmpd-Mensacarcin_10.0mM', 'Plerixafor_0.0078125mM', 'Plerixafor_0.015625mM', 'Plerixafor_0.03125mM', 'Plerixafor_0.0625mM', 'Plerixafor_0.125mM', 'Plerixafor_0.25mM', 'Plerixafor_0.5mM', 'Plerixafor_10.0mM', 'QA01_F1_10.0ug_ml', 'QA01_F1_100.0ug_ml', 'QA01_F2_10.0ug_ml', 'QA01_F2_100.0ug_ml', 'QA01_F3_10.0ug_ml', 'QA01_F3_100.0ug_ml', 'QA01_F4_10.0ug_ml', 'QA01_F4_100.0ug_ml', 'QA01_F5_10.0ug_ml', 'QA01_F5_100.0ug_ml', 'QA01_F6_10.0ug_ml', 'QA01_F6_100.0ug_ml', 'QNZ-10_0.0078125mM', 'QNZ-10_0.015625mM', 'QNZ-10_0.03125mM', 'QNZ-10_0.0625mM', 'QNZ-10_0.125mM', 'QNZ-10_0.25mM', 'QNZ-10_0.5mM', 'QNZ-10_10.0mM', 'RLUS-2078D_10.0mM', 'RLUS-2088-C2_10.0mM', 'RLUS-2088-D2_10.0mM', 'RLUS-2169E_10.0mM', 'RP01_F1_10.0ug_ml', 'RP01_F1_100.0ug_ml', 'RP01_F2_10.0ug_ml', 'RP01_F2_100.0ug_ml', 'RP01_F3_10.0ug_ml', 'RP01_F3_100.0ug_ml', 'RP01_F4_10.0ug_ml', 'RP01_F4_100.0ug_ml', 'RP01_F5_10.0ug_ml', 'RP01_F5_100.0ug_ml', 'RP01_F6_10.0ug_ml', 'RP01_F6_100.0ug_ml', 'Reparixin-L-lysinesalt_0.015625mM', 'Reparixin_L-lysine_salt_10.0mM', 'Reparixin_L-lysinesalt_0.0078125mM', 'Reparixin_L-lysinesalt_0.03125mM', 'Reparixin_L-lysinesalt_0.0625mM', 'Reparixin_L-lysinesalt_0.125mM', 'Reparixin_L-lysinesalt_0.25mM', 'Reparixin_L-lysinesalt_mM', 'Resiquimod_0.0078125mM', 'Resiquimod_0.015625mM', 'Resiquimod_0.03125mM', 'Resiquimod_0.0625mM', 'Resiquimod_0.125mM', 'Resiquimod_0.25mM', 'Resiquimod_0.5mM', 'Resiquimod_10.0mM', 'SC75741_0.0078125mM', 'SC75741_0.015625mM', 'SC75741_0.03125mM', 'SC75741_0.0625mM', 'SC75741_0.125mM', 'SC75741_0.25mM', 'SC75741_0.5mM', 'SC75741_10.0mM', 'SNC024-14-3-1_100.0ug_ml', 'SNC024-14-3-2_100.0ug_ml', 'SNC024-14-3_10.0mM', 'SRT3190_0.0078125mM', 'SRT3190_0.015625mM', 'SRT3190_0.03125mM', 'SRT3190_0.0625mM', 'SRT3190_0.125mM', 'SRT3190_0.25mM', 'SRT3190_0.5mM', 'SRT3190_10.0mM', 'SW218699-1_10.0mM', 'SW218706-1_10.0mM', 'SW218780-1_10.0mM', 'SW218852-1_10.0mM', 'SW218858-1_10.0mM', 'SW218864-1_10.0mM', 'SW218929-1_10.0mM', 'Suplatast-tosilate_0.03125mM', 'Suplatast_(tosilate)_10.0mM', 'Suplatast_tosilate_0.0078125mM', 'Suplatast_tosilate_0.015625mM', 'Suplatast_tosilate_0.0625mM', 'Suplatast_tosilate_0.125mM', 'Suplatast_tosilate_0.25mM', 'Suplatast_tosilate_0.5mM', 'Toll-like_receptor_modulator_0.0078125mM', 'Toll-like_receptor_modulator_0.015625mM', 'Toll-like_receptor_modulator_0.03125mM', 'Toll-like_receptor_modulator_0.0625mM', 'Toll-like_receptor_modulator_0.125mM', 'Toll-like_receptor_modulator_0.25mM', 'Toll-like_receptor_modulator_0.5mM', 'Toll-like_receptor_modulator_10.0mM', 'VM01_F1_10.0ug_ml', 'VM01_F1_100.0ug_ml', 'VM01_F2_10.0ug_ml', 'VM01_F2_100.0ug_ml', 'VM01_F3_10.0ug_ml', 'VM01_F3_100.0ug_ml', 'VM01_F4_10.0ug_ml', 'VM01_F4_100.0ug_ml', 'VM01_F5_10.0ug_ml', 'VM01_F5_100.0ug_ml', 'VM01_F6_10.0ug_ml', 'VM01_F6_100.0ug_ml', 'antipyrine_0.0078125mM', 'antipyrine_0.015625mM', 'antipyrine_0.03125mM', 'antipyrine_0.0625mM', 'antipyrine_0.125mM', 'antipyrine_0.25mM', 'antipyrine_0.5mM', 'antipyrine_10.0mM', 'bastyr-oplopanax_10.0mg_ml', 'diclofenac_0.0078125mM', 'diclofenac_0.015625mM', 'diclofenac_0.03125mM', 'diclofenac_0.0625mM', 'diclofenac_0.125mM', 'diclofenac_0.25mM', 'diclofenac_0.5mM', 'diclofenac_10.0mM', 'ibrutinib_0.0078125mM', 'ibrutinib_0.015625mM', 'ibrutinib_0.03125mM', 'ibrutinib_0.0625mM', 'ibrutinib_0.125mM', 'ibrutinib_0.25mM', 'ibrutinib_0.5mM', 'ibrutinib_10.0mM', 'nimesulide_0.0078125mM', 'nimesulide_0.015625mM', 'nimesulide_0.03125mM', 'nimesulide_0.0625mM', 'nimesulide_0.125mM', 'nimesulide_0.25mM', 'nimesulide_0.5mM', 'nimesulide_10.0mM', 'phenacetin_0.0078125mM', 'phenacetin_0.015625mM', 'phenacetin_0.03125mM', 'phenacetin_0.0625mM', 'phenacetin_0.125mM', 'phenacetin_0.25mM', 'phenacetin_0.5mM', 'phenacetin_10.0mM', 'triflusal_0.0078125mM', 'triflusal_0.015625mM', 'triflusal_0.03125mM', 'triflusal_0.0625mM', 'triflusal_0.125mM', 'triflusal_0.25mM', 'triflusal_0.5mM', 'triflusal_10.0mM']
+RAM usage: 2041700, run-time (s): 163.1634
+./renameWavelengths.pl /data1/tmp/MX5022.histdiff.dirtypy.csv "'W1" >/data1/tmp/MX5022.histdiff.renamedpy.csv
+$VAR1 = {
+          '\'W1' => undef
+        };
+Reading in table from '/data1/tmp/MX5022.histdiff.temppy.csv'... done (154 by 374).
+Transposing to 374 by 154... done.
+removing temporary files...
+started at 20240617-2032 and finished at 20240617-2037
+done.
+	Command being timed: "./process3.sh MX5022 PlateMaps/SP20305_DMSO.csv 20 histdiff 'W1 DAPI W2 TUBULIN W2 EdU W4 CALNEXIN'"
+	User time (seconds): 306.37
+	System time (seconds): 45.57
+	Percent of CPU this job got: 108%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:24.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2041700
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3239122
+	Voluntary context switches: 261424
+	Involuntary context switches: 2008
+	Swaps: 0
+	File system inputs: 12139263
+	File system outputs: 10440768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

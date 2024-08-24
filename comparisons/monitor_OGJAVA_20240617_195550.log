@@ -1,0 +1,153 @@
+gunzip -c /home/halo384/cyto/MX5022.zip | tr '\r' '\n' > /data1/tmp/MX5022.lf.tab
+./scripts/tab2CSVAndFixHeader /data1/tmp/MX5022.lf.tab > /data1/tmp/MX5022.lf.csv
+./scripts/sortNamed  /data1/tmp/MX5022.lf.csv Cell_ID > /data1/tmp/MX5022.sorted.csv 
+targetIdx: 2
+./filter.pl /data1/tmp/MX5022.sorted.csv > /data1/tmp/MX5022.filtered.csv 
+./scripts/mergeSortedCellRows /data1/tmp/MX5022.filtered.csv  > /data1/tmp/MX5022.merged.csv
+./scripts/computeFeatureByCompoundTable /data1/tmp/MX5022.merged.csv PlateMaps/SP20305_DMSO.csv 20 histdiff > /data1/tmp/MX5022.histdiff.dirty.csv
+wellIdx=2
+compoundIdx=4
+molarityIdx=5
+Scanning /data1/tmp/MX5022.merged.csv to find feature max and mins...
+Preprocessing line 10000
+Preprocessing line 20000
+Preprocessing line 30000
+Preprocessing line 40000
+Preprocessing line 50000
+Preprocessing line 60000
+Preprocessing line 70000
+Preprocessing line 80000
+Preprocessing line 90000
+Preprocessing line 100000
+Preprocessing line 110000
+Preprocessing line 120000
+Preprocessing line 130000
+Preprocessing line 140000
+Preprocessing line 150000
+Preprocessing line 160000
+Preprocessing line 170000
+Preprocessing line 180000
+Preprocessing line 190000
+Preprocessing line 200000
+Preprocessing line 210000
+Preprocessing line 220000
+Preprocessing line 230000
+Preprocessing line 240000
+Preprocessing line 250000
+Preprocessing line 260000
+Preprocessing line 270000
+Preprocessing line 280000
+Preprocessing line 290000
+Preprocessing line 300000
+Preprocessing line 310000
+Preprocessing line 320000
+Preprocessing line 330000
+Preprocessing line 340000
+Preprocessing line 350000
+Preprocessing line 360000
+Preprocessing line 370000
+Preprocessing line 380000
+Preprocessing line 390000
+Preprocessing line 400000
+Preprocessing line 410000
+Preprocessing line 420000
+Preprocessing line 430000
+Preprocessing line 440000
+Preprocessing line 450000
+Preprocessing line 460000
+Preprocessing line 470000
+Preprocessing line 480000
+Preprocessing line 490000
+Preprocessing line 500000
+Preprocessing line 510000
+Done preprocessing /data1/tmp/MX5022.merged.csv
+about to call DataUtils.getCpMByFeatureMap()
+Processing line 10000
+Processing line 20000
+Processing line 30000
+Processing line 40000
+Processing line 50000
+Processing line 60000
+Processing line 70000
+Processing line 80000
+Processing line 90000
+Processing line 100000
+Processing line 110000
+Processing line 120000
+Processing line 130000
+Processing line 140000
+Processing line 150000
+Processing line 160000
+Processing line 170000
+Processing line 180000
+Processing line 190000
+Processing line 200000
+Processing line 210000
+Processing line 220000
+Processing line 230000
+Processing line 240000
+Processing line 250000
+Processing line 260000
+Processing line 270000
+Processing line 280000
+Processing line 290000
+Processing line 300000
+Processing line 310000
+Processing line 320000
+Processing line 330000
+Processing line 340000
+Processing line 350000
+Processing line 360000
+Processing line 370000
+Processing line 380000
+Processing line 390000
+Processing line 400000
+Processing line 410000
+Processing line 420000
+Processing line 430000
+Processing line 440000
+Processing line 450000
+Processing line 460000
+Processing line 470000
+Processing line 480000
+Processing line 490000
+Processing line 500000
+Processing line 510000
+About to return
+CpMByFeature.size=50949
+CpMSet.size = 333
+./renameWavelengths.pl /data1/tmp/MX5022.histdiff.dirty.csv "'W1" >/data1/tmp/MX5022.histdiff.renamed.csv
+$VAR1 = {
+          '\'W1' => undef
+        };
+Reading in table from '/data1/tmp/MX5022.histdiff.temp.csv'... done (154 by 334).
+Transposing to 334 by 154... done.
+cp: cannot create regular file '/var/www/html/cyto/./MX5022.histdiff.csv': Permission denied
+./scripts/featureByCompoundHeatmap MX5022.histdiff.csv MX5022 heatmap_pdf/MX5022.pdf heatmap_cdt/MX5022.cdt
+/usr/bin/env: Rscript: No such file or directory
+removing temporary files...
+started at 20240617-1955 and finished at 20240617-1959
+done.
+	Command being timed: "./process2.sh MX5022 PlateMaps/SP20305_DMSO.csv 20 histdiff 'W1 DAPI W2 TUBULIN W2 EdU W4 CALNEXIN'"
+	User time (seconds): 203.34
+	System time (seconds): 46.33
+	Percent of CPU this job got: 118%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:30.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1031768
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3698657
+	Voluntary context switches: 276082
+	Involuntary context switches: 2414
+	Swaps: 0
+	File system inputs: 13543042
+	File system outputs: 10435158
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
