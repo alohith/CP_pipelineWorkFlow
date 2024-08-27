@@ -24,13 +24,21 @@ def main():
     infoFile = pd.read_csv(sys.argv[2])
 
     platemapInfo = infoFile[infoFile["SignalsUUID"] == uuid]
-    platemapInfo = platemapInfo[plateMapCol].values[0]
+    platemap = platemapInfo[plateMapCol].values[0]
+    expDate = platemapInfo['Experiment_Date'].values[0]
+    cellLine = platemapInfo['Cell_Line'].values[0]
+    timepoint = platemapInfo['Timepoint'].values[0]
+    magnification = platemapInfo['Magnification'].values[0]
 
+    # Experiment Date + Plate Map File + Cell Line + Timepoint + Magnification
+    
     humReadName = infoFile[infoFile["SignalsUUID"] == uuid]
     humReadName = humReadName["Human_Readable_Name"].values[0]
-    print(platemapInfo, file=sys.stdout)  # print to stdout for bash script to use
-    print(humReadName, file=sys.stdout)
-
+    
+    outName = "_".join([expDate,platemap,cellLine,timepoint,magnification,humReadName])
+    print(platemap, file=sys.stdout)  # print to stdout for bash script to use
+    print(outName, file=sys.stdout)
+    
     return 0
 
 
