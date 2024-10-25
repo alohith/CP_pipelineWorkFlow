@@ -35,7 +35,8 @@ def main():
     humReadName = infoFile[infoFile["SignalsUUID"] == uuid]
     humReadName = humReadName["Human_Readable_Name"].values[0]
     
-    outName = "_".join([expDate,platemap,cellLine,timepoint,magnification,humReadName])
+    outName = f"{expDate:d}_{platemap}_{cellLine}_{timepoint:d}_{magnification}_{humReadName}"
+    # .join([expDate,platemap,cellLine,timepoint,magnification,humReadName])
     print(platemap, file=sys.stdout)  # print to stdout for bash script to use
     print(outName, file=sys.stdout)
     
